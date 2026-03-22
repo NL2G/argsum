@@ -1,0 +1,462 @@
+{
+  "scores": {
+    "Routine child vaccinations should be mandatory": {
+      "1": {
+        "(0.75,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.53,
+          "llm_redundancy": 0.03749999999999998,
+          "runtime": 32.12118
+        },
+        "(0.775,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.0,
+          "llm_redundancy": 0.0,
+          "runtime": 26.29171
+        },
+        "(0.8,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.49000000000000005,
+          "llm_redundancy": 0.17499999999999993,
+          "runtime": 31.69556
+        },
+        "(0.8250000000000001,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.54,
+          "llm_redundancy": 0.19999999999999996,
+          "runtime": 30.33015
+        },
+        "(0.8500000000000001,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.48,
+          "llm_redundancy": 0.09000000000000008,
+          "runtime": 31.83624
+        },
+        "(0.8750000000000001,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.8,
+          "llm_redundancy": 0.28125,
+          "runtime": 33.128
+        },
+        "(0.9000000000000001,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.6,
+          "llm_redundancy": 0.040000000000000036,
+          "runtime": 34.58666
+        },
+        "(0.9250000000000002,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.8400000000000001,
+          "llm_redundancy": 0.44000000000000006,
+          "runtime": 38.78623
+        },
+        "(0.9500000000000002,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.5599999999999999,
+          "llm_redundancy": 0.2928571428571428,
+          "runtime": 34.2109
+        }
+      },
+      "-1": {
+        "(0.75,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.5875,
+          "llm_redundancy": 0.11428571428571421,
+          "runtime": 40.97027
+        },
+        "(0.775,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.9125,
+          "llm_redundancy": 0.44285714285714284,
+          "runtime": 45.90312
+        },
+        "(0.8,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.4875,
+          "llm_redundancy": 0.21250000000000002,
+          "runtime": 40.69246
+        },
+        "(0.8250000000000001,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.9125,
+          "llm_redundancy": 0.4083333333333333,
+          "runtime": 46.64467
+        },
+        "(0.8500000000000001,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.8125,
+          "llm_redundancy": 0.2863636363636364,
+          "runtime": 41.17811
+        },
+        "(0.8750000000000001,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.8875,
+          "llm_redundancy": 0.3590909090909091,
+          "runtime": 46.12518
+        },
+        "(0.9000000000000001,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.9375,
+          "llm_redundancy": 0.31666666666666676,
+          "runtime": 44.16271
+        },
+        "(0.9250000000000002,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.9,
+          "llm_redundancy": 0.31666666666666676,
+          "runtime": 44.31021
+        },
+        "(0.9500000000000002,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.9125,
+          "llm_redundancy": 0.19999999999999996,
+          "runtime": 42.75477
+        }
+      }
+    },
+    "Social media platforms should be regulated by the government": {
+      "1": {
+        "(0.75,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.65,
+          "llm_redundancy": 0.11250000000000004,
+          "runtime": 32.35195
+        },
+        "(0.775,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.8300000000000001,
+          "llm_redundancy": 0.2666666666666666,
+          "runtime": 40.28631
+        },
+        "(0.8,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.4,
+          "llm_redundancy": 0.30384615384615377,
+          "runtime": 39.23491
+        },
+        "(0.8250000000000001,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.08,
+          "llm_redundancy": 0.2958333333333334,
+          "runtime": 36.76435
+        },
+        "(0.8500000000000001,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.06999999999999999,
+          "llm_redundancy": 0.23888888888888893,
+          "runtime": 34.50045
+        },
+        "(0.8750000000000001,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.7,
+          "llm_redundancy": 0.08571428571428563,
+          "runtime": 31.74729
+        },
+        "(0.9000000000000001,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.47000000000000003,
+          "llm_redundancy": 0.18888888888888888,
+          "runtime": 33.74245
+        },
+        "(0.9250000000000002,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.9400000000000001,
+          "llm_redundancy": 0.18000000000000005,
+          "runtime": 33.72326
+        },
+        "(0.9500000000000002,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.7,
+          "llm_redundancy": 0.2142857142857143,
+          "runtime": 30.89817
+        }
+      },
+      "-1": {
+        "(0.75,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.8099999999999999,
+          "llm_redundancy": 0.18000000000000005,
+          "runtime": 36.92761
+        },
+        "(0.775,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.82,
+          "llm_redundancy": 0.1416666666666666,
+          "runtime": 33.00838
+        },
+        "(0.8,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.74,
+          "llm_redundancy": 0.18333333333333335,
+          "runtime": 38.33343
+        },
+        "(0.8250000000000001,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.76,
+          "llm_redundancy": 0.17222222222222217,
+          "runtime": 34.57205
+        },
+        "(0.8500000000000001,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.85,
+          "llm_redundancy": 0.29500000000000004,
+          "runtime": 36.66712
+        },
+        "(0.8750000000000001,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.9099999999999999,
+          "llm_redundancy": 0.25,
+          "runtime": 40.97818
+        },
+        "(0.9000000000000001,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.86,
+          "llm_redundancy": 0.08888888888888902,
+          "runtime": 34.47211
+        },
+        "(0.9250000000000002,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.8400000000000001,
+          "llm_redundancy": 0.26875000000000004,
+          "runtime": 32.47202
+        },
+        "(0.9500000000000002,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.53,
+          "llm_redundancy": 0.19000000000000006,
+          "runtime": 28.11735
+        }
+      }
+    },
+    "The USA is a good country to live in": {
+      "1": {
+        "(0.75,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.9571428571428572,
+          "llm_redundancy": 0.15333333333333343,
+          "runtime": 47.10156
+        },
+        "(0.775,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.9214285714285715,
+          "llm_redundancy": 0.25,
+          "runtime": 44.71771
+        },
+        "(0.8,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.9642857142857143,
+          "llm_redundancy": 0.050000000000000044,
+          "runtime": 44.58081
+        },
+        "(0.8250000000000001,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.9500000000000001,
+          "llm_redundancy": 0.11999999999999988,
+          "runtime": 41.23649
+        },
+        "(0.8500000000000001,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.9428571428571428,
+          "llm_redundancy": 0.23750000000000004,
+          "runtime": 49.05892
+        },
+        "(0.8750000000000001,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.9,
+          "llm_redundancy": 0.25769230769230766,
+          "runtime": 46.94782
+        },
+        "(0.9000000000000001,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.9,
+          "llm_redundancy": 0.15000000000000002,
+          "runtime": 43.10583
+        },
+        "(0.9250000000000002,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.8857142857142858,
+          "llm_redundancy": 0.10909090909090902,
+          "runtime": 46.08035
+        },
+        "(0.9500000000000002,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.7357142857142858,
+          "llm_redundancy": 0.21250000000000002,
+          "runtime": 39.45684
+        }
+      },
+      "-1": {
+        "(0.75,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.8714285714285713,
+          "llm_redundancy": 0.18999999999999995,
+          "runtime": 27.98358
+        },
+        "(0.775,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.9500000000000001,
+          "llm_redundancy": 0.26249999999999996,
+          "runtime": 30.7827
+        },
+        "(0.8,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.7857142857142857,
+          "llm_redundancy": 0.14,
+          "runtime": 26.77567
+        },
+        "(0.8250000000000001,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.8071428571428572,
+          "llm_redundancy": 0.06428571428571428,
+          "runtime": 25.9772
+        },
+        "(0.8500000000000001,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.7714285714285715,
+          "llm_redundancy": 0.08846153846153848,
+          "runtime": 24.93614
+        },
+        "(0.8750000000000001,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.8571428571428571,
+          "llm_redundancy": 0.12307692307692308,
+          "runtime": 42.65961
+        },
+        "(0.9000000000000001,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.7999999999999999,
+          "llm_redundancy": 0.13076923076923075,
+          "runtime": 31.52672
+        },
+        "(0.9250000000000002,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.7428571428571429,
+          "llm_redundancy": 0.19999999999999996,
+          "runtime": 28.8552
+        },
+        "(0.9500000000000002,)": {
+          "bert_score_p": null,
+          "bart_score_parabank_rs": null,
+          "coverage_score": null,
+          "llm_coverage": 0.7142857142857143,
+          "llm_redundancy": 0.050000000000000044,
+          "runtime": 25.23504
+        }
+      }
+    }
+  },
+  "parameter_names": ["match_scorer_t"],
+  "parameter_values": [
+    [
+      0.75, 0.775, 0.8, 0.8250000000000001, 0.8500000000000001,
+      0.8750000000000001, 0.9000000000000001, 0.9250000000000002,
+      0.9500000000000002
+    ]
+  ]
+}

@@ -1,0 +1,6 @@
+dataset,system,method,llm,weighted,coverage,redundancy
+Debate_test,MCArgSum,Cluster,llama-3.3-70b-instruct,0.7293394510582012,0.63578125,0.08354414682539682
+Debate_test,MCArgSum,Cluster,qwen-2.5-72b-instruct,0.8796683351370851,0.88671875,0.13443249458874457
+Debate_test,MCArgSum,Cluster,qwen3-32b,0.8977416853979353,0.89625,0.0992749438061938
+Debate_test,MCArgSum,cluster,gpt-4o,0.8855419580419581,0.88421875,0.11181162587412587
+Debate_test,USKPM,cluster,None,0.8330424031986532,0.805625,0.11212279040404043

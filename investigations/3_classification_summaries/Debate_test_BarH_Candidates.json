@@ -1,0 +1,1891 @@
+{
+  "summaries": {
+    "(0.75,)": {
+      "abortion": {
+        "-1": {
+          "sum_ids": [
+            5, 5, 5, 5, 5, 5, 5, 14, 5, 5, 5, 5, 5, 5, 3, 5, 2, 0, 0, 0, 0, 2,
+            0, 3, 0, 2, 2, 0, 13, 0, 14, 0, 0, 0, 14, 0, 0, 0, 0, 0, 0, 0, 2, 1,
+            2, 0, 3, 2, 0, 13, 0, 0, 0, 2, 8, 0, 0, 2, 3, 0, 1, 0, 3, 0, 0, 3,
+            2, 0, 8, 0, 0, 3, 3, 0, 0, 0, 1, 1, 1, 6, 4, 9, 1, 1, 6, 4, 1, 9, 1,
+            4, 4, 6, 6, 1, 8, 3, 13, 12, 0, 0, 6, 4, 1, 4, 4, 3, 1, 1, 6, 3, 1,
+            6, 1, 1, 9, 6, 6, 1, 1, 1, 9, 1, 6, 1, 14, 1, 14, 11, 11, 6, 1, 7,
+            8, 11, 11, 7, 2, 7, 14, 7, 12, 0, 11, 11, 11, 8, 11, 14, 10, 10
+          ],
+          "sums": {
+            "0": "Abortion equates to murder.",
+            "1": "Fetus is a living being.",
+            "2": "Abortion is morally wrong.",
+            "3": " Abortion denies potential life.",
+            "4": "Unborn have rights too.",
+            "5": "Adoption is a viable alternative.",
+            "6": "Life begins at conception.",
+            "7": "Take responsibility for actions.",
+            "8": " Abortion is not justified.",
+            "9": " Unborn are future individuals.",
+            "10": " Abortion causes psychological harm.",
+            "11": " Abortion is irresponsible.",
+            "12": "Abortion eliminates potential contributions.",
+            "13": " Abortion is inhumane.",
+            "14": "Abortion is a selfish choice."
+          },
+          "runtime": 79.2339
+        },
+        "1": {
+          "sum_ids": [
+            2, 0, 1, 0, 0, 0, 1, 1, 0, 0, 5, 0, 1, 0, 1, 1, 0, 0, 5, 3, 0, 0, 1,
+            5, 1, 2, 1, 0, 0, 1, 0, 7, 1, 4, 5, 0, 0, 4, 1, 1, 0, 1, 0, 2, 5, 0,
+            0, 1, 0, 1, 1, 4, 1, 0, 0, 1, 5, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5,
+            5, 5, 3, 5, 5, 4, 5, 4, 2, 4, 4, 2, 4, 4, 0, 4, 4, 4, 2, 4, 2, 4, 3,
+            1, 4, 3, 0, 3, 2, 0, 4, 1, 3, 4, 4, 4, 5, 4, 4, 4, 5, 1, 4, 4, 4, 1,
+            4, 1, 4, 1, 3, 4, 1, 4, 3, 4, 4, 3, 3, 4, 0, 4, 4, 2, 4, 4, 0, 2, 1,
+            5, 1, 5, 6, 6, 0, 2, 3, 0, 1, 5, 3, 3, 5, 3, 3, 7, 4, 7, 4, 7, 3, 3,
+            7, 3, 3, 3, 7, 1, 4, 5, 1, 1, 5, 1, 2, 2, 2, 2, 2, 2, 2, 1, 3, 3, 4,
+            7, 3, 3
+          ],
+          "sums": {
+            "0": "Abortion protects bodily autonomy.",
+            "1": "Women's health decisions are personal.",
+            "2": "Abortion isn't murder legally.",
+            "3": "Abortion prevents unwanted child suffering.",
+            "4": " Fetal personhood isn't established.",
+            "5": "Rape victims deserve abortion rights.",
+            "6": " Abortion preserves women's futures.",
+            "7": " Abortion reduces orphanage burdens."
+          },
+          "runtime": 79.94701
+        }
+      },
+      "gayRights": {
+        "-1": {
+          "sum_ids": [
+            1, 2, 1, 1, 3, 2, 1, 1, 1, 2, 2, 3, 1, 7, 1, 1, 9, 2, 1, 3, 3, 1, 0,
+            4, 2, 2, 2, 2, 2, 2, 3, 2, 0, 0, 10, 0, 5, 2, 0, 0, 0, 0, 2, 0, 9,
+            0, 2, 2, 2, 8, 0, 7, 2, 2, 7, 0, 5, 8, 4, 1, 4, 0, 3, 4, 4, 4, 4, 5,
+            4, 7, 6, 6, 7, 8, 3, 7, 8, 7, 3, 5, 8, 4
+          ],
+          "sums": {
+            "0": "Gay marriage contradicts procreation goals.",
+            "1": "Homosexuality is against religious beliefs.",
+            "2": "Marriage is between man and woman.",
+            "3": "Homosexuality is considered immoral.",
+            "4": "Children need both mother and father.",
+            "5": " Homosexuality opposes life purpose.",
+            "6": "Gay marriage harms societal norms.",
+            "7": " Gay marriage disrupts family morals.",
+            "8": " Homosexuality is not a natural state.",
+            "9": " Gay marriage lacks legal recognition.",
+            "10": " Gay couples can't naturally reproduce."
+          },
+          "runtime": 42.85207
+        },
+        "1": {
+          "sum_ids": [
+            5, 7, 4, 3, 12, 1, 12, 7, 4, 4, 4, 7, 12, 11, 12, 4, 4, 7, 12, 5,
+            11, 5, 5, 1, 4, 11, 7, 1, 1, 0, 10, 11, 0, 8, 0, 11, 2, 11, 0, 11,
+            0, 2, 9, 10, 6, 0, 0, 0, 0, 2, 8, 6, 2, 1, 11, 8, 1, 2, 1, 12, 11,
+            12, 8, 1, 6, 2, 10, 10, 11, 8, 2, 0, 1, 5, 11, 1, 11, 3, 2, 1, 2, 2,
+            12, 2, 11, 2, 0, 2, 1, 2, 4, 1, 5, 1, 0, 12, 2, 11, 1, 8, 11, 0, 1,
+            12, 9, 8, 2, 1, 12, 2, 1, 1, 2, 2, 2, 0, 1, 0, 0, 0, 4, 6, 0, 1, 1,
+            1, 11, 6, 0, 11, 8, 12, 12, 11, 5, 4, 7, 7, 11, 12, 8, 11, 12, 12,
+            7, 7, 5, 11, 10, 6, 12, 12, 4, 4, 4, 12, 4, 3, 0, 12, 11, 3, 12, 3,
+            0, 6, 3, 3, 3, 3, 3, 5, 3, 11, 3, 12, 0, 12, 6, 3, 6, 12, 11, 12,
+            11, 12, 3, 11, 12, 7, 12, 3, 0, 11, 11, 12, 12, 3, 12, 9, 8, 8, 11,
+            12, 8, 11, 8, 11, 9, 11, 11, 11, 11, 4, 2, 11
+          ],
+          "sums": {
+            "0": "Consenting adults' choice.",
+            "1": "Equal marriage rights.",
+            "2": "Equal rights for all.",
+            "3": " Homosexuality is natural.",
+            "4": "No impact on others.",
+            "5": "No harm to society.",
+            "6": " Pursuit of happiness.",
+            "7": "Love is not harmful.",
+            "8": " Equality under the law.",
+            "9": "Legal recognition of love.",
+            "10": " No legal basis for denial.",
+            "11": " Religious beliefs irrelevant.",
+            "12": " Same rights, same love."
+          },
+          "runtime": 104.65782
+        }
+      },
+      "marijuana": {
+        "-1": {
+          "sum_ids": [
+            4, 0, 4, 0, 4, 0, 0, 3, 0, 3, 4, 0, 0, 6, 6, 7, 6, 0, 5, 2, 0, 1, 0,
+            0, 0, 0, 2, 4, 2, 0, 0, 4, 2, 0, 0, 0, 0, 2, 0, 3, 3, 1, 1, 3, 5, 1,
+            0, 0, 1, 0, 0, 3, 3, 2, 3, 3, 3, 2, 2, 1, 1, 1, 1, 0, 6, 1, 3, 1, 1,
+            1, 1, 2, 1, 4, 6, 1, 1
+          ],
+          "sums": {
+            "0": " Marijuana is harmful to mental health.",
+            "1": "Marijuana causes addiction.",
+            "2": "Marijuana impairs memory.",
+            "3": " Marijuana increases crime potential.",
+            "4": "Passive smoking harms others.",
+            "5": " Marijuana contributes to obesity.",
+            "6": " Marijuana causes lung cancer.",
+            "7": " Marijuana affects sexual functions."
+          },
+          "runtime": 40.08596
+        },
+        "1": {
+          "sum_ids": [
+            2, 14, 5, 2, 16, 13, 2, 5, 2, 2, 2, 2, 5, 5, 5, 5, 14, 8, 2, 9, 5,
+            8, 16, 2, 8, 2, 2, 7, 2, 8, 1, 5, 5, 9, 2, 15, 2, 9, 12, 5, 5, 2, 5,
+            2, 2, 5, 2, 8, 5, 2, 2, 5, 8, 9, 5, 9, 5, 8, 5, 8, 9, 2, 2, 14, 12,
+            12, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 8, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            12, 12, 9, 1, 1, 15, 1, 12, 1, 15, 4, 0, 4, 10, 4, 0, 10, 0, 0, 0,
+            6, 10, 4, 11, 0, 7, 0, 7, 0, 8, 11, 11, 10, 13, 10, 4, 0, 0, 4, 4,
+            7, 10, 0, 4, 2, 7, 4, 0, 11, 10, 4, 16, 0, 4, 0, 1, 10, 0, 6, 11, 4,
+            15, 0, 7, 10, 4, 10, 10, 0, 10, 10, 4, 1, 8, 7, 2, 4, 4, 0, 3, 4, 0,
+            2, 10, 4, 10, 11, 0, 8, 10, 10, 0, 4, 16, 0, 2, 5, 3, 4, 6, 10, 3,
+            3, 3, 3, 3, 3, 3, 3, 10, 15, 3, 3, 15, 3, 6, 3, 2, 3, 16, 3, 1, 3,
+            3, 5, 3, 3, 10, 3, 3, 10, 3, 3, 3, 6, 7, 3, 16, 3, 2, 12, 3, 13, 8,
+            10, 3, 10, 13, 6, 8, 3, 1, 5, 14, 2, 16, 14, 8, 15, 8, 8, 15, 13, 1,
+            8, 1, 8
+          ],
+          "sums": {
+            "0": "Legalization boosts the economy.",
+            "1": "Marijuana has medicinal benefits.",
+            "2": "Marijuana is less harmful than tobacco.",
+            "3": " Legalization respects personal freedom.",
+            "4": " Legalization saves government money.",
+            "5": "Marijuana is safer than alcohol.",
+            "6": "Legalization reduces prison overcrowding.",
+            "7": "Legalization allows regulation and safety.",
+            "8": " Marijuana has no overdose risk.",
+            "9": "Marijuana is not physically addictive.",
+            "10": "Legalization reduces crime rates.",
+            "11": " Legalization reduces black market activity.",
+            "12": "Marijuana enhances creativity.",
+            "13": " Marijuana is a victimless crime.",
+            "14": " Marijuana use does not cause aggression.",
+            "15": " Marijuana does not impair memory long-term.",
+            "16": " Marijuana is not a gateway drug."
+          },
+          "runtime": 155.31196
+        }
+      },
+      "obama": {
+        "-1": {
+          "sum_ids": [
+            11, 11, 9, 4, 9, 4, 11, 2, 1, 11, 11, 9, 3, 4, 9, 2, 9, 4, 1, 3, 9,
+            11, 2, 2, 2, 10, 10, 2, 2, 2, 9, 8, 8, 4, 4, 1, 0, 0, 7, 4, 2, 2, 2,
+            6, 6, 7, 6, 2, 11, 2, 2, 6, 1, 2, 6, 6, 5, 0, 11, 2, 2, 2, 2, 2, 2,
+            2, 7, 2, 2, 2, 2, 2, 4, 5, 2, 2, 2, 7, 2
+          ],
+          "sums": {
+            "0": "Healthcare policy unpopular.",
+            "1": "Increased national debt significantly.",
+            "2": " Labeled as inexperienced leader.",
+            "3": "Raised taxes during recession.",
+            "4": "Lacks economic understanding.",
+            "5": " Compromised too much with Republicans.",
+            "6": " Policies seen as authoritarian.",
+            "7": " Strained bipartisan relationships.",
+            "8": "Unemployment remains high.",
+            "9": "Economy hasn't fully recovered.",
+            "10": "Failed to end wars.",
+            "11": "Expanded government spending."
+          },
+          "runtime": 37.98941
+        },
+        "1": {
+          "sum_ids": [
+            0, 0, 0, 9, 2, 6, 2, 7, 0, 0, 2, 0, 0, 6, 0, 6, 3, 0, 0, 2, 1, 2, 0,
+            6, 2, 0, 6, 6, 8, 5, 5, 8, 5, 8, 5, 8, 8, 8, 8, 5, 5, 8, 5, 6, 6, 8,
+            6, 6, 1, 8, 8, 0, 8, 8, 1, 1, 5, 9, 8, 8, 6, 8, 9, 3, 4, 4, 2, 3, 6,
+            10, 3, 9, 3, 3, 8, 3, 6, 6, 9, 8, 9, 3, 4, 6, 8, 9, 8, 6, 8, 9, 8,
+            6, 8, 3, 4, 4, 4, 9, 9, 4, 4, 4, 9, 8, 5, 6, 3, 8, 8, 8, 6, 6, 8, 8,
+            1, 1, 1, 1, 6, 1
+          ],
+          "sums": {
+            "0": "Stimulus package boosted economy.",
+            "1": "Increased job growth.",
+            "2": "Middle class tax cuts.",
+            "3": "Repealed DADT.",
+            "4": " Expanded healthcare access.",
+            "5": "Ended war in Iraq.",
+            "6": " Reduced unemployment rates.",
+            "7": "Saved the auto industry.",
+            "8": "Killed Osama Bin Laden.",
+            "9": "Affordable healthcare reform.",
+            "10": " Advocated for gay rights."
+          },
+          "runtime": 56.10013
+        }
+      }
+    },
+    "(0.775,)": {
+      "abortion": {
+        "-1": {
+          "sum_ids": [
+            5, 5, 5, 5, 5, 5, 5, 11, 5, 5, 5, 5, 5, 5, 4, 5, 3, 0, 0, 0, 0, 3,
+            0, 9, 0, 3, 3, 0, 0, 0, 11, 0, 0, 0, 11, 0, 0, 0, 0, 0, 0, 0, 3, 1,
+            3, 0, 4, 3, 0, 3, 0, 0, 0, 3, 0, 0, 0, 3, 4, 0, 4, 0, 4, 0, 0, 4, 3,
+            0, 0, 0, 0, 4, 0, 0, 0, 0, 1, 1, 1, 6, 2, 10, 1, 1, 6, 2, 1, 9, 1,
+            2, 2, 6, 6, 1, 2, 4, 1, 10, 0, 0, 6, 2, 1, 2, 2, 4, 1, 1, 6, 4, 1,
+            2, 1, 2, 10, 6, 6, 2, 1, 1, 0, 1, 6, 1, 2, 1, 11, 7, 7, 6, 1, 11, 3,
+            7, 7, 7, 3, 7, 11, 7, 11, 0, 7, 7, 7, 11, 7, 11, 8, 8
+          ],
+          "sums": {
+            "0": "Abortion equates to murder.",
+            "1": " Fetus is a living being.",
+            "2": " Fetus has individual rights.",
+            "3": "Abortion is morally wrong.",
+            "4": "Abortion denies potential life.",
+            "5": "Adoption is a viable alternative.",
+            "6": "Life begins at conception.",
+            "7": "Abortion is irresponsible behavior.",
+            "8": "Abortion causes psychological harm.",
+            "9": " Abortion ends human development.",
+            "10": "Abortion eliminates future contributions.",
+            "11": " Abortion is a selfish decision."
+          },
+          "runtime": 73.65095
+        },
+        "1": {
+          "sum_ids": [
+            3, 0, 0, 0, 0, 0, 0, 5, 3, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 5, 0, 0, 5,
+            3, 5, 5, 0, 5, 0, 5, 0, 5, 5, 1, 0, 0, 0, 5, 0, 0, 0, 0, 0, 3, 3, 0,
+            0, 0, 0, 0, 3, 1, 4, 0, 5, 0, 5, 8, 6, 8, 0, 8, 8, 5, 5, 5, 3, 8, 4,
+            5, 5, 8, 8, 8, 1, 1, 1, 2, 1, 1, 5, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1,
+            5, 1, 5, 1, 3, 1, 1, 1, 5, 1, 1, 1, 1, 4, 1, 1, 5, 5, 5, 1, 1, 5, 5,
+            1, 5, 1, 5, 3, 1, 5, 1, 1, 1, 1, 5, 3, 8, 5, 1, 1, 2, 1, 1, 1, 2, 3,
+            3, 3, 3, 3, 3, 3, 3, 5, 3, 5, 3, 6, 5, 6, 6, 7, 7, 5, 4, 6, 4, 4, 4,
+            4, 6, 5, 5, 7, 5, 6, 5, 5, 4, 0, 4, 2, 2, 2, 2, 2, 2, 2, 5, 3, 5, 5,
+            4, 3, 5
+          ],
+          "sums": {
+            "0": "Women should have the right to choose.",
+            "1": "A fetus is not a person.",
+            "2": "Abortion is not murder.",
+            "3": " Pregnancy can endanger women's lives.",
+            "4": "Abortion prevents unwanted children.",
+            "5": " Abortion is a moral choice.",
+            "6": " Abortion prevents child neglect.",
+            "7": " Abortion reduces foster care burden.",
+            "8": " Abortion is necessary for incest cases."
+          },
+          "runtime": 83.57175
+        }
+      },
+      "gayRights": {
+        "-1": {
+          "sum_ids": [
+            0, 2, 0, 0, 4, 2, 0, 4, 0, 2, 2, 4, 0, 8, 0, 0, 0, 2, 0, 4, 4, 0, 6,
+            3, 2, 2, 2, 2, 2, 2, 4, 2, 6, 1, 7, 1, 6, 2, 1, 5, 1, 1, 2, 1, 2, 1,
+            2, 2, 2, 2, 7, 5, 2, 2, 8, 6, 1, 4, 3, 0, 3, 3, 5, 3, 3, 5, 3, 1, 3,
+            3, 9, 9, 9, 9, 8, 8, 2, 5, 9, 5, 7, 3
+          ],
+          "sums": {
+            "0": "Homosexuality contradicts religious beliefs.",
+            "1": "Marriage aims for procreation.",
+            "2": "Marriage is between man and woman.",
+            "3": "Children need both parents.",
+            "4": "Homosexuality is considered immoral.",
+            "5": " Gay marriage affects future generations.",
+            "6": " Homosexuality threatens population growth.",
+            "7": " Gay couples can't naturally reproduce.",
+            "8": " Homosexuality linked to moral decay.",
+            "9": " Children may face social stigma."
+          },
+          "runtime": 41.11749
+        },
+        "1": {
+          "sum_ids": [
+            3, 3, 3, 5, 9, 0, 5, 3, 3, 9, 3, 3, 5, 5, 2, 3, 3, 3, 9, 3, 9, 3, 3,
+            8, 7, 1, 3, 9, 3, 1, 4, 8, 1, 4, 1, 8, 2, 0, 1, 8, 1, 2, 0, 0, 7, 0,
+            1, 1, 0, 2, 4, 7, 2, 0, 4, 5, 0, 8, 1, 9, 8, 8, 8, 0, 3, 4, 8, 4, 0,
+            8, 2, 0, 0, 5, 1, 0, 8, 5, 2, 4, 2, 2, 8, 4, 5, 2, 1, 4, 0, 0, 7, 1,
+            3, 2, 1, 5, 4, 1, 0, 8, 8, 1, 0, 7, 5, 4, 2, 0, 5, 0, 0, 0, 2, 4, 4,
+            1, 0, 4, 1, 1, 1, 7, 1, 8, 4, 0, 8, 7, 1, 8, 5, 7, 3, 8, 3, 8, 5, 3,
+            9, 5, 8, 9, 8, 9, 8, 8, 7, 5, 8, 7, 8, 7, 8, 1, 3, 8, 8, 8, 6, 5, 8,
+            5, 8, 5, 6, 1, 5, 5, 5, 5, 5, 7, 5, 5, 5, 9, 6, 8, 8, 9, 7, 9, 5, 7,
+            9, 8, 6, 8, 7, 3, 5, 5, 1, 5, 8, 9, 8, 5, 9, 5, 8, 0, 8, 9, 8, 8, 4,
+            8, 0, 3, 8, 0, 8, 3, 8, 8
+          ],
+          "sums": {
+            "0": "Marriage is a civil right.",
+            "1": "Marriage is a personal choice.",
+            "2": "Gay rights ensure equality.",
+            "3": "Gay marriage doesn't harm others.",
+            "4": "Discrimination is unconstitutional.",
+            "5": " Love is natural and valid.",
+            "6": " Homosexuality is not a choice.",
+            "7": " Everyone deserves happiness.",
+            "8": " Rights should not be denied.",
+            "9": "Love transcends gender."
+          },
+          "runtime": 95.39254
+        }
+      },
+      "marijuana": {
+        "-1": {
+          "sum_ids": [
+            5, 4, 5, 4, 10, 6, 9, 7, 4, 8, 4, 4, 1, 10, 8, 11, 8, 1, 6, 3, 7, 2,
+            1, 8, 1, 4, 3, 9, 3, 4, 1, 9, 12, 1, 1, 8, 12, 3, 8, 2, 2, 0, 0, 2,
+            9, 0, 2, 8, 0, 9, 8, 1, 9, 8, 2, 9, 8, 13, 13, 2, 2, 2, 0, 8, 8, 2,
+            9, 0, 0, 0, 2, 12, 0, 4, 10, 0, 0
+          ],
+          "sums": {
+            "0": "Leads to addiction issues.",
+            "1": "Alters mental functions negatively.",
+            "2": "Gateway to harder drugs.",
+            "3": "Causes impaired memory.",
+            "4": "It harms long-term health.",
+            "5": "Marijuana increases heart attack risk.",
+            "6": " Leads to obesity due to munchies.",
+            "7": " Drug abuse leads to societal issues.",
+            "8": " Causes anxiety and paranoia.",
+            "9": " Promotes irresponsible behavior.",
+            "10": " Increases lung cancer risk.",
+            "11": " Affects sexual functions.",
+            "12": "Impairs concentration and coordination.",
+            "13": " Impairs judgment and reaction time."
+          },
+          "runtime": 43.31794
+        },
+        "1": {
+          "sum_ids": [
+            3, 3, 0, 0, 10, 7, 0, 0, 6, 4, 0, 3, 0, 0, 0, 0, 0, 0, 0, 6, 0, 11,
+            10, 3, 3, 4, 3, 0, 3, 4, 3, 0, 0, 6, 0, 3, 3, 6, 6, 0, 4, 10, 0, 0,
+            0, 0, 0, 7, 7, 0, 0, 0, 6, 6, 3, 6, 0, 7, 0, 10, 6, 0, 0, 0, 11, 11,
+            3, 3, 2, 0, 3, 2, 2, 2, 2, 2, 0, 2, 3, 2, 3, 2, 2, 2, 2, 2, 3, 11,
+            11, 3, 2, 2, 3, 3, 3, 2, 11, 5, 1, 1, 9, 8, 1, 9, 1, 1, 1, 5, 9, 1,
+            8, 11, 8, 1, 4, 1, 9, 8, 8, 9, 7, 9, 1, 1, 8, 1, 1, 1, 8, 1, 1, 9,
+            1, 1, 1, 8, 9, 1, 10, 8, 1, 8, 2, 9, 1, 5, 8, 1, 11, 1, 4, 9, 1, 9,
+            9, 1, 9, 9, 1, 2, 9, 4, 1, 1, 1, 8, 4, 1, 1, 0, 8, 5, 9, 8, 1, 9, 8,
+            9, 1, 1, 10, 8, 11, 0, 4, 5, 5, 9, 4, 4, 4, 4, 4, 4, 4, 4, 9, 9, 4,
+            4, 9, 4, 5, 4, 0, 5, 8, 4, 3, 11, 4, 0, 4, 4, 9, 4, 4, 9, 4, 9, 4,
+            5, 4, 4, 4, 4, 0, 4, 4, 9, 11, 9, 4, 9, 4, 5, 10, 4, 3, 0, 3, 7, 10,
+            11, 7, 3, 7, 7, 3, 7, 3, 7, 3, 7
+          ],
+          "sums": {
+            "0": "Marijuana is less harmful than alcohol.",
+            "1": "Legal marijuana generates tax revenue.",
+            "2": "Marijuana has medicinal benefits.",
+            "3": "Marijuana does not cause brain damage.",
+            "4": " Legal marijuana offers personal freedom.",
+            "5": "Marijuana legalization reduces prison overcrowding.",
+            "6": "Marijuana is not physically addictive.",
+            "7": " Marijuana is not associated with fatalities.",
+            "8": " Marijuana legalization reduces black market.",
+            "9": " Marijuana legalization decreases crime rates.",
+            "10": " Marijuana is not a gateway drug.",
+            "11": " Marijuana enhances creativity."
+          },
+          "runtime": 119.49219
+        }
+      },
+      "obama": {
+        "-1": {
+          "sum_ids": [
+            0, 4, 8, 6, 8, 6, 0, 0, 0, 4, 0, 8, 6, 8, 8, 4, 8, 6, 0, 3, 8, 0, 4,
+            4, 4, 4, 4, 4, 4, 4, 8, 3, 3, 6, 2, 0, 2, 4, 7, 0, 2, 2, 4, 5, 5, 7,
+            5, 4, 4, 4, 1, 4, 0, 4, 4, 4, 7, 4, 0, 1, 1, 1, 4, 1, 1, 1, 7, 4, 1,
+            4, 5, 1, 6, 4, 4, 4, 4, 4, 4
+          ],
+          "sums": {
+            "0": "Increased national debt.",
+            "1": "Poor leadership skills.",
+            "2": "Failed healthcare reform.",
+            "3": "Unemployment remains high.",
+            "4": " Ignored public opinion.",
+            "5": "Socialist policy concerns.",
+            "6": "Lacks economic understanding.",
+            "7": " Failed to unite Congress.",
+            "8": "Economy hasn't recovered."
+          },
+          "runtime": 35.91911
+        },
+        "1": {
+          "sum_ids": [
+            0, 0, 0, 10, 8, 3, 8, 4, 0, 8, 10, 0, 0, 6, 0, 6, 6, 0, 0, 10, 8, 6,
+            0, 6, 10, 0, 1, 1, 5, 9, 9, 5, 9, 5, 9, 5, 5, 5, 5, 9, 9, 5, 9, 1,
+            3, 5, 3, 10, 1, 5, 5, 0, 7, 5, 3, 7, 9, 3, 8, 5, 8, 5, 7, 2, 8, 10,
+            8, 2, 8, 2, 2, 8, 2, 2, 5, 2, 7, 3, 8, 5, 7, 2, 3, 3, 3, 9, 5, 3, 5,
+            7, 8, 3, 5, 2, 3, 3, 3, 3, 7, 3, 3, 3, 10, 9, 9, 8, 6, 5, 5, 5, 5,
+            8, 5, 9, 1, 1, 1, 1, 1, 1
+          ],
+          "sums": {
+            "0": "Stimulus package boosted economy.",
+            "1": "Reduced unemployment rates.",
+            "2": "Repealed DADT.",
+            "3": " Increased healthcare access.",
+            "4": "Saved the auto industry.",
+            "5": "Killed Osama Bin Laden.",
+            "6": " Promoted financial reform.",
+            "7": "Passed healthcare reform.",
+            "8": " Provided tax cuts.",
+            "9": "Ended Iraq war.",
+            "10": " Advocated for middle class."
+          },
+          "runtime": 56.36465
+        }
+      }
+    },
+    "(0.8,)": {
+      "abortion": {
+        "-1": {
+          "sum_ids": [
+            4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 6, 0, 0, 0, 0, 0, 0,
+            1, 0, 0, 6, 0, 0, 0, 6, 0, 0, 0, 6, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
+            1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 1, 1, 3, 0, 0,
+            0, 1, 1, 1, 0, 1, 0, 2, 2, 2, 5, 3, 1, 2, 2, 5, 9, 1, 2, 2, 3, 3, 3,
+            5, 1, 3, 1, 9, 10, 0, 0, 2, 9, 2, 3, 3, 1, 2, 3, 2, 1, 1, 2, 1, 2,
+            10, 5, 5, 2, 2, 9, 0, 2, 5, 1, 3, 2, 6, 6, 6, 5, 9, 8, 6, 8, 6, 6,
+            8, 8, 5, 8, 6, 0, 6, 6, 8, 5, 8, 6, 7, 7
+          ],
+          "sums": {
+            "0": "Abortion is considered murder.",
+            "1": "Abortion ends a potential life.",
+            "2": " Unborn are distinct human beings.",
+            "3": "Unborn have a right to live.",
+            "4": "Adoption is a viable alternative.",
+            "5": "Life begins at conception.",
+            "6": " Abortion is an irresponsible choice.",
+            "7": "Abortion causes psychological harm.",
+            "8": " Abortion ignores consequences of actions.",
+            "9": " Unborn deserve protection and care.",
+            "10": "Abortion eliminates future contributions."
+          },
+          "runtime": 75.56657
+        },
+        "1": {
+          "sum_ids": [
+            5, 0, 0, 0, 0, 0, 0, 0, 7, 0, 3, 0, 0, 3, 0, 0, 7, 0, 8, 0, 3, 0, 0,
+            8, 0, 8, 0, 7, 0, 0, 7, 0, 0, 1, 3, 7, 7, 8, 0, 0, 3, 0, 3, 8, 5, 0,
+            0, 0, 0, 0, 0, 1, 6, 0, 0, 0, 0, 8, 8, 6, 3, 8, 6, 3, 8, 0, 0, 3, 0,
+            0, 0, 4, 3, 6, 1, 0, 1, 2, 1, 1, 2, 1, 1, 3, 1, 1, 1, 2, 1, 2, 1, 1,
+            8, 1, 4, 1, 4, 2, 1, 1, 0, 8, 1, 1, 1, 8, 1, 1, 1, 0, 0, 1, 1, 8, 0,
+            1, 0, 1, 8, 4, 1, 0, 1, 4, 1, 1, 0, 4, 8, 2, 1, 1, 2, 1, 6, 1, 2, 2,
+            8, 5, 5, 0, 5, 8, 2, 4, 5, 8, 5, 4, 4, 8, 4, 4, 6, 0, 6, 6, 6, 6, 6,
+            6, 4, 4, 4, 6, 8, 8, 8, 0, 5, 0, 8, 2, 2, 2, 2, 2, 2, 2, 0, 4, 4, 0,
+            6, 4, 4
+          ],
+          "sums": {
+            "0": "Abortion is a personal choice.",
+            "1": "Fetus lacks personhood.",
+            "2": "Abortion is not murder.",
+            "3": "Abortion supports women's rights.",
+            "4": " Abortion prevents child suffering.",
+            "5": "Legal abortion prevents unsafe methods.",
+            "6": "Abortion prevents unwanted children.",
+            "7": "Women's bodily autonomy matters.",
+            "8": " Abortion is a backup option."
+          },
+          "runtime": 72.71247
+        }
+      },
+      "gayRights": {
+        "-1": {
+          "sum_ids": [
+            0, 2, 0, 0, 3, 2, 0, 0, 0, 2, 2, 3, 0, 3, 0, 0, 0, 2, 0, 3, 3, 0, 1,
+            5, 2, 2, 2, 2, 2, 2, 3, 2, 3, 1, 4, 1, 1, 2, 1, 1, 1, 4, 2, 1, 2, 1,
+            2, 2, 2, 2, 4, 7, 2, 9, 9, 3, 1, 3, 5, 0, 5, 1, 8, 5, 5, 1, 5, 1, 5,
+            1, 8, 6, 7, 7, 3, 7, 7, 6, 7, 2, 4, 5
+          ],
+          "sums": {
+            "0": "Homosexuality is against religious beliefs.",
+            "1": "Marriage's purpose is to produce offspring.",
+            "2": "Marriage is defined as man and woman.",
+            "3": "Homosexuality is considered immoral.",
+            "4": "Gay couples cannot procreate naturally.",
+            "5": "Children need both mother and father.",
+            "6": " Gay marriage undermines societal structure.",
+            "7": " Homosexuality is perceived as deviant.",
+            "8": " Children may face stigma in gay families.",
+            "9": "Gay marriage harms traditional family values."
+          },
+          "runtime": 37.04861
+        },
+        "1": {
+          "sum_ids": [
+            3, 8, 3, 4, 12, 6, 1, 8, 3, 10, 3, 8, 7, 2, 9, 10, 2, 10, 11, 3, 12,
+            3, 3, 6, 10, 6, 8, 6, 3, 2, 13, 13, 1, 6, 13, 5, 0, 13, 2, 2, 2, 0,
+            1, 6, 7, 1, 13, 2, 1, 0, 5, 7, 12, 0, 13, 1, 1, 1, 5, 11, 5, 7, 5,
+            0, 7, 0, 5, 5, 13, 10, 0, 1, 6, 3, 2, 6, 13, 4, 0, 1, 0, 0, 0, 1, 2,
+            0, 1, 13, 1, 0, 12, 2, 3, 0, 1, 7, 0, 2, 6, 5, 2, 2, 6, 7, 6, 5, 0,
+            6, 12, 0, 6, 1, 0, 0, 9, 6, 6, 2, 1, 1, 3, 7, 2, 10, 5, 5, 3, 7, 2,
+            12, 5, 7, 5, 12, 3, 12, 8, 8, 12, 5, 12, 11, 12, 11, 8, 12, 3, 12,
+            13, 7, 12, 7, 3, 10, 10, 12, 5, 4, 2, 4, 12, 4, 11, 4, 2, 2, 4, 12,
+            4, 12, 4, 3, 4, 13, 12, 11, 2, 7, 7, 12, 7, 11, 4, 12, 11, 12, 4,
+            12, 12, 8, 11, 4, 2, 12, 12, 11, 12, 4, 9, 6, 12, 13, 12, 11, 13,
+            12, 13, 13, 13, 13, 13, 6, 13, 13, 0, 12
+          ],
+          "sums": {
+            "0": "Equal rights for all.",
+            "1": "Consenting adults deserve rights.",
+            "2": "Personal choice matters.",
+            "3": "No harm to society.",
+            "4": " Homosexuality is natural.",
+            "5": " Equal protection under law.",
+            "6": " Civil rights include marriage.",
+            "7": " Everyone deserves happiness.",
+            "8": "Love is not harmful.",
+            "9": "Marriage equality is fair.",
+            "10": " No impact on heterosexual marriage.",
+            "11": "Love transcends gender.",
+            "12": " Love is universal.",
+            "13": "Religious beliefs shouldn't dictate laws."
+          },
+          "runtime": 104.51949
+        }
+      },
+      "marijuana": {
+        "-1": {
+          "sum_ids": [
+            5, 8, 2, 5, 8, 2, 1, 6, 2, 8, 11, 2, 4, 9, 11, 10, 8, 1, 2, 1, 2, 3,
+            4, 4, 2, 4, 7, 1, 7, 4, 5, 6, 1, 4, 1, 4, 5, 1, 11, 6, 6, 0, 0, 8,
+            5, 0, 11, 11, 0, 0, 0, 6, 6, 1, 6, 0, 6, 1, 1, 3, 3, 3, 3, 9, 9, 3,
+            8, 3, 3, 0, 3, 7, 0, 2, 9, 0, 3
+          ],
+          "sums": {
+            "0": " Legalization leads to more addicts.",
+            "1": "Marijuana impairs concentration.",
+            "2": "Substance abuse harms health.",
+            "3": "Marijuana is a gateway drug.",
+            "4": " Marijuana causes stress on the brain.",
+            "5": " Marijuana use reduces life potential.",
+            "6": " Marijuana leads to crime.",
+            "7": "Marijuana affects memory negatively.",
+            "8": "Secondhand smoke is harmful.",
+            "9": " Marijuana increases lung cancer risk.",
+            "10": " Marijuana affects sexual function.",
+            "11": " Marijuana is not a painkiller."
+          },
+          "runtime": 43.68756
+        },
+        "1": {
+          "sum_ids": [
+            11, 11, 0, 0, 15, 13, 0, 0, 16, 1, 0, 16, 0, 0, 0, 0, 13, 10, 0, 9,
+            0, 12, 15, 13, 6, 16, 16, 8, 0, 1, 6, 0, 0, 9, 0, 11, 13, 9, 12, 0,
+            1, 15, 0, 0, 0, 0, 0, 10, 10, 0, 0, 0, 9, 9, 6, 9, 0, 10, 16, 11, 9,
+            0, 0, 0, 11, 12, 3, 11, 3, 0, 3, 3, 3, 3, 3, 3, 16, 3, 3, 3, 6, 3,
+            3, 3, 3, 3, 11, 12, 12, 11, 3, 3, 3, 3, 11, 11, 12, 7, 2, 4, 10, 2,
+            2, 5, 2, 4, 2, 7, 5, 4, 5, 2, 8, 2, 8, 2, 10, 5, 5, 5, 10, 5, 4, 2,
+            5, 4, 4, 8, 5, 2, 4, 13, 8, 4, 2, 16, 5, 4, 15, 2, 4, 2, 3, 13, 2,
+            7, 5, 4, 8, 2, 0, 5, 4, 5, 5, 2, 5, 5, 4, 3, 10, 8, 4, 4, 4, 2, 1,
+            4, 4, 0, 5, 8, 5, 5, 2, 10, 5, 5, 2, 4, 15, 2, 16, 0, 1, 7, 7, 5, 1,
+            1, 1, 1, 1, 1, 1, 1, 5, 5, 1, 1, 5, 1, 7, 1, 0, 5, 15, 1, 14, 1, 1,
+            0, 1, 1, 5, 1, 1, 5, 1, 1, 1, 7, 1, 1, 15, 1, 0, 1, 1, 14, 8, 5, 1,
+            5, 14, 7, 1, 1, 6, 0, 6, 10, 11, 11, 10, 6, 10, 10, 6, 10, 6, 10, 6,
+            10
+          ],
+          "sums": {
+            "0": "Marijuana is less harmful than alcohol.",
+            "1": " Legalize marijuana for individual freedom.",
+            "2": "Legalization boosts the economy.",
+            "3": "Marijuana offers medical benefits.",
+            "4": " Legalize marijuana for tax revenue.",
+            "5": "Legalize marijuana to reduce crime.",
+            "6": " Marijuana is not linked to brain damage.",
+            "7": "Legalization reduces prison overcrowding.",
+            "8": " Legalization allows regulation and control.",
+            "9": "Marijuana is not physically addictive.",
+            "10": " Marijuana has no overdose deaths.",
+            "11": " Marijuana is not mind-altering.",
+            "12": "Marijuana enhances creativity.",
+            "13": "Marijuana does not cause violence.",
+            "14": " Marijuana is a victimless crime.",
+            "15": " Marijuana is not a gateway drug.",
+            "16": "Marijuana is safer than tobacco."
+          },
+          "runtime": 134.05385
+        }
+      },
+      "obama": {
+        "-1": {
+          "sum_ids": [
+            0, 9, 0, 6, 0, 7, 1, 1, 1, 9, 1, 0, 4, 0, 0, 9, 0, 3, 1, 4, 0, 1, 6,
+            9, 9, 6, 9, 2, 9, 9, 0, 7, 0, 0, 8, 1, 8, 8, 2, 1, 8, 8, 6, 6, 6, 2,
+            6, 6, 9, 9, 3, 6, 1, 9, 9, 6, 2, 9, 9, 9, 3, 5, 9, 9, 5, 9, 2, 9, 5,
+            9, 9, 3, 5, 2, 9, 6, 9, 9, 6
+          ],
+          "sums": {
+            "0": "Failed to improve the economy.",
+            "1": "Increased national debt significantly.",
+            "2": " Lacked bipartisan cooperation.",
+            "3": " Perceived as inexperienced.",
+            "4": "Raised taxes during economic struggle.",
+            "5": "Lacked effective leadership skills.",
+            "6": " Criticized for authoritarian policies.",
+            "7": " High unemployment rates persisted.",
+            "8": "Implemented unpopular healthcare reforms.",
+            "9": " Accusations of dishonesty."
+          },
+          "runtime": 37.69889
+        },
+        "1": {
+          "sum_ids": [
+            0, 0, 0, 3, 1, 3, 1, 4, 2, 1, 1, 3, 0, 3, 0, 3, 3, 0, 0, 1, 2, 1, 0,
+            0, 1, 0, 2, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 8, 5, 5, 0, 3, 5,
+            3, 3, 2, 5, 5, 0, 5, 0, 3, 2, 0, 3, 5, 5, 3, 5, 6, 3, 3, 3, 1, 3, 3,
+            7, 3, 3, 3, 3, 0, 3, 3, 3, 6, 5, 0, 3, 3, 0, 0, 8, 5, 3, 5, 6, 3, 3,
+            5, 3, 3, 3, 3, 6, 6, 3, 3, 3, 1, 8, 8, 8, 5, 5, 8, 8, 5, 5, 5, 8, 2,
+            2, 2, 2, 2, 2
+          ],
+          "sums": {
+            "0": "Economy improved under Obama.",
+            "1": "Reduced middle-class taxes.",
+            "2": "Increased job growth.",
+            "3": " Advanced healthcare access.",
+            "4": "Saved the auto industry.",
+            "5": "Killed Osama Bin Laden.",
+            "6": "Affordable healthcare reform.",
+            "7": " Advocated for gay rights.",
+            "8": "Improved foreign relations."
+          },
+          "runtime": 52.68908
+        }
+      }
+    },
+    "(0.8250000000000001,)": {
+      "abortion": {
+        "-1": {
+          "sum_ids": [
+            5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 2, 0, 0, 0, 0, 2, 0,
+            3, 0, 2, 2, 0, 0, 0, 11, 0, 0, 0, 11, 0, 0, 0, 0, 0, 0, 0, 2, 1, 2,
+            0, 3, 2, 0, 2, 0, 0, 0, 2, 0, 0, 0, 2, 3, 0, 3, 0, 3, 0, 0, 3, 2, 0,
+            0, 0, 0, 3, 0, 0, 0, 0, 1, 1, 1, 6, 4, 10, 7, 1, 6, 4, 1, 1, 1, 4,
+            4, 6, 6, 1, 4, 3, 1, 10, 0, 0, 6, 4, 1, 4, 4, 3, 1, 1, 6, 3, 1, 7,
+            1, 1, 10, 6, 6, 1, 1, 1, 0, 1, 6, 1, 3, 1, 11, 1, 8, 6, 1, 11, 2,
+            11, 8, 11, 2, 2, 11, 11, 11, 0, 8, 8, 11, 11, 11, 11, 9, 9
+          ],
+          "sums": {
+            "0": "Abortion equates to murder.",
+            "1": " Fetus is a living being.",
+            "2": "Abortion is morally wrong.",
+            "3": "Abortion denies potential life.",
+            "4": "Unborn have rights too.",
+            "5": "Adoption is a viable alternative.",
+            "6": "Life begins at conception.",
+            "7": " Fetus has unique genetic identity.",
+            "8": "Irresponsibility leads to abortion.",
+            "9": "Abortion causes psychological harm.",
+            "10": " Abortion eliminates future contributions.",
+            "11": " Abortion is selfish."
+          },
+          "runtime": 72.02456
+        },
+        "1": {
+          "sum_ids": [
+            2, 1, 1, 0, 0, 1, 1, 6, 0, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 6, 0, 0, 2,
+            4, 0, 2, 1, 0, 1, 1, 1, 0, 1, 3, 0, 1, 0, 7, 1, 1, 0, 1, 0, 2, 6, 0,
+            0, 1, 0, 1, 1, 3, 7, 0, 1, 1, 1, 5, 6, 2, 0, 6, 7, 0, 2, 1, 2, 2, 7,
+            1, 1, 6, 0, 7, 3, 3, 3, 2, 3, 4, 2, 3, 3, 0, 2, 3, 3, 2, 3, 3, 3, 3,
+            4, 3, 6, 0, 6, 3, 3, 3, 1, 4, 3, 3, 3, 7, 0, 3, 0, 0, 0, 3, 3, 0, 7,
+            3, 1, 3, 7, 6, 3, 7, 3, 6, 3, 3, 3, 4, 2, 2, 3, 3, 2, 3, 3, 3, 2, 4,
+            0, 4, 4, 4, 4, 4, 3, 6, 4, 2, 4, 6, 6, 7, 6, 6, 7, 0, 7, 7, 7, 7, 7,
+            7, 6, 6, 6, 7, 5, 5, 5, 2, 7, 1, 7, 2, 2, 2, 2, 2, 2, 2, 0, 6, 6, 5,
+            7, 4, 6
+          ],
+          "sums": {
+            "0": "Abortion is a civil right.",
+            "1": "Women's choice over their bodies.",
+            "2": " Abortion isn't murder legally.",
+            "3": "Fetus isn't a separate entity.",
+            "4": "Legal abortion protects women's health.",
+            "5": " Abortion addresses financial constraints.",
+            "6": " Prevents suffering for unwanted children.",
+            "7": " Abortion prevents unwanted children."
+          },
+          "runtime": 75.91048
+        }
+      },
+      "gayRights": {
+        "-1": {
+          "sum_ids": [
+            2, 1, 3, 3, 2, 1, 3, 3, 3, 1, 2, 2, 3, 2, 3, 3, 3, 1, 3, 2, 2, 3, 0,
+            4, 1, 1, 1, 1, 1, 1, 2, 1, 2, 0, 0, 0, 0, 2, 0, 5, 0, 0, 7, 0, 1, 1,
+            1, 1, 1, 7, 0, 5, 1, 2, 6, 2, 0, 7, 4, 3, 4, 0, 2, 4, 4, 5, 4, 0, 4,
+            4, 6, 6, 2, 7, 2, 7, 7, 5, 2, 5, 7, 4
+          ],
+          "sums": {
+            "0": "Homosexuality contradicts procreation.",
+            "1": "Marriage is between man and woman.",
+            "2": "Homosexuality is morally wrong.",
+            "3": "Homosexuality is against religious beliefs.",
+            "4": "Children need both mother and father.",
+            "5": " Gay marriage affects future generations.",
+            "6": "Gay marriage harms societal values.",
+            "7": " Homosexuality is not natural."
+          },
+          "runtime": 33.89064
+        },
+        "1": {
+          "sum_ids": [
+            1, 1, 1, 2, 6, 5, 0, 1, 1, 1, 1, 1, 6, 7, 0, 1, 1, 1, 5, 1, 6, 1, 1,
+            0, 6, 6, 2, 5, 1, 4, 7, 4, 0, 6, 7, 6, 0, 0, 3, 4, 3, 0, 0, 0, 5, 0,
+            7, 3, 0, 0, 0, 6, 6, 0, 4, 0, 0, 0, 0, 5, 6, 6, 4, 0, 1, 0, 4, 7, 7,
+            0, 0, 0, 0, 6, 7, 4, 7, 2, 0, 0, 0, 0, 0, 0, 4, 0, 0, 7, 0, 0, 6, 4,
+            1, 0, 4, 4, 0, 7, 4, 4, 4, 3, 0, 5, 5, 0, 0, 0, 4, 0, 0, 0, 0, 4, 0,
+            4, 0, 4, 0, 0, 1, 4, 2, 0, 4, 0, 7, 4, 6, 6, 4, 5, 1, 6, 1, 6, 1, 1,
+            6, 1, 6, 5, 6, 5, 1, 6, 6, 6, 4, 6, 6, 6, 6, 1, 1, 6, 6, 6, 3, 4, 6,
+            2, 5, 2, 3, 5, 2, 6, 2, 6, 2, 6, 2, 7, 6, 5, 3, 6, 5, 6, 6, 5, 2, 6,
+            5, 6, 2, 6, 6, 1, 5, 2, 3, 6, 6, 5, 6, 2, 5, 5, 6, 7, 6, 5, 7, 6, 7,
+            6, 7, 7, 7, 7, 7, 7, 6, 6
+          ],
+          "sums": {
+            "0": "Everyone deserves equal rights.",
+            "1": "Gay marriage harms no one.",
+            "2": "Homosexuality is natural.",
+            "3": " Homosexuality isn't a choice.",
+            "4": " Personal freedom is paramount.",
+            "5": "Love transcends gender.",
+            "6": " Love is universal.",
+            "7": " Religious beliefs shouldn't dictate laws."
+          },
+          "runtime": 80.26586
+        }
+      },
+      "marijuana": {
+        "-1": {
+          "sum_ids": [
+            3, 4, 4, 0, 3, 0, 0, 2, 4, 2, 3, 0, 0, 4, 6, 8, 6, 0, 6, 0, 2, 1, 0,
+            6, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 7, 0, 3, 1, 2, 5, 1, 2, 7, 1,
+            1, 6, 1, 7, 1, 0, 2, 7, 2, 7, 2, 0, 7, 1, 1, 1, 1, 1, 6, 1, 7, 5, 5,
+            5, 1, 0, 5, 3, 4, 1, 5
+          ],
+          "sums": {
+            "0": "Marijuana causes mental impairment.",
+            "1": " Marijuana leads to harder drug use.",
+            "2": " It increases crime and illegal activities.",
+            "3": "Passive smoking harms others.",
+            "4": " Marijuana is harmful to lung health.",
+            "5": " It causes addiction and tolerance.",
+            "6": "Marijuana increases anxiety and paranoia.",
+            "7": " Marijuana promotes irresponsible behavior.",
+            "8": "It disrupts sexual functions."
+          },
+          "runtime": 40.30637
+        },
+        "1": {
+          "sum_ids": [
+            1, 17, 10, 2, 14, 4, 10, 10, 15, 5, 2, 2, 10, 2, 10, 8, 8, 2, 8, 6,
+            10, 17, 14, 4, 2, 2, 2, 5, 2, 5, 1, 10, 8, 6, 4, 2, 2, 15, 9, 2, 3,
+            2, 10, 8, 2, 10, 2, 12, 10, 2, 2, 1, 10, 6, 8, 6, 8, 10, 2, 4, 6, 2,
+            2, 8, 9, 9, 1, 1, 16, 2, 1, 1, 1, 1, 1, 1, 12, 1, 1, 1, 1, 1, 1, 1,
+            1, 1, 17, 9, 9, 1, 1, 1, 1, 1, 12, 1, 9, 7, 0, 13, 2, 11, 0, 12, 0,
+            7, 0, 5, 11, 5, 5, 13, 5, 0, 5, 0, 12, 5, 11, 11, 12, 11, 5, 0, 0,
+            7, 13, 5, 11, 0, 0, 2, 5, 13, 0, 8, 11, 13, 14, 0, 13, 0, 1, 11, 0,
+            7, 11, 13, 12, 0, 10, 11, 0, 11, 11, 0, 11, 11, 0, 1, 12, 5, 5, 5,
+            13, 0, 3, 0, 0, 2, 12, 7, 11, 11, 0, 12, 11, 11, 0, 5, 14, 0, 2, 10,
+            12, 7, 7, 12, 3, 3, 3, 3, 3, 3, 3, 3, 12, 11, 3, 3, 13, 12, 7, 4, 2,
+            13, 12, 3, 1, 5, 3, 10, 3, 3, 12, 3, 3, 12, 3, 11, 3, 7, 5, 3, 12,
+            3, 2, 17, 3, 11, 12, 7, 3, 7, 3, 7, 14, 4, 4, 4, 4, 2, 14, 9, 12, 1,
+            12, 12, 1, 4, 2, 1, 4, 12
+          ],
+          "sums": {
+            "0": " Legalization helps the economy.",
+            "1": "Marijuana offers health benefits.",
+            "2": "Marijuana is less harmful.",
+            "3": " Personal freedom to choose.",
+            "4": " Marijuana is non-lethal.",
+            "5": "Legalize and regulate marijuana.",
+            "6": "Marijuana is not addictive.",
+            "7": " Legalization saves prison costs.",
+            "8": "Alcohol is more dangerous.",
+            "9": "Marijuana boosts creativity.",
+            "10": " Marijuana is safer than alcohol.",
+            "11": " Legalization reduces crime rates.",
+            "12": " No marijuana overdose deaths.",
+            "13": " War on drugs is costly.",
+            "14": " Marijuana is not a gateway drug.",
+            "15": "Tobacco is more addictive.",
+            "16": " Medical marijuana aids patients.",
+            "17": "Marijuana reduces anxiety."
+          },
+          "runtime": 140.99157
+        }
+      },
+      "obama": {
+        "-1": {
+          "sum_ids": [
+            0, 9, 0, 7, 0, 4, 1, 1, 1, 9, 1, 0, 6, 0, 0, 4, 0, 7, 1, 6, 0, 4, 9,
+            9, 9, 4, 9, 9, 9, 5, 0, 8, 0, 0, 7, 1, 3, 3, 2, 7, 9, 4, 9, 9, 9, 2,
+            9, 9, 4, 3, 5, 9, 1, 9, 4, 9, 2, 3, 1, 5, 5, 5, 5, 9, 5, 2, 2, 5, 5,
+            9, 5, 5, 7, 2, 9, 9, 9, 9, 9
+          ],
+          "sums": {
+            "0": "Failed to improve the economy.",
+            "1": "Increased national debt significantly.",
+            "2": " Lacks bipartisan cooperation.",
+            "3": "Healthcare reform is unpopular.",
+            "4": " Disregarded American citizens' needs.",
+            "5": " Perceived as inexperienced leader.",
+            "6": "Raised taxes during economic struggle.",
+            "7": "Lacks economic understanding.",
+            "8": "Unemployment rates remain high.",
+            "9": " Damaged international relations."
+          },
+          "runtime": 38.19927
+        },
+        "1": {
+          "sum_ids": [
+            0, 0, 0, 2, 1, 5, 6, 3, 4, 4, 6, 4, 0, 5, 0, 5, 5, 0, 4, 1, 5, 2, 0,
+            4, 6, 4, 3, 0, 6, 5, 5, 5, 5, 5, 5, 5, 5, 0, 5, 5, 5, 5, 5, 0, 5, 5,
+            2, 6, 0, 5, 5, 0, 5, 5, 2, 4, 5, 2, 5, 5, 5, 5, 2, 5, 5, 6, 1, 5, 5,
+            5, 5, 2, 5, 5, 5, 5, 2, 5, 2, 5, 5, 5, 2, 0, 5, 2, 5, 5, 5, 5, 5, 5,
+            5, 5, 2, 2, 5, 2, 2, 2, 2, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 0,
+            0, 4, 0, 0, 0
+          ],
+          "sums": {
+            "0": "Economy is improving.",
+            "1": "Tax cuts for 95%.",
+            "2": "Affordable healthcare reforms.",
+            "3": "Saved the auto industry.",
+            "4": "Passed a huge stimulus.",
+            "5": " Repealed DADT.",
+            "6": "Middle class focus."
+          },
+          "runtime": 48.76325
+        }
+      }
+    },
+    "(0.8500000000000001,)": {
+      "abortion": {
+        "-1": {
+          "sum_ids": [
+            3, 3, 3, 3, 3, 3, 3, 10, 3, 3, 3, 3, 3, 3, 2, 3, 1, 0, 0, 0, 0, 0,
+            0, 2, 0, 0, 5, 0, 0, 0, 10, 9, 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            4, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 7, 0, 2, 0, 2, 2, 1,
+            0, 0, 0, 0, 2, 0, 0, 0, 0, 4, 4, 9, 4, 1, 2, 9, 9, 4, 1, 1, 4, 4, 1,
+            1, 1, 4, 4, 1, 2, 5, 7, 0, 0, 4, 1, 9, 1, 1, 1, 9, 1, 9, 2, 1, 4, 2,
+            9, 2, 4, 4, 9, 9, 1, 2, 4, 4, 1, 1, 9, 10, 5, 5, 4, 5, 8, 5, 8, 5,
+            8, 5, 8, 10, 8, 7, 0, 8, 5, 5, 5, 5, 10, 6, 6
+          ],
+          "sums": {
+            "0": "Abortion is considered murder.",
+            "1": "Every fetus has a right to live.",
+            "2": "Abortion denies a future life.",
+            "3": "Adoption is a viable alternative.",
+            "4": "Life begins at conception.",
+            "5": " Abortion is irresponsible behavior.",
+            "6": "Abortion causes psychological harm.",
+            "7": "Abortion eliminates potential contributions.",
+            "8": " Abortion negates personal responsibility.",
+            "9": " Abortion disregards fetal individuality.",
+            "10": "Abortion is a selfish decision."
+          },
+          "runtime": 67.10246
+        },
+        "1": {
+          "sum_ids": [
+            4, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 5,
+            4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 4, 0,
+            0, 0, 0, 0, 2, 2, 1, 0, 1, 0, 0, 4, 3, 4, 0, 4, 2, 0, 4, 0, 4, 4, 0,
+            0, 5, 4, 1, 2, 2, 5, 2, 1, 2, 2, 2, 0, 2, 2, 2, 2, 2, 1, 2, 1, 2, 2,
+            2, 2, 3, 2, 3, 2, 2, 2, 2, 3, 2, 2, 2, 5, 2, 2, 2, 1, 2, 2, 2, 5, 3,
+            2, 2, 2, 2, 3, 2, 2, 2, 3, 2, 2, 1, 4, 2, 1, 2, 2, 1, 2, 2, 2, 1, 4,
+            4, 4, 4, 4, 4, 4, 1, 3, 4, 4, 4, 3, 3, 0, 3, 3, 3, 2, 2, 2, 5, 2, 1,
+            3, 3, 3, 3, 3, 2, 2, 2, 5, 5, 5, 5, 1, 1, 1, 1, 1, 1, 1, 2, 3, 3, 2,
+            2, 3, 3
+          ],
+          "sums": {
+            "0": "Abortion protects women's autonomy.",
+            "1": "Abortion is not murder.",
+            "2": " Fetus isn't a person yet.",
+            "3": " Abortion prevents child suffering.",
+            "4": "Legal abortions ensure safety.",
+            "5": " Contraception can fail."
+          },
+          "runtime": 66.13336
+        }
+      },
+      "gayRights": {
+        "-1": {
+          "sum_ids": [
+            2, 0, 2, 2, 3, 0, 2, 2, 2, 0, 0, 3, 3, 3, 2, 2, 2, 0, 2, 3, 0, 2, 5,
+            4, 1, 0, 0, 0, 0, 0, 3, 0, 5, 1, 8, 1, 5, 0, 8, 1, 1, 1, 6, 8, 0, 0,
+            0, 0, 0, 6, 1, 7, 0, 0, 7, 5, 1, 6, 8, 2, 4, 7, 3, 4, 4, 9, 4, 1, 4,
+            7, 9, 0, 3, 6, 3, 3, 6, 5, 3, 5, 6, 4
+          ],
+          "sums": {
+            "0": "Marriage is between man and woman.",
+            "1": " Marriage should fulfill state's procreative interest.",
+            "2": "Homosexuality is against religious beliefs.",
+            "3": " Homosexuality is a sin.",
+            "4": "Children need a mother and father.",
+            "5": " Homosexuality hinders population growth.",
+            "6": " Homosexuality is not natural.",
+            "7": "Gay marriage harms family values.",
+            "8": " Gays cannot naturally reproduce.",
+            "9": " Children in gay families may struggle."
+          },
+          "runtime": 39.25553
+        },
+        "1": {
+          "sum_ids": [
+            5, 5, 5, 2, 6, 7, 0, 8, 5, 6, 5, 5, 8, 1, 4, 6, 1, 6, 8, 5, 6, 5, 5,
+            6, 6, 6, 2, 0, 5, 1, 3, 1, 1, 7, 1, 6, 4, 3, 1, 1, 1, 0, 4, 7, 1, 7,
+            1, 1, 1, 0, 7, 1, 6, 0, 1, 1, 0, 4, 7, 8, 8, 6, 1, 0, 0, 0, 7, 7, 3,
+            8, 0, 1, 0, 6, 1, 7, 3, 2, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 6, 1,
+            5, 0, 1, 1, 0, 1, 0, 1, 1, 1, 4, 8, 8, 0, 0, 7, 8, 0, 0, 1, 0, 0, 0,
+            1, 7, 1, 1, 1, 1, 8, 1, 6, 7, 0, 3, 0, 1, 6, 1, 8, 8, 6, 5, 6, 8, 6,
+            6, 2, 6, 6, 6, 8, 6, 6, 8, 6, 6, 8, 6, 8, 8, 5, 5, 8, 4, 6, 1, 1, 6,
+            2, 8, 2, 1, 8, 2, 6, 2, 6, 2, 8, 2, 3, 6, 8, 1, 8, 8, 6, 6, 4, 2, 8,
+            6, 8, 2, 6, 8, 5, 2, 2, 1, 6, 6, 8, 8, 2, 6, 8, 6, 3, 6, 6, 7, 6, 3,
+            6, 7, 3, 3, 3, 3, 3, 0, 6
+          ],
+          "sums": {
+            "0": "Equal rights for all.",
+            "1": "Personal choice is paramount.",
+            "2": "Homosexuality is natural.",
+            "3": "Freedom from religious imposition.",
+            "4": " Same-sex couples deserve respect.",
+            "5": "Gay marriage doesn't harm society.",
+            "6": " Happiness is universal.",
+            "7": " Protection under law is necessary.",
+            "8": " Love is love."
+          },
+          "runtime": 91.34328
+        }
+      },
+      "marijuana": {
+        "-1": {
+          "sum_ids": [
+            6, 6, 11, 4, 6, 0, 0, 5, 0, 6, 5, 0, 0, 8, 11, 10, 6, 3, 3, 7, 0, 2,
+            0, 0, 0, 0, 7, 3, 7, 0, 3, 5, 3, 0, 0, 0, 3, 3, 6, 5, 5, 1, 5, 5, 4,
+            5, 3, 0, 4, 5, 3, 0, 9, 3, 9, 5, 9, 3, 3, 2, 2, 2, 2, 5, 8, 2, 6, 1,
+            1, 1, 2, 0, 1, 0, 6, 1, 1
+          ],
+          "sums": {
+            "0": "Marijuana affects mental health.",
+            "1": "Marijuana is addictive.",
+            "2": "It acts as a gateway drug.",
+            "3": "It decreases concentration.",
+            "4": " It negatively impacts youth.",
+            "5": "Legalization increases abuse.",
+            "6": "Secondhand smoke is harmful.",
+            "7": "Marijuana impairs memory.",
+            "8": " It leads to lung cancer risk.",
+            "9": " Legalization may increase crime.",
+            "10": " Marijuana affects sexual function.",
+            "11": "Marijuana increases heart attack risk."
+          },
+          "runtime": 41.56692
+        },
+        "1": {
+          "sum_ids": [
+            1, 0, 13, 9, 12, 0, 0, 13, 6, 13, 0, 0, 13, 8, 13, 8, 12, 0, 8, 6,
+            9, 1, 13, 0, 0, 0, 8, 13, 0, 13, 0, 8, 0, 6, 0, 0, 0, 6, 11, 9, 13,
+            0, 9, 8, 0, 9, 0, 8, 9, 8, 14, 8, 10, 6, 1, 6, 0, 10, 9, 0, 6, 9, 0,
+            12, 11, 11, 1, 1, 1, 0, 1, 1, 1, 1, 1, 10, 6, 1, 1, 1, 1, 1, 1, 1,
+            1, 1, 1, 11, 11, 1, 1, 1, 1, 1, 14, 1, 11, 4, 2, 4, 9, 4, 2, 5, 4,
+            2, 2, 7, 5, 15, 15, 4, 14, 2, 12, 15, 10, 15, 15, 5, 12, 5, 15, 2,
+            15, 4, 4, 13, 5, 2, 2, 14, 15, 4, 4, 0, 5, 4, 12, 2, 15, 2, 1, 12,
+            2, 7, 5, 4, 12, 2, 13, 8, 4, 5, 5, 2, 5, 5, 15, 15, 10, 10, 15, 4,
+            15, 2, 14, 4, 2, 8, 12, 4, 5, 5, 2, 12, 15, 5, 15, 15, 15, 2, 14,
+            13, 0, 4, 7, 12, 14, 3, 3, 3, 3, 3, 3, 3, 8, 13, 3, 3, 12, 14, 7,
+            12, 8, 8, 9, 3, 0, 14, 3, 9, 3, 3, 8, 3, 3, 8, 3, 13, 3, 5, 3, 3,
+            14, 3, 9, 15, 3, 5, 12, 5, 3, 12, 3, 7, 15, 13, 1, 0, 0, 0, 0, 12,
+            10, 1, 10, 10, 0, 0, 0, 0, 1, 0
+          ],
+          "sums": {
+            "0": "Marijuana is not dangerous.",
+            "1": " Proven health benefits.",
+            "2": "Economic benefits from legalization.",
+            "3": " Personal freedom to choose.",
+            "4": " Legalization saves money.",
+            "5": "Legalization reduces crime.",
+            "6": " Marijuana is non-addictive.",
+            "7": "Reduces prison overcrowding.",
+            "8": " Less societal harm than alcohol.",
+            "9": "Safer than alcohol.",
+            "10": "No overdose risk.",
+            "11": " Marijuana enhances creativity.",
+            "12": " No violent behavior induced.",
+            "13": "Legalize like alcohol.",
+            "14": " Harmless in moderation.",
+            "15": " Tax revenue potential."
+          },
+          "runtime": 135.02938
+        }
+      },
+      "obama": {
+        "-1": {
+          "sum_ids": [
+            2, 6, 3, 6, 3, 0, 0, 0, 0, 6, 0, 3, 6, 3, 3, 6, 3, 5, 2, 8, 3, 6, 6,
+            2, 6, 6, 2, 6, 6, 6, 3, 8, 8, 3, 2, 0, 1, 1, 4, 0, 6, 6, 2, 6, 6, 7,
+            6, 6, 6, 2, 2, 6, 0, 6, 6, 6, 7, 1, 6, 6, 5, 6, 6, 6, 6, 7, 7, 6, 6,
+            6, 6, 6, 6, 7, 6, 6, 6, 6, 6
+          ],
+          "sums": {
+            "0": "Increased national debt",
+            "1": "ObamaCare is unpopular",
+            "2": "Unfulfilled campaign promises",
+            "3": "Failed economic recovery",
+            "4": "Partisan healthcare legislation",
+            "5": " Criticized for inexperience",
+            "6": " Lack of leadership",
+            "7": " Criticized for bipartisanship",
+            "8": "Unemployment remains high"
+          },
+          "runtime": 36.04645
+        },
+        "1": {
+          "sum_ids": [
+            2, 5, 4, 0, 0, 5, 0, 3, 4, 4, 0, 1, 4, 5, 5, 5, 7, 2, 5, 0, 1, 0, 2,
+            7, 0, 2, 1, 2, 7, 6, 6, 8, 6, 6, 6, 8, 2, 2, 8, 6, 6, 6, 6, 2, 2, 2,
+            8, 7, 1, 5, 2, 2, 2, 8, 0, 8, 8, 8, 8, 7, 8, 8, 8, 7, 2, 8, 0, 7, 7,
+            7, 7, 8, 7, 7, 2, 1, 7, 8, 7, 7, 8, 7, 0, 2, 8, 8, 7, 2, 6, 7, 8, 8,
+            7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 0, 6, 6, 8, 7, 8, 8, 8, 7, 6, 8, 8, 1,
+            1, 1, 1, 1, 2
+          ],
+          "sums": {
+            "0": "Tax cuts for middle class.",
+            "1": "Job growth increased significantly.",
+            "2": "Economy improved under Obama.",
+            "3": "Saved the auto industry.",
+            "4": "Stimulus package aided recovery.",
+            "5": " Focused on economic stability.",
+            "6": "Ended war in Iraq.",
+            "7": "Health care reform passed.",
+            "8": "Strong foreign policy leadership."
+          },
+          "runtime": 52.56346
+        }
+      }
+    },
+    "(0.8750000000000001,)": {
+      "abortion": {
+        "-1": {
+          "sum_ids": [
+            5, 5, 5, 5, 5, 5, 5, 9, 5, 5, 5, 5, 5, 5, 5, 5, 1, 0, 0, 0, 0, 0, 0,
+            2, 9, 0, 0, 0, 0, 0, 9, 1, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0,
+            2, 3, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 2, 0, 2, 0, 2, 0, 0, 2, 3, 0, 0,
+            0, 2, 2, 2, 0, 1, 0, 1, 1, 1, 4, 3, 2, 1, 1, 4, 3, 2, 1, 1, 3, 3, 4,
+            4, 1, 3, 2, 8, 2, 0, 0, 4, 3, 1, 3, 3, 2, 1, 1, 4, 2, 2, 3, 2, 1, 2,
+            4, 4, 1, 3, 1, 3, 1, 4, 1, 9, 1, 9, 6, 6, 4, 7, 7, 7, 7, 6, 6, 7, 6,
+            9, 6, 9, 0, 6, 6, 7, 9, 7, 9, 8, 8
+          ],
+          "sums": {
+            "0": "Abortion is considered murder.",
+            "1": " Fetus is a living being.",
+            "2": "Abortion ends potential life.",
+            "3": "Fetus has human rights.",
+            "4": "Life begins at conception.",
+            "5": "Adoption is a viable alternative.",
+            "6": " Abortion is irresponsibility.",
+            "7": " Abortion disregards consequences.",
+            "8": " Abortion causes psychological harm.",
+            "9": " Abortion is a selfish choice."
+          },
+          "runtime": 63.77338
+        },
+        "1": {
+          "sum_ids": [
+            5, 0, 0, 0, 0, 0, 0, 7, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 6, 0, 0, 9,
+            1, 0, 5, 0, 0, 0, 0, 0, 9, 6, 2, 0, 0, 0, 6, 0, 0, 0, 0, 0, 1, 5, 0,
+            0, 0, 0, 0, 1, 2, 7, 0, 3, 0, 5, 1, 9, 7, 0, 6, 7, 5, 6, 7, 1, 1, 7,
+            1, 6, 6, 5, 7, 2, 8, 2, 3, 4, 2, 5, 0, 2, 2, 2, 4, 2, 3, 2, 3, 2, 4,
+            6, 2, 6, 2, 6, 2, 2, 2, 7, 6, 2, 4, 2, 4, 2, 2, 4, 6, 6, 2, 2, 8, 6,
+            4, 2, 2, 9, 1, 2, 7, 2, 6, 2, 4, 6, 1, 2, 3, 2, 2, 3, 2, 2, 4, 3, 1,
+            1, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 6, 6, 9, 6, 6, 7, 6, 7, 6, 7, 7, 7,
+            7, 6, 6, 6, 7, 7, 9, 9, 5, 8, 8, 8, 3, 3, 3, 3, 3, 3, 3, 9, 1, 6, 9,
+            9, 1, 6
+          ],
+          "sums": {
+            "0": "Abortion ensures women's autonomy.",
+            "1": " Childbirth risks women's lives.",
+            "2": "Fetus not a person.",
+            "3": "Abortion isn't murder.",
+            "4": " Fetus lacks consciousness early.",
+            "5": "Prevents unsafe illegal abortions.",
+            "6": " Prevents child suffering.",
+            "7": "Avoids unwanted children.",
+            "8": " Contraception can fail.",
+            "9": "Not ready for parenthood."
+          },
+          "runtime": 81.38537
+        }
+      },
+      "gayRights": {
+        "-1": {
+          "sum_ids": [
+            2, 0, 2, 2, 3, 0, 2, 2, 2, 0, 0, 3, 2, 3, 2, 2, 9, 0, 9, 3, 3, 2, 1,
+            5, 0, 0, 0, 0, 0, 0, 3, 0, 3, 1, 4, 1, 1, 0, 4, 1, 1, 1, 7, 1, 0, 1,
+            0, 0, 0, 0, 4, 8, 0, 3, 8, 3, 1, 7, 5, 2, 5, 8, 3, 5, 5, 8, 5, 1, 5,
+            8, 6, 6, 3, 7, 3, 3, 7, 6, 3, 0, 7, 5
+          ],
+          "sums": {
+            "0": "Marriage is defined as man and woman.",
+            "1": "Marriage's purpose is procreation.",
+            "2": "Homosexuality is against religious beliefs.",
+            "3": "Homosexuality is considered immoral.",
+            "4": "Gay couples can't reproduce naturally.",
+            "5": "Children need both mother and father.",
+            "6": "Gay marriage harms societal values.",
+            "7": "Homosexuality is not natural.",
+            "8": " Homosexuality contradicts family structure.",
+            "9": " Gay marriage lacks religious recognition."
+          },
+          "runtime": 40.14692
+        },
+        "1": {
+          "sum_ids": [
+            0, 2, 2, 3, 4, 6, 1, 2, 2, 13, 2, 2, 3, 9, 8, 2, 2, 2, 3, 2, 3, 2,
+            11, 8, 8, 10, 2, 8, 2, 0, 9, 9, 0, 6, 9, 3, 8, 1, 0, 9, 5, 4, 6, 12,
+            3, 10, 9, 0, 1, 4, 13, 1, 4, 8, 9, 0, 1, 1, 13, 8, 3, 7, 13, 1, 2,
+            1, 6, 13, 9, 6, 8, 1, 1, 12, 11, 13, 9, 3, 4, 1, 0, 1, 8, 1, 0, 4,
+            0, 9, 6, 1, 2, 8, 2, 4, 0, 1, 1, 9, 8, 13, 7, 5, 12, 1, 11, 1, 4, 6,
+            1, 1, 8, 1, 4, 8, 12, 8, 6, 0, 0, 0, 0, 3, 1, 8, 13, 6, 9, 1, 11, 7,
+            7, 7, 7, 13, 2, 2, 10, 2, 7, 3, 13, 11, 4, 11, 3, 11, 7, 3, 12, 13,
+            4, 7, 13, 13, 2, 13, 4, 3, 5, 3, 9, 3, 12, 3, 5, 7, 3, 3, 3, 3, 3,
+            13, 3, 9, 3, 8, 5, 7, 3, 3, 7, 1, 3, 1, 3, 1, 3, 13, 1, 3, 3, 3, 0,
+            3, 3, 1, 1, 3, 8, 1, 6, 9, 13, 3, 9, 9, 9, 9, 9, 9, 9, 10, 9, 9, 8,
+            3
+          ],
+          "sums": {
+            "0": "Consenting adults deserve autonomy.",
+            "1": "Love is a human right.",
+            "2": "Gay marriage does not harm others.",
+            "3": "Homosexuality is natural and normal.",
+            "4": "Legal recognition ensures equality.",
+            "5": " Homosexuality is not a choice.",
+            "6": " Love deserves legal recognition.",
+            "7": " Same-sex adoption provides loving homes.",
+            "8": "Equal rights for all relationships.",
+            "9": "Religious beliefs shouldn't dictate laws.",
+            "10": " Marriage is a civil contract.",
+            "11": " Homosexuality doesn't affect family values.",
+            "12": "Denying rights is discriminatory.",
+            "13": " Equal protection under the law."
+          },
+          "runtime": 106.1424
+        }
+      },
+      "marijuana": {
+        "-1": {
+          "sum_ids": [
+            4, 4, 14, 11, 4, 5, 1, 9, 1, 4, 13, 4, 1, 4, 13, 12, 4, 3, 5, 3, 4,
+            2, 1, 6, 1, 11, 7, 3, 7, 11, 3, 9, 3, 1, 1, 1, 3, 3, 13, 6, 10, 0,
+            8, 10, 3, 0, 6, 13, 0, 8, 8, 9, 9, 3, 9, 8, 9, 3, 6, 10, 2, 2, 6, 6,
+            1, 2, 6, 0, 0, 0, 2, 3, 0, 1, 6, 0, 0
+          ],
+          "sums": {
+            "0": "Marijuana leads to addiction.",
+            "1": "It can cause mental disorders.",
+            "2": "Marijuana is a gateway drug.",
+            "3": "Marijuana impairs concentration.",
+            "4": "Secondhand smoke is harmful.",
+            "5": " It leads to unhealthy eating habits.",
+            "6": " Marijuana can be laced with other drugs.",
+            "7": "It causes memory loss.",
+            "8": " Legalization may increase usage.",
+            "9": " Marijuana abuse can lead to crime.",
+            "10": " Legalization increases access.",
+            "11": " It impacts adolescent brain development.",
+            "12": " Marijuana affects sexual functions.",
+            "13": " Marijuana is not a painkiller.",
+            "14": "Marijuana increases heart attack risk."
+          },
+          "runtime": 50.07214
+        },
+        "1": {
+          "sum_ids": [
+            5, 0, 14, 0, 12, 0, 0, 14, 14, 14, 0, 0, 14, 8, 14, 8, 10, 0, 14, 5,
+            7, 10, 12, 0, 8, 14, 8, 14, 0, 14, 0, 7, 0, 5, 7, 14, 0, 5, 11, 12,
+            7, 0, 7, 14, 14, 7, 14, 3, 7, 0, 0, 0, 13, 5, 15, 15, 12, 13, 14, 8,
+            5, 14, 0, 8, 11, 11, 2, 10, 3, 0, 3, 2, 2, 2, 2, 2, 14, 2, 2, 2, 3,
+            2, 2, 3, 2, 3, 10, 10, 11, 10, 2, 3, 2, 2, 10, 10, 11, 4, 1, 6, 14,
+            6, 1, 8, 1, 6, 1, 4, 8, 6, 14, 1, 14, 1, 15, 1, 8, 6, 6, 10, 8, 10,
+            6, 6, 6, 6, 6, 14, 8, 6, 6, 0, 14, 8, 1, 14, 10, 6, 12, 1, 6, 1, 2,
+            8, 6, 4, 6, 6, 8, 1, 7, 8, 6, 10, 8, 1, 8, 14, 6, 8, 8, 13, 14, 6,
+            6, 1, 9, 6, 1, 8, 14, 8, 8, 14, 1, 8, 6, 8, 6, 6, 12, 6, 14, 14, 9,
+            4, 4, 8, 9, 9, 9, 9, 9, 9, 9, 9, 8, 10, 9, 9, 8, 9, 4, 9, 0, 8, 14,
+            9, 8, 15, 9, 7, 9, 9, 8, 9, 9, 8, 9, 14, 9, 4, 9, 9, 12, 9, 0, 10,
+            9, 8, 8, 8, 9, 8, 9, 4, 12, 14, 2, 13, 0, 0, 10, 10, 13, 2, 13, 8,
+            13, 0, 0, 13, 2, 13
+          ],
+          "sums": {
+            "0": "Marijuana is less harmful.",
+            "1": "Economic growth potential.",
+            "2": "Medicinal benefits proven.",
+            "3": "Reduces cancer symptoms.",
+            "4": " Reduces prison overcrowding.",
+            "5": "Less addictive than cigarettes.",
+            "6": " Tax revenue opportunity.",
+            "7": "Safer than alcohol.",
+            "8": " Less societal harm.",
+            "9": " Personal freedom issue.",
+            "10": "It relaxes, not incites.",
+            "11": "Stimulates creativity.",
+            "12": " Not a gateway drug.",
+            "13": "No overdose risk.",
+            "14": " Safer than legal substances.",
+            "15": " Not physically addictive."
+          },
+          "runtime": 129.85466
+        }
+      },
+      "obama": {
+        "-1": {
+          "sum_ids": [
+            0, 9, 0, 9, 0, 5, 1, 4, 1, 9, 1, 0, 5, 0, 0, 9, 0, 5, 1, 2, 0, 1, 4,
+            8, 9, 8, 8, 4, 8, 4, 0, 2, 0, 0, 5, 1, 7, 3, 6, 5, 4, 3, 4, 4, 4, 6,
+            4, 9, 9, 4, 4, 4, 1, 4, 9, 4, 6, 7, 9, 9, 4, 4, 4, 4, 4, 4, 6, 9, 4,
+            9, 4, 4, 5, 6, 9, 4, 4, 9, 4
+          ],
+          "sums": {
+            "0": "Failed to improve the economy.",
+            "1": "Increased national debt significantly.",
+            "2": "Unemployment remains high.",
+            "3": " Ignored public opinion on healthcare.",
+            "4": " Labeled as inexperienced leader.",
+            "5": "Lacks economic understanding.",
+            "6": " Compromised too much with Republicans.",
+            "7": "Healthcare policies are unpopular.",
+            "8": "Did not end wars as promised.",
+            "9": " Accused of being dishonest."
+          },
+          "runtime": 37.564
+        },
+        "1": {
+          "sum_ids": [
+            2, 2, 2, 4, 0, 6, 0, 3, 2, 2, 0, 5, 2, 6, 2, 6, 6, 2, 2, 0, 5, 0, 2,
+            6, 0, 2, 1, 2, 4, 6, 6, 6, 6, 6, 6, 6, 6, 1, 6, 6, 6, 6, 6, 1, 6, 6,
+            6, 6, 1, 6, 6, 2, 4, 6, 6, 1, 6, 6, 6, 6, 6, 4, 4, 6, 6, 6, 0, 6, 6,
+            6, 6, 6, 6, 6, 6, 6, 6, 6, 4, 6, 6, 6, 6, 6, 6, 4, 6, 6, 6, 6, 6, 6,
+            6, 6, 6, 6, 6, 4, 4, 6, 6, 6, 0, 2, 6, 6, 6, 1, 6, 6, 6, 6, 6, 6, 1,
+            1, 1, 1, 1, 1
+          ],
+          "sums": {
+            "0": "Tax cuts for middle class.",
+            "1": "Increased job growth.",
+            "2": "Stimulus package boosted economy.",
+            "3": "Saved the auto industry.",
+            "4": "Affordable healthcare reforms.",
+            "5": "Supported small businesses.",
+            "6": " Improved healthcare access."
+          },
+          "runtime": 49.32767
+        }
+      }
+    },
+    "(0.9000000000000001,)": {
+      "abortion": {
+        "-1": {
+          "sum_ids": [
+            4, 4, 4, 4, 4, 4, 4, 7, 4, 4, 4, 4, 4, 4, 1, 4, 3, 0, 0, 0, 0, 3, 0,
+            1, 0, 3, 3, 0, 0, 0, 7, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 3, 0, 3, 0,
+            1, 3, 0, 3, 1, 0, 0, 3, 0, 0, 0, 3, 1, 0, 1, 0, 1, 0, 0, 1, 3, 0, 0,
+            0, 1, 1, 1, 0, 0, 0, 5, 5, 1, 5, 2, 1, 2, 3, 5, 2, 1, 3, 5, 2, 2, 5,
+            5, 5, 2, 1, 6, 1, 0, 0, 5, 2, 1, 2, 2, 1, 5, 2, 5, 1, 1, 2, 1, 2, 1,
+            5, 5, 5, 5, 2, 3, 5, 5, 1, 2, 2, 7, 6, 6, 5, 1, 6, 3, 6, 6, 6, 3, 6,
+            7, 6, 1, 0, 6, 6, 6, 6, 6, 7, 8, 8
+          ],
+          "sums": {
+            "0": "Abortion is considered murder.",
+            "1": "Abortion eliminates potential life.",
+            "2": "Every fetus has rights.",
+            "3": "Abortion is morally wrong.",
+            "4": "Adoption is a viable alternative.",
+            "5": "Life begins at conception.",
+            "6": " Abortion is irresponsible behavior.",
+            "7": "Abortion is a selfish decision.",
+            "8": "Abortion causes psychological harm."
+          },
+          "runtime": 66.23187
+        },
+        "1": {
+          "sum_ids": [
+            9, 1, 0, 0, 0, 1, 0, 0, 1, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0,
+            5, 0, 0, 0, 1, 0, 0, 1, 0, 0, 3, 1, 1, 10, 6, 0, 0, 1, 0, 1, 11, 9,
+            0, 1, 0, 1, 0, 11, 3, 0, 0, 0, 0, 0, 6, 6, 6, 1, 6, 6, 6, 6, 0, 6,
+            6, 6, 0, 6, 6, 6, 6, 3, 0, 0, 2, 4, 12, 2, 3, 4, 3, 4, 4, 3, 3, 3,
+            2, 3, 4, 0, 3, 7, 3, 5, 2, 4, 4, 0, 11, 3, 4, 3, 4, 3, 4, 4, 0, 0,
+            3, 4, 11, 0, 4, 0, 4, 4, 11, 2, 0, 11, 7, 4, 4, 11, 11, 11, 2, 4, 3,
+            2, 4, 11, 4, 2, 12, 5, 11, 11, 11, 5, 11, 5, 5, 5, 11, 5, 7, 7, 0,
+            7, 7, 7, 0, 7, 7, 8, 4, 0, 7, 7, 7, 7, 7, 0, 11, 0, 8, 8, 0, 8, 2,
+            2, 2, 2, 2, 2, 2, 0, 5, 7, 0, 0, 5, 7
+          ],
+          "sums": {
+            "0": "Abortion is a personal decision.",
+            "1": "Abortion ensures women's bodily autonomy.",
+            "2": "Abortion is not considered murder.",
+            "3": "Fetus lacks legal personhood.",
+            "4": " Fetus lacks consciousness early on.",
+            "5": " Unwanted pregnancies can harm lives.",
+            "6": " Essential for rape and incest victims.",
+            "7": "Prevents unwanted children suffering.",
+            "8": " Abortion is a backup for contraception.",
+            "9": "Legal abortions prevent unsafe procedures.",
+            "10": "Right to choose supports civil rights.",
+            "11": " Necessary in life-threatening pregnancies.",
+            "12": "Protects women's health and safety."
+          },
+          "runtime": 91.88819
+        }
+      },
+      "gayRights": {
+        "-1": {
+          "sum_ids": [
+            1, 0, 1, 1, 3, 0, 1, 1, 1, 0, 0, 3, 1, 3, 1, 1, 1, 0, 1, 1, 0, 1, 2,
+            6, 0, 0, 0, 0, 0, 0, 3, 0, 1, 2, 4, 2, 2, 0, 4, 5, 2, 2, 0, 2, 0, 2,
+            0, 0, 0, 0, 4, 7, 0, 0, 3, 5, 2, 7, 4, 1, 6, 4, 5, 5, 6, 5, 6, 2, 6,
+            2, 3, 3, 7, 7, 3, 7, 7, 5, 7, 5, 4, 6
+          ],
+          "sums": {
+            "0": "Marriage is between a man and a woman.",
+            "1": "Homosexuality is against religious beliefs.",
+            "2": "Marriage's purpose is procreation.",
+            "3": "Homosexuality harms societal morals.",
+            "4": "Gay couples can't naturally reproduce.",
+            "5": " Gay marriage affects future generations.",
+            "6": "Children need a mother and father.",
+            "7": " Homosexuality is seen as abnormal."
+          },
+          "runtime": 36.35782
+        },
+        "1": {
+          "sum_ids": [
+            3, 7, 3, 2, 2, 6, 4, 0, 3, 6, 3, 3, 6, 6, 5, 3, 1, 3, 2, 3, 2, 3, 3,
+            8, 6, 6, 2, 0, 3, 1, 7, 6, 0, 6, 7, 2, 0, 0, 1, 7, 1, 0, 0, 8, 5, 0,
+            7, 1, 0, 0, 0, 5, 2, 6, 7, 0, 0, 0, 6, 5, 7, 5, 4, 0, 5, 0, 4, 8, 6,
+            8, 0, 0, 0, 3, 6, 0, 7, 2, 0, 0, 4, 0, 8, 0, 7, 0, 0, 7, 0, 0, 5, 6,
+            3, 0, 1, 5, 0, 1, 0, 6, 8, 1, 6, 6, 6, 0, 0, 0, 6, 0, 0, 0, 0, 0, 8,
+            6, 0, 0, 4, 0, 1, 5, 1, 6, 0, 0, 7, 5, 1, 6, 5, 5, 8, 5, 3, 5, 5, 8,
+            5, 6, 5, 5, 5, 5, 2, 5, 3, 2, 8, 5, 5, 5, 5, 3, 3, 5, 8, 2, 1, 1, 7,
+            2, 5, 2, 1, 1, 2, 2, 2, 2, 2, 5, 2, 7, 2, 6, 1, 5, 5, 2, 5, 5, 2, 5,
+            5, 5, 2, 8, 5, 3, 2, 2, 1, 2, 5, 5, 5, 2, 0, 0, 6, 7, 5, 2, 7, 6, 6,
+            7, 7, 7, 7, 6, 7, 7, 5, 7
+          ],
+          "sums": {
+            "0": "Marriage equality is a right.",
+            "1": "Marriage is a personal choice.",
+            "2": " Homosexuality is natural.",
+            "3": "Gay marriage doesn't harm society.",
+            "4": " Consenting adults deserve rights.",
+            "5": " Everyone deserves happiness.",
+            "6": " Personal freedom includes marriage choice.",
+            "7": " Religious beliefs shouldn't dictate laws.",
+            "8": " Legal benefits shouldn't be denied."
+          },
+          "runtime": 93.0895
+        }
+      },
+      "marijuana": {
+        "-1": {
+          "sum_ids": [
+            2, 2, 8, 9, 2, 6, 1, 10, 1, 2, 8, 1, 1, 8, 8, 12, 2, 5, 6, 5, 1, 3,
+            4, 1, 1, 4, 11, 5, 1, 9, 5, 10, 5, 1, 4, 1, 5, 7, 2, 10, 10, 0, 0,
+            2, 5, 0, 3, 1, 0, 3, 4, 1, 10, 5, 10, 10, 10, 11, 7, 3, 0, 3, 0, 0,
+            8, 3, 2, 6, 0, 0, 3, 1, 0, 1, 8, 0, 0
+          ],
+          "sums": {
+            "0": "Marijuana increases addiction risk.",
+            "1": "Marijuana affects mental health.",
+            "2": "Secondhand smoke is harmful.",
+            "3": "Marijuana is a gateway drug.",
+            "4": " Marijuana disrupts brain function.",
+            "5": "Marijuana impairs concentration.",
+            "6": " Marijuana leads to overeating.",
+            "7": " Marijuana impairs learning ability.",
+            "8": " Marijuana causes lung cancer risk.",
+            "9": " Marijuana affects adolescent brain development.",
+            "10": " Marijuana encourages crime.",
+            "11": "Marijuana impairs motor skills.",
+            "12": " Marijuana affects sexual functions."
+          },
+          "runtime": 44.62797
+        },
+        "1": {
+          "sum_ids": [
+            15, 9, 6, 3, 14, 3, 3, 6, 15, 6, 3, 3, 6, 9, 6, 11, 9, 3, 11, 15, 6,
+            12, 14, 13, 3, 3, 3, 6, 3, 6, 3, 15, 11, 8, 3, 3, 3, 15, 12, 3, 4,
+            3, 6, 11, 6, 3, 3, 11, 6, 3, 3, 9, 8, 8, 11, 8, 11, 6, 6, 13, 8, 3,
+            3, 11, 12, 12, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 16, 1, 1, 1, 3, 1, 1,
+            1, 1, 1, 1, 12, 12, 1, 1, 1, 1, 1, 3, 1, 12, 5, 0, 2, 6, 0, 0, 10,
+            0, 2, 0, 5, 10, 2, 7, 0, 6, 0, 12, 2, 6, 7, 7, 10, 13, 10, 2, 0, 0,
+            2, 2, 2, 10, 0, 2, 3, 2, 2, 0, 11, 10, 2, 14, 0, 2, 0, 1, 9, 0, 5,
+            7, 2, 12, 0, 6, 9, 2, 10, 10, 0, 10, 10, 2, 1, 6, 6, 2, 2, 2, 0, 9,
+            2, 2, 3, 10, 10, 10, 7, 0, 10, 10, 10, 0, 2, 14, 0, 3, 6, 13, 2, 5,
+            9, 4, 4, 4, 4, 4, 4, 4, 4, 9, 10, 4, 4, 9, 9, 5, 10, 3, 9, 16, 4, 1,
+            8, 4, 6, 4, 4, 9, 4, 4, 9, 4, 10, 4, 10, 4, 4, 9, 4, 3, 9, 4, 10, 9,
+            6, 4, 9, 4, 5, 16, 10, 1, 3, 13, 3, 14, 12, 6, 1, 11, 11, 3, 13, 3,
+            3, 3, 3
+          ],
+          "sums": {
+            "0": "Legalization boosts the economy.",
+            "1": "Marijuana has medicinal benefits.",
+            "2": " Legalization provides tax revenue.",
+            "3": "Marijuana is less harmful.",
+            "4": " Personal freedom to choose.",
+            "5": "Reduces prison overcrowding.",
+            "6": "Safer than legal substances.",
+            "7": " Legalization reduces black market.",
+            "8": " Marijuana is not physically addictive.",
+            "9": " Marijuana is less harmful socially.",
+            "10": " Legalization reduces crime.",
+            "11": "Alcohol is more dangerous.",
+            "12": " Marijuana can enhance creativity.",
+            "13": " Marijuana doesn't cause violence.",
+            "14": "Marijuana is not a gateway drug.",
+            "15": "Less addictive than tobacco.",
+            "16": " Safer than prescription drugs."
+          },
+          "runtime": 135.02771
+        }
+      },
+      "obama": {
+        "-1": {
+          "sum_ids": [
+            5, 5, 7, 2, 7, 2, 5, 5, 5, 5, 5, 7, 2, 7, 7, 3, 7, 2, 5, 6, 7, 5, 1,
+            1, 8, 1, 4, 3, 1, 1, 7, 6, 6, 2, 2, 5, 0, 0, 4, 5, 3, 3, 1, 4, 1, 3,
+            5, 1, 1, 4, 3, 1, 5, 3, 5, 1, 4, 0, 5, 8, 3, 3, 4, 3, 3, 8, 3, 8, 3,
+            1, 5, 3, 2, 4, 8, 3, 1, 1, 1
+          ],
+          "sums": {
+            "0": "Health care reform unpopular.",
+            "1": " Poor policy on terrorism.",
+            "2": "Lacks economic understanding.",
+            "3": "Ineffective leadership displayed.",
+            "4": " Compromises upset liberals.",
+            "5": "Increased national debt.",
+            "6": "Unemployment remains high.",
+            "7": "Economy hasn't recovered.",
+            "8": " Perceived dishonesty in leadership."
+          },
+          "runtime": 33.8773
+        },
+        "1": {
+          "sum_ids": [
+            1, 1, 1, 4, 0, 3, 0, 1, 1, 0, 0, 5, 1, 4, 1, 4, 4, 1, 1, 0, 5, 4, 1,
+            4, 0, 1, 1, 1, 3, 3, 3, 3, 3, 3, 3, 3, 1, 3, 4, 3, 3, 3, 3, 1, 4, 4,
+            2, 0, 1, 4, 3, 1, 4, 2, 2, 4, 3, 2, 4, 1, 4, 4, 2, 3, 0, 2, 0, 2, 4,
+            3, 4, 4, 4, 4, 3, 4, 4, 4, 4, 2, 4, 0, 3, 4, 3, 2, 1, 4, 3, 4, 2, 3,
+            3, 4, 2, 2, 4, 2, 2, 2, 2, 2, 0, 3, 3, 4, 4, 3, 4, 3, 4, 5, 4, 3, 1,
+            1, 1, 1, 1, 1
+          ],
+          "sums": {
+            "0": "Reduced middle-class taxes.",
+            "1": "Stimulus package boosted economy.",
+            "2": "Improved healthcare access.",
+            "3": "Ended Iraq war responsibly.",
+            "4": "Passed significant financial reforms.",
+            "5": "Supported small businesses."
+          },
+          "runtime": 47.44471
+        }
+      }
+    },
+    "(0.9250000000000002,)": {
+      "abortion": {
+        "-1": {
+          "sum_ids": [
+            6, 6, 6, 6, 6, 6, 6, 10, 6, 6, 6, 6, 6, 6, 3, 6, 1, 0, 0, 0, 0, 1,
+            0, 3, 0, 1, 1, 0, 9, 0, 10, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 1, 0,
+            1, 0, 3, 1, 0, 9, 0, 0, 0, 1, 0, 0, 0, 1, 3, 0, 0, 0, 3, 0, 0, 3, 1,
+            0, 1, 1, 0, 3, 3, 0, 0, 0, 5, 5, 3, 5, 2, 8, 5, 1, 5, 2, 2, 1, 5, 2,
+            2, 2, 5, 5, 2, 3, 9, 8, 0, 0, 5, 2, 3, 2, 2, 3, 3, 2, 5, 3, 2, 5, 3,
+            2, 8, 5, 5, 2, 5, 2, 1, 5, 5, 2, 2, 5, 10, 4, 4, 5, 4, 4, 1, 4, 4,
+            4, 1, 1, 10, 4, 4, 0, 4, 4, 4, 5, 4, 4, 7, 7
+          ],
+          "sums": {
+            "0": "Abortion is equivalent to murder.",
+            "1": "Abortion is morally wrong.",
+            "2": "Fetus has a right to life.",
+            "3": "Abortion denies a potential life.",
+            "4": " Abortion is an irresponsible choice.",
+            "5": "Life begins at conception.",
+            "6": "Adoption is a viable alternative.",
+            "7": "Abortion causes psychological harm.",
+            "8": "Abortion eliminates future contributions.",
+            "9": " Abortion procedures are inhumane.",
+            "10": "Abortion is a selfish decision."
+          },
+          "runtime": 68.32092
+        },
+        "1": {
+          "sum_ids": [
+            3, 2, 0, 0, 0, 0, 0, 4, 2, 0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 0, 2, 0, 7,
+            3, 0, 3, 0, 2, 0, 2, 2, 6, 0, 1, 2, 2, 2, 7, 0, 0, 2, 0, 2, 6, 3, 0,
+            0, 7, 0, 0, 8, 1, 4, 0, 0, 0, 0, 5, 5, 7, 0, 7, 4, 0, 7, 2, 8, 7, 4,
+            0, 7, 8, 0, 7, 1, 7, 1, 7, 1, 8, 7, 1, 1, 2, 1, 1, 1, 7, 1, 7, 1, 1,
+            8, 1, 8, 1, 8, 1, 1, 1, 0, 8, 1, 1, 1, 8, 1, 1, 1, 7, 0, 1, 1, 6, 8,
+            1, 8, 1, 6, 8, 1, 0, 1, 8, 1, 1, 7, 8, 7, 7, 1, 1, 7, 1, 7, 1, 7, 8,
+            8, 8, 8, 8, 8, 8, 8, 8, 8, 6, 8, 4, 5, 5, 5, 8, 4, 7, 4, 5, 4, 4, 4,
+            4, 5, 5, 8, 4, 6, 5, 6, 6, 4, 0, 6, 7, 7, 7, 7, 7, 7, 7, 6, 8, 8, 6,
+            5, 8, 8
+          ],
+          "sums": {
+            "0": "Women's right to choose.",
+            "1": "Fetus lacks personhood.",
+            "2": "Protects bodily autonomy.",
+            "3": "Prevents unsafe illegal abortions.",
+            "4": "Reduces unwanted children.",
+            "5": " Avoids child neglect.",
+            "6": " Contraception backup necessity.",
+            "7": " Not considered murder legally.",
+            "8": "Health risks justify abortion."
+          },
+          "runtime": 76.39387
+        }
+      },
+      "gayRights": {
+        "-1": {
+          "sum_ids": [
+            0, 3, 0, 0, 4, 3, 0, 0, 0, 3, 3, 4, 0, 11, 0, 0, 0, 3, 0, 4, 4, 0,
+            1, 6, 3, 3, 3, 3, 3, 3, 4, 3, 5, 1, 1, 2, 2, 3, 1, 1, 1, 1, 8, 1, 3,
+            1, 3, 3, 3, 3, 9, 10, 3, 4, 4, 5, 2, 2, 6, 0, 6, 1, 8, 6, 6, 7, 1,
+            2, 6, 1, 10, 4, 8, 10, 11, 10, 8, 7, 10, 7, 10, 6
+          ],
+          "sums": {
+            "0": "Homosexuality is against religious beliefs.",
+            "1": "Marriage's purpose is offspring.",
+            "2": " Homosexuality contradicts life's purpose.",
+            "3": "Marriage is defined as man-woman.",
+            "4": "Homosexuality is viewed as immoral.",
+            "5": " Gays hinder population growth.",
+            "6": "Children need both mother and father.",
+            "7": " Gay marriage affects future generations.",
+            "8": " Homosexuality seen as sexual disorientation.",
+            "9": "Gays can't fulfill state's interests.",
+            "10": " Homosexuality is considered abnormal.",
+            "11": " Homosexuality linked to moral corruption."
+          },
+          "runtime": 43.61172
+        },
+        "1": {
+          "sum_ids": [
+            1, 5, 6, 2, 0, 4, 0, 1, 6, 6, 1, 1, 1, 5, 0, 6, 1, 6, 6, 6, 2, 6, 1,
+            3, 6, 1, 2, 0, 6, 1, 1, 5, 1, 1, 1, 1, 0, 3, 1, 1, 1, 0, 4, 3, 6, 3,
+            5, 1, 1, 0, 3, 1, 0, 3, 1, 1, 1, 3, 4, 6, 5, 1, 1, 0, 1, 3, 1, 3, 1,
+            6, 0, 1, 1, 5, 6, 1, 1, 2, 0, 3, 0, 0, 3, 1, 1, 0, 1, 1, 4, 0, 1, 1,
+            1, 0, 1, 1, 3, 1, 1, 1, 1, 1, 4, 1, 1, 1, 0, 4, 1, 0, 0, 3, 0, 1, 0,
+            1, 4, 1, 1, 1, 1, 1, 1, 1, 3, 4, 5, 1, 1, 1, 1, 6, 5, 6, 6, 1, 1, 6,
+            6, 1, 1, 6, 2, 1, 2, 6, 6, 2, 5, 6, 6, 1, 5, 6, 6, 1, 1, 2, 1, 1, 5,
+            2, 3, 2, 1, 1, 2, 2, 2, 2, 2, 1, 2, 5, 2, 6, 1, 6, 1, 2, 1, 1, 2, 6,
+            5, 1, 2, 1, 5, 2, 2, 2, 1, 1, 2, 1, 1, 2, 0, 1, 1, 5, 1, 6, 5, 5, 5,
+            5, 4, 5, 5, 1, 5, 5, 0, 5
+          ],
+          "sums": {
+            "0": "Equal rights for all.",
+            "1": " Marriage is a personal freedom.",
+            "2": "Homosexuality is natural.",
+            "3": "Rights shouldn't be denied.",
+            "4": " Homosexuals deserve legal recognition.",
+            "5": " Personal beliefs shouldn't dictate laws.",
+            "6": " No impact on heterosexual marriage."
+          },
+          "runtime": 85.24828
+        }
+      },
+      "marijuana": {
+        "-1": {
+          "sum_ids": [
+            5, 5, 5, 7, 5, 0, 0, 3, 0, 5, 5, 0, 0, 6, 1, 8, 5, 4, 4, 3, 0, 2, 3,
+            0, 0, 0, 3, 3, 3, 7, 4, 5, 3, 0, 0, 0, 4, 4, 5, 2, 8, 1, 1, 6, 4, 1,
+            2, 0, 1, 1, 4, 0, 3, 4, 4, 4, 5, 4, 3, 2, 2, 2, 2, 1, 3, 2, 5, 1, 1,
+            1, 2, 3, 1, 0, 5, 1, 1
+          ],
+          "sums": {
+            "0": "Marijuana affects mental health.",
+            "1": "It leads to addiction.",
+            "2": "Marijuana is a gateway drug.",
+            "3": "Marijuana impairs memory and judgment.",
+            "4": " Leads to poor concentration.",
+            "5": "Passive smoking is harmful.",
+            "6": "Increases risk of lung cancer.",
+            "7": " Marijuana affects adolescent brain development.",
+            "8": " Marijuana disrupts sexual functions."
+          },
+          "runtime": 39.73201
+        },
+        "1": {
+          "sum_ids": [
+            13, 16, 0, 0, 15, 16, 0, 0, 7, 13, 0, 6, 0, 0, 0, 0, 15, 0, 0, 7, 0,
+            13, 0, 16, 6, 10, 6, 0, 10, 13, 9, 0, 0, 7, 0, 0, 16, 7, 10, 0, 8,
+            13, 0, 0, 0, 0, 0, 14, 0, 0, 0, 0, 7, 7, 6, 7, 0, 15, 0, 13, 7, 0,
+            0, 0, 13, 10, 3, 13, 9, 0, 3, 3, 3, 3, 9, 3, 3, 9, 3, 3, 6, 3, 9, 3,
+            3, 3, 13, 10, 10, 13, 3, 3, 3, 3, 6, 13, 13, 4, 1, 11, 12, 1, 2, 12,
+            1, 2, 1, 4, 12, 2, 5, 1, 11, 1, 13, 1, 13, 5, 5, 11, 13, 12, 2, 1,
+            1, 11, 2, 2, 12, 2, 2, 15, 2, 2, 1, 5, 12, 2, 8, 1, 2, 1, 3, 12, 1,
+            4, 5, 1, 13, 1, 0, 15, 2, 11, 12, 1, 11, 11, 2, 3, 13, 11, 2, 11, 2,
+            1, 8, 2, 2, 0, 16, 11, 12, 5, 1, 13, 1, 5, 1, 2, 13, 1, 13, 0, 16,
+            11, 4, 11, 8, 8, 8, 8, 8, 8, 8, 8, 13, 13, 8, 8, 13, 8, 4, 13, 0,
+            11, 13, 8, 3, 13, 8, 0, 8, 8, 13, 8, 8, 13, 8, 13, 8, 4, 13, 8, 15,
+            8, 0, 15, 8, 12, 13, 11, 8, 12, 8, 4, 13, 8, 6, 0, 6, 14, 13, 10,
+            14, 6, 14, 14, 6, 16, 6, 14, 6, 14
+          ],
+          "sums": {
+            "0": "Marijuana is less harmful than alcohol.",
+            "1": "Legalizing marijuana boosts the economy.",
+            "2": " Legalizing pot generates tax revenue.",
+            "3": "Cannabis has medicinal benefits.",
+            "4": "Marijuana reduces prison overcrowding.",
+            "5": " Legalization reduces black market activity.",
+            "6": " Pot is not linked to brain damage.",
+            "7": "Marijuana is not physically addictive.",
+            "8": " Marijuana is a personal choice.",
+            "9": " Cannabis can relieve pain.",
+            "10": "Cannabis enhances creativity.",
+            "11": " Marijuana legalization saves enforcement costs.",
+            "12": "Legalization decreases crime rates.",
+            "13": " Marijuana supports mental relaxation.",
+            "14": " Pot is not linked to overdose deaths.",
+            "15": "Cannabis is a safer social drug.",
+            "16": " Marijuana does not cause violence."
+          },
+          "runtime": 133.12964
+        }
+      },
+      "obama": {
+        "-1": {
+          "sum_ids": [
+            5, 4, 6, 7, 6, 0, 5, 5, 5, 7, 5, 6, 2, 6, 6, 7, 6, 3, 5, 2, 6, 4, 7,
+            7, 1, 7, 1, 7, 7, 7, 6, 0, 0, 0, 3, 5, 7, 1, 1, 3, 7, 7, 1, 7, 7, 7,
+            1, 7, 7, 1, 7, 7, 5, 7, 1, 1, 1, 1, 7, 4, 4, 4, 1, 1, 7, 7, 4, 7, 4,
+            1, 7, 7, 3, 1, 7, 1, 7, 7, 7
+          ],
+          "sums": {
+            "0": "Increased unemployment rates.",
+            "1": " Accused of ignoring public opinion.",
+            "2": "Tax increases during economic struggle.",
+            "3": "Lacks economic understanding.",
+            "4": " Poor leadership on debt issues.",
+            "5": "Increased national debt significantly.",
+            "6": "Economy hasn't recovered.",
+            "7": " Accused of prioritizing wrong issues."
+          },
+          "runtime": 34.99555
+        },
+        "1": {
+          "sum_ids": [
+            2, 2, 2, 4, 0, 3, 4, 1, 1, 2, 4, 1, 2, 3, 2, 2, 4, 2, 2, 0, 1, 2, 2,
+            2, 4, 2, 1, 2, 3, 3, 3, 3, 3, 3, 3, 3, 2, 2, 3, 3, 3, 3, 3, 2, 2, 2,
+            2, 4, 1, 2, 2, 2, 2, 2, 1, 1, 2, 2, 2, 2, 2, 2, 2, 3, 2, 4, 0, 3, 1,
+            3, 3, 2, 2, 1, 3, 1, 2, 2, 2, 1, 2, 2, 3, 2, 2, 1, 2, 2, 3, 1, 2, 2,
+            3, 2, 4, 4, 1, 2, 2, 0, 0, 1, 4, 3, 3, 2, 1, 3, 2, 2, 3, 3, 3, 3, 1,
+            1, 1, 1, 1, 1
+          ],
+          "sums": {
+            "0": "Tax cuts for 95% Americans.",
+            "1": "Increased job growth.",
+            "2": "Economy improving under Obama.",
+            "3": "Ended Iraq war responsibly.",
+            "4": "Increased middle-class focus."
+          },
+          "runtime": 45.6037
+        }
+      }
+    },
+    "(0.9500000000000002,)": {
+      "abortion": {
+        "-1": {
+          "sum_ids": [
+            8, 8, 8, 8, 8, 8, 8, 12, 8, 8, 8, 8, 8, 8, 6, 8, 3, 1, 1, 1, 1, 3,
+            0, 0, 1, 3, 3, 1, 0, 1, 12, 2, 1, 1, 12, 1, 1, 0, 1, 1, 1, 0, 3, 0,
+            3, 1, 6, 3, 1, 9, 2, 0, 0, 3, 1, 1, 1, 3, 0, 1, 11, 1, 0, 1, 0, 0,
+            3, 2, 0, 1, 0, 6, 0, 1, 0, 1, 2, 2, 2, 7, 4, 6, 2, 2, 7, 4, 0, 2, 2,
+            4, 4, 4, 7, 2, 4, 6, 9, 11, 1, 1, 7, 4, 2, 4, 4, 0, 2, 2, 2, 6, 0,
+            7, 0, 2, 11, 7, 7, 0, 2, 2, 3, 2, 7, 2, 4, 2, 12, 2, 5, 7, 2, 3, 3,
+            5, 5, 5, 3, 3, 12, 5, 11, 1, 5, 12, 10, 7, 3, 12, 10, 10
+          ],
+          "sums": {
+            "0": "Abortion ends a human life.",
+            "1": "Abortion is considered murder.",
+            "2": " Unborn babies are living beings.",
+            "3": "Abortion is morally wrong.",
+            "4": "Fetuses have a right to live.",
+            "5": " Irresponsibility leads to abortion.",
+            "6": " Abortion denies life a chance.",
+            "7": "Life begins at conception.",
+            "8": "Adoption is a viable alternative.",
+            "9": " Abortion is an inhumane procedure.",
+            "10": "Abortion causes psychological harm.",
+            "11": "Abortion eliminates potential contributions.",
+            "12": "Abortion is a selfish decision."
+          },
+          "runtime": 76.17216
+        },
+        "1": {
+          "sum_ids": [
+            3, 2, 0, 1, 1, 2, 0, 0, 1, 0, 1, 0, 0, 2, 0, 0, 1, 1, 0, 0, 2, 0, 6,
+            7, 0, 3, 0, 2, 0, 8, 2, 0, 0, 2, 1, 1, 1, 6, 0, 0, 1, 0, 1, 3, 5, 0,
+            2, 0, 0, 0, 0, 2, 5, 0, 6, 0, 0, 6, 8, 6, 1, 6, 6, 1, 6, 0, 6, 6, 0,
+            0, 0, 8, 6, 5, 1, 0, 6, 6, 4, 4, 3, 2, 6, 1, 3, 2, 6, 3, 1, 3, 1, 4,
+            0, 6, 4, 1, 4, 6, 6, 0, 0, 4, 6, 8, 6, 5, 1, 6, 6, 6, 0, 1, 3, 4, 0,
+            6, 0, 4, 6, 4, 6, 0, 5, 4, 6, 4, 6, 3, 3, 6, 6, 6, 3, 6, 5, 4, 3, 6,
+            1, 3, 6, 6, 3, 6, 3, 4, 3, 6, 3, 4, 6, 0, 4, 4, 7, 6, 5, 7, 7, 5, 5,
+            5, 4, 6, 4, 7, 0, 7, 0, 0, 5, 0, 6, 3, 3, 3, 3, 3, 3, 3, 0, 4, 4, 0,
+            5, 6, 4
+          ],
+          "sums": {
+            "0": "Abortion is a personal choice.",
+            "1": "Abortion is a civil right.",
+            "2": "Abortion ensures women's autonomy.",
+            "3": " Abortion isn't murder legally.",
+            "4": " Abortion prevents child suffering.",
+            "5": "Abortion prevents unwanted children.",
+            "6": " Abortion is not a moral issue.",
+            "7": "Abortion reduces orphanage burdens.",
+            "8": "Abortion protects mental health."
+          },
+          "runtime": 77.0445
+        }
+      },
+      "gayRights": {
+        "-1": {
+          "sum_ids": [
+            11, 9, 2, 2, 8, 9, 11, 1, 0, 9, 1, 1, 2, 8, 11, 11, 2, 9, 11, 8, 1,
+            2, 0, 3, 9, 9, 11, 9, 9, 9, 8, 9, 6, 0, 5, 0, 0, 11, 5, 4, 0, 5, 10,
+            0, 11, 0, 9, 9, 9, 11, 5, 4, 9, 7, 7, 0, 0, 10, 5, 2, 3, 5, 11, 4,
+            3, 4, 3, 0, 3, 0, 6, 6, 11, 10, 1, 11, 10, 4, 11, 4, 10, 3
+          ],
+          "sums": {
+            "0": " Marriage purpose is offspring.",
+            "1": "Homosexuality is immoral.",
+            "2": "Homosexuality opposes Christianity.",
+            "3": "Children need a mother and father.",
+            "4": " Gay marriage affects future generations.",
+            "5": "Gay couples can't reproduce.",
+            "6": "Homosexuality harms society.",
+            "7": " Homosexuality disrupts family morals.",
+            "8": " Homosexuality is a sin.",
+            "9": "Marriage is man-woman only.",
+            "10": " Homosexuality is unnatural.",
+            "11": "Bible condemns homosexuality."
+          },
+          "runtime": 41.44564
+        },
+        "1": {
+          "sum_ids": [
+            5, 7, 5, 1, 6, 3, 2, 2, 5, 0, 5, 5, 0, 0, 3, 5, 0, 5, 1, 5, 1, 5, 5,
+            8, 3, 0, 1, 3, 5, 0, 7, 7, 0, 6, 0, 1, 3, 2, 0, 7, 0, 6, 2, 8, 0, 8,
+            0, 0, 0, 3, 2, 3, 6, 3, 2, 2, 2, 2, 3, 6, 7, 0, 7, 3, 2, 2, 7, 7, 7,
+            8, 3, 0, 2, 5, 0, 2, 7, 1, 6, 2, 2, 2, 8, 2, 7, 3, 0, 7, 3, 3, 0, 0,
+            2, 6, 0, 0, 2, 0, 3, 7, 8, 0, 3, 0, 3, 2, 6, 3, 0, 2, 3, 3, 2, 2, 2,
+            0, 8, 2, 0, 0, 0, 0, 0, 3, 7, 2, 7, 2, 0, 7, 2, 0, 8, 6, 5, 2, 8, 6,
+            3, 1, 7, 3, 6, 5, 1, 6, 5, 1, 8, 6, 6, 6, 7, 5, 5, 6, 6, 1, 4, 0, 7,
+            1, 2, 1, 4, 0, 1, 1, 1, 1, 1, 2, 1, 7, 1, 0, 4, 0, 0, 1, 2, 2, 1, 0,
+            7, 2, 1, 7, 0, 5, 1, 1, 0, 0, 1, 0, 0, 1, 3, 2, 7, 7, 2, 1, 7, 7, 7,
+            7, 7, 7, 7, 7, 7, 2, 2, 7
+          ],
+          "sums": {
+            "0": "Love is a personal choice.",
+            "1": "Homosexuality is natural.",
+            "2": "Gay rights are human rights.",
+            "3": "Equal rights for all couples.",
+            "4": " Homosexuality isn't a choice.",
+            "5": "Gay marriage doesn't harm society.",
+            "6": " Marriage rights ensure equality.",
+            "7": " Religious beliefs shouldn't dictate law.",
+            "8": " Same-sex couples deserve benefits."
+          },
+          "runtime": 90.31766
+        }
+      },
+      "marijuana": {
+        "-1": {
+          "sum_ids": [
+            5, 5, 13, 9, 5, 1, 1, 10, 4, 5, 4, 1, 1, 8, 13, 12, 4, 7, 4, 7, 4,
+            3, 2, 1, 1, 1, 2, 7, 2, 9, 7, 10, 7, 1, 1, 1, 7, 7, 4, 0, 10, 0, 0,
+            11, 7, 0, 0, 1, 0, 0, 11, 1, 10, 6, 10, 10, 10, 7, 7, 3, 0, 3, 0,
+            13, 8, 3, 4, 11, 6, 6, 3, 2, 6, 1, 0, 6, 6
+          ],
+          "sums": {
+            "0": "It leads to substance abuse.",
+            "1": " It negatively affects mental health.",
+            "2": "It causes memory impairment.",
+            "3": "Marijuana is a gateway drug.",
+            "4": " It increases public health concerns.",
+            "5": "Passive smoking is harmful.",
+            "6": "Marijuana is addictive.",
+            "7": " It reduces concentration and learning.",
+            "8": " Marijuana increases cancer risk.",
+            "9": " Marijuana affects adolescent brain.",
+            "10": " It contributes to crime.",
+            "11": "Legalization increases consumption.",
+            "12": " It disturbs sexual functions.",
+            "13": "It increases heart attack risk."
+          },
+          "runtime": 43.0797
+        },
+        "1": {
+          "sum_ids": [
+            8, 8, 3, 4, 5, 8, 4, 3, 5, 12, 4, 4, 3, 3, 3, 3, 9, 4, 3, 5, 3, 8,
+            3, 4, 8, 4, 4, 3, 4, 8, 8, 4, 3, 5, 3, 4, 4, 5, 7, 3, 12, 4, 3, 3,
+            3, 3, 3, 8, 3, 3, 4, 3, 3, 5, 10, 5, 3, 3, 3, 4, 5, 3, 4, 3, 10, 7,
+            10, 1, 1, 4, 10, 8, 1, 1, 1, 8, 8, 1, 8, 1, 10, 1, 1, 8, 1, 1, 8, 7,
+            7, 8, 1, 8, 8, 10, 10, 8, 7, 2, 0, 13, 6, 11, 0, 6, 0, 0, 0, 2, 6,
+            8, 11, 13, 8, 0, 12, 0, 6, 11, 11, 6, 8, 6, 4, 0, 0, 0, 13, 12, 6,
+            0, 0, 4, 12, 13, 0, 11, 6, 13, 12, 0, 13, 0, 1, 6, 0, 2, 11, 13, 1,
+            0, 3, 9, 0, 6, 6, 0, 6, 11, 0, 1, 6, 9, 4, 11, 13, 0, 12, 0, 0, 4,
+            11, 13, 6, 11, 0, 6, 11, 11, 0, 8, 5, 0, 4, 3, 12, 13, 2, 6, 12, 12,
+            12, 12, 12, 12, 12, 12, 6, 6, 12, 12, 9, 12, 2, 6, 4, 13, 6, 12, 5,
+            5, 12, 3, 12, 12, 6, 12, 12, 6, 12, 6, 12, 6, 12, 12, 9, 12, 4, 9,
+            12, 6, 8, 6, 12, 6, 12, 2, 1, 6, 8, 3, 10, 4, 8, 7, 8, 8, 3, 8, 8,
+            8, 8, 8, 8, 8
+          ],
+          "sums": {
+            "0": "Legalization boosts economy.",
+            "1": "Has medicinal benefits.",
+            "2": "Reduces prison overcrowding.",
+            "3": "Marijuana is safer than alcohol.",
+            "4": "Less harmful than tobacco.",
+            "5": "Not physically addictive.",
+            "6": " Legalization lowers crime.",
+            "7": "Encourages creativity.",
+            "8": " Proven health benefits.",
+            "9": "Safer in social contexts.",
+            "10": " Stimulates brain growth.",
+            "11": " Reduces black market crime.",
+            "12": " Personal freedom choice.",
+            "13": "Prohibition is costly."
+          },
+          "runtime": 120.69865
+        }
+      },
+      "obama": {
+        "-1": {
+          "sum_ids": [
+            1, 2, 4, 2, 4, 3, 4, 1, 4, 2, 1, 4, 3, 4, 4, 2, 4, 1, 2, 3, 4, 3, 2,
+            2, 2, 2, 2, 1, 2, 1, 4, 3, 3, 3, 0, 4, 0, 0, 0, 0, 0, 1, 2, 2, 2, 1,
+            2, 2, 2, 0, 1, 2, 4, 2, 2, 2, 2, 0, 2, 1, 1, 1, 2, 2, 1, 1, 2, 1, 1,
+            2, 0, 1, 1, 2, 2, 2, 2, 2, 2
+          ],
+          "sums": {
+            "0": "Obamacare is unpopular.",
+            "1": "Leadership lacks experience.",
+            "2": " Discontent among liberals.",
+            "3": "Unemployment remains high.",
+            "4": "Economy hasn't recovered."
+          },
+          "runtime": 28.80626
+        },
+        "1": {
+          "sum_ids": [
+            1, 1, 0, 3, 3, 1, 3, 2, 0, 0, 3, 0, 0, 0, 0, 1, 2, 1, 1, 3, 1, 1, 0,
+            1, 3, 0, 2, 1, 3, 2, 1, 2, 0, 1, 2, 1, 1, 1, 1, 1, 1, 2, 0, 1, 1, 1,
+            1, 3, 2, 1, 1, 1, 1, 1, 3, 2, 1, 1, 1, 2, 1, 1, 1, 2, 1, 1, 2, 2, 2,
+            0, 2, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1,
+            2, 1, 3, 3, 1, 1, 1, 3, 3, 2, 3, 0, 0, 1, 0, 1, 2, 1, 0, 2, 2, 1, 2,
+            2, 2, 2, 2, 0
+          ],
+          "sums": {
+            "0": "Stimulus improved the economy.",
+            "1": "Economic growth under Obama.",
+            "2": "Job growth increased.",
+            "3": " Focused on middle class."
+          },
+          "runtime": 46.45385
+        }
+      }
+    }
+  },
+  "parameter_names": ["match_scorer_t"],
+  "parameter_values": [
+    [
+      0.75, 0.775, 0.8, 0.8250000000000001, 0.8500000000000001,
+      0.8750000000000001, 0.9000000000000001, 0.9250000000000002,
+      0.9500000000000002
+    ]
+  ]
+}

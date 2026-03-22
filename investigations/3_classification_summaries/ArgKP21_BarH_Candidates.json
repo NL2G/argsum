@@ -1,0 +1,1202 @@
+{
+  "summaries": {
+    "(0.75,)": {
+      "Routine child vaccinations should be mandatory": {
+        "-1": {
+          "sum_ids": [
+            1, 2, 1, 2, 1, 1, 6, 1, 2, 2, 1, 1, 2, 1, 5, 5, 5, 5, 0, 0, 4, 0, 4,
+            0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 4, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 4, 0, 1, 1, 1,
+            1, 1, 1, 1, 1, 1, 4, 1, 1, 1, 6, 2, 4, 1, 6, 1, 1, 1
+          ],
+          "sums": {
+            "0": "Potential harmful side effects.",
+            "1": "Disrespects individual choice.",
+            "2": "Violates religious beliefs.",
+            "3": "Unproven vaccine safety.",
+            "4": " Endangers child health.",
+            "5": " Children have low vulnerability.",
+            "6": " Freedom to choose essential."
+          },
+          "runtime": 40.97027
+        },
+        "1": {
+          "sum_ids": [
+            1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1,
+            0, 0, 2, 2, 1, 1, 2, 0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0
+          ],
+          "sums": {
+            "0": "Vaccines prevent disease spread.",
+            "1": "Mandatory vaccines save children's lives.",
+            "2": "Vaccines promote healthy growth.",
+            "3": "Vaccines protect against new strains."
+          },
+          "runtime": 32.12118
+        }
+      },
+      "Social media platforms should be regulated by the government": {
+        "-1": {
+          "sum_ids": [
+            4, 1, 4, 5, 4, 5, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 9, 0, 0, 0,
+            0, 0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1, 7, 1, 2, 1, 7, 3, 3, 3, 2, 0, 2,
+            2, 2
+          ],
+          "sums": {
+            "0": "Social media ensures freedom of expression.",
+            "1": "Regulation invades privacy.",
+            "2": "Platforms are private companies.",
+            "3": " Government can't manage all content.",
+            "4": " Government control is corruptible.",
+            "5": "Government may abuse power.",
+            "6": "Regulation undermines democracy.",
+            "7": "Government control risks authoritarianism.",
+            "8": " Government could censor dissent.",
+            "9": " Social media fosters diverse opinions."
+          },
+          "runtime": 36.92761
+        },
+        "1": {
+          "sum_ids": [
+            3, 4, 4, 2, 1, 3, 0, 7, 0, 2, 2, 2, 2, 2, 3, 2, 4, 3, 0, 3, 3, 0, 0,
+            4, 4, 4, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2, 1, 0, 0, 0, 2, 6, 0, 6,
+            0, 0, 0, 2, 0, 2, 0, 0, 0, 0, 0, 2, 0, 5, 5, 5, 5, 0, 0, 3, 3, 3, 3,
+            3
+          ],
+          "sums": {
+            "0": "Protect against online crimes.",
+            "1": "Curb misinformation dissemination.",
+            "2": "Regulate to prevent hate speech.",
+            "3": "Safeguard children from harmful content.",
+            "4": "Limit negative societal impact.",
+            "5": "Mitigate cyberbullying and harassment.",
+            "6": " Stop terrorist content promotion.",
+            "7": " Restrict violent content sharing."
+          },
+          "runtime": 32.35195
+        }
+      },
+      "The USA is a good country to live in": {
+        "-1": {
+          "sum_ids": [
+            8, 9, 8, 1, 1, 9, 9, 1, 1, 1, 10, 13, 11, 10, 10, 12, 5, 3, 14, 5,
+            2, 4, 4, 7, 2, 2, 3, 3, 3, 7, 3, 3, 3, 0, 6, 6, 0, 6, 0, 0, 6, 0, 0,
+            6, 0
+          ],
+          "sums": {
+            "0": "Prevalent racial discrimination",
+            "1": "Intense political divisions",
+            "2": " Insufficient healthcare access",
+            "3": "Unsafe due to crime",
+            "4": " Expensive education costs",
+            "5": "Wealth inequality gap",
+            "6": " Persistent racial tensions",
+            "7": "Lack of gun control",
+            "8": "Excessive consumerism culture",
+            "9": " Government overcontrol issues",
+            "10": "High cost of living",
+            "11": "Expensive healthcare system",
+            "12": " High unemployment rates",
+            "13": "High taxes burden",
+            "14": " Limited opportunities for poor"
+          },
+          "runtime": 27.98358
+        },
+        "1": {
+          "sum_ids": [
+            11, 9, 0, 4, 4, 2, 9, 2, 2, 2, 2, 2, 2, 4, 9, 2, 9, 2, 0, 4, 4, 4,
+            0, 9, 13, 13, 12, 5, 5, 5, 1, 1, 14, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            10, 6, 10, 6, 4, 4, 4, 4, 4, 3, 7, 0, 2, 0, 0, 7, 3, 8, 0, 0, 3, 0,
+            8, 0, 0, 8, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 3, 3, 0, 0, 0, 3, 7
+          ],
+          "sums": {
+            "0": "Abundant job opportunities.",
+            "1": "Land of freedom and rights.",
+            "2": "High quality of life.",
+            "3": "Opportunities for personal growth.",
+            "4": " Economic powerhouse globally.",
+            "5": " Beautiful natural landscapes.",
+            "6": "Diverse multicultural society.",
+            "7": " American Dream is attainable.",
+            "8": " Equal opportunity for success.",
+            "9": "Stable economy ensures prosperity.",
+            "10": "Rich cultural experiences.",
+            "11": "Strong political stability.",
+            "12": " Access to quality education.",
+            "13": "Excellent healthcare system.",
+            "14": " Freedom of expression upheld."
+          },
+          "runtime": 47.10156
+        }
+      }
+    },
+    "(0.775,)": {
+      "Routine child vaccinations should be mandatory": {
+        "-1": {
+          "sum_ids": [
+            6, 4, 2, 4, 2, 2, 6, 7, 4, 4, 2, 6, 4, 2, 11, 11, 9, 11, 10, 0, 9,
+            0, 1, 0, 0, 0, 10, 1, 9, 0, 0, 0, 8, 0, 0, 1, 1, 1, 8, 1, 12, 0, 0,
+            1, 1, 1, 0, 9, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 13, 0, 0, 0, 1,
+            0, 3, 3, 7, 5, 3, 2, 2, 2, 2, 3, 7, 3, 3, 3, 5, 5, 5, 5, 3, 3, 2
+          ],
+          "sums": {
+            "0": "Potential side effects",
+            "1": "Risk of harmful reactions",
+            "2": "Freedom of decision",
+            "3": "Respects parental choice",
+            "4": "Violates religious beliefs",
+            "5": "Parental responsibility",
+            "6": "Infringes on free will",
+            "7": " Parental rights violation",
+            "8": " Uncertain long-term effects",
+            "9": " Unnecessary for children",
+            "10": "Lack of vaccine testing",
+            "11": "Children not vulnerable",
+            "12": " Safety concerns for children",
+            "13": " Risk of developmental impact"
+          },
+          "runtime": 45.90312
+        },
+        "1": {
+          "sum_ids": [
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "sums": { "0": "Protects against infectious diseases." },
+          "runtime": 26.29171
+        }
+      },
+      "Social media platforms should be regulated by the government": {
+        "-1": {
+          "sum_ids": [
+            2, 1, 4, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 4, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 4, 0, 4, 0, 0, 0,
+            0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 3, 1, 4, 5, 5, 5, 3, 0, 3,
+            3, 3
+          ],
+          "sums": {
+            "0": "Regulation undermines freedom of expression.",
+            "1": "Regulation invades user privacy.",
+            "2": "Government control risks corruption.",
+            "3": " Platforms are private entities.",
+            "4": "Government interference restricts opinions.",
+            "5": " Government regulation is impractical."
+          },
+          "runtime": 33.00838
+        },
+        "1": {
+          "sum_ids": [
+            2, 5, 5, 11, 1, 0, 3, 9, 6, 0, 0, 0, 0, 0, 11, 0, 5, 4, 0, 4, 4, 6,
+            6, 5, 5, 5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 10, 3, 2, 0, 9,
+            3, 0, 3, 3, 6, 0, 0, 0, 6, 3, 2, 3, 3, 0, 8, 2, 7, 2, 0, 3, 3, 10,
+            4, 4, 2, 4
+          ],
+          "sums": {
+            "0": "Regulate to prevent hate speech.",
+            "1": "Control to stop fake news.",
+            "2": "Control harmful user behavior.",
+            "3": " Prevent criminal activities.",
+            "4": "Reduce harmful content exposure.",
+            "5": "Reduce negative societal impact.",
+            "6": "Protect society from crime.",
+            "7": "Stop online bullying.",
+            "8": "Prevent hate crimes online.",
+            "9": " Mitigate content promoting violence.",
+            "10": " Prevent identity theft.",
+            "11": " Restrict harmful information."
+          },
+          "runtime": 40.28631
+        }
+      },
+      "The USA is a good country to live in": {
+        "-1": {
+          "sum_ids": [
+            7, 15, 7, 3, 3, 11, 6, 3, 3, 3, 12, 14, 5, 12, 12, 13, 6, 6, 15, 6,
+            2, 10, 5, 2, 2, 2, 1, 8, 1, 8, 1, 1, 1, 0, 9, 0, 0, 9, 0, 0, 0, 0,
+            0, 4, 4
+          ],
+          "sums": {
+            "0": "Widespread racial discrimination",
+            "1": " Unsafe due to crime",
+            "2": "Lack of universal healthcare",
+            "3": "Intense political divisions",
+            "4": " Racism endangers harmony",
+            "5": "Unaffordable healthcare",
+            "6": " Vast wealth inequality",
+            "7": "Excessive materialism",
+            "8": "Rampant gun violence",
+            "9": " Immigrant restrictions",
+            "10": " Expensive education",
+            "11": "Government overreach",
+            "12": "High cost of living",
+            "13": "High unemployment rates",
+            "14": " High taxes",
+            "15": " Limited job opportunities"
+          },
+          "runtime": 30.7827
+        },
+        "1": {
+          "sum_ids": [
+            9, 5, 0, 5, 2, 2, 5, 2, 2, 2, 2, 2, 2, 5, 5, 2, 5, 2, 0, 5, 5, 5, 0,
+            5, 11, 11, 10, 4, 4, 4, 3, 3, 7, 1, 1, 1, 1, 9, 1, 1, 1, 7, 1, 6, 6,
+            6, 6, 2, 2, 2, 3, 3, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 0, 0, 8, 3
+          ],
+          "sums": {
+            "0": "Land of opportunities.",
+            "1": "Strong civil liberties.",
+            "2": "High quality of life.",
+            "3": " Opportunity to achieve dreams.",
+            "4": " Beautiful natural landscapes.",
+            "5": "Stable economy ensures prosperity.",
+            "6": "Diverse cultural landscape.",
+            "7": "Freedom of expression.",
+            "8": " Opportunities for personal growth.",
+            "9": " Economic and political stability.",
+            "10": "Excellent education system.",
+            "11": "Access to quality healthcare."
+          },
+          "runtime": 44.71771
+        }
+      }
+    },
+    "(0.8,)": {
+      "Routine child vaccinations should be mandatory": {
+        "-1": {
+          "sum_ids": [
+            1, 4, 3, 4, 2, 2, 2, 3, 6, 4, 2, 3, 6, 3, 5, 5, 5, 7, 0, 0, 5, 0, 5,
+            0, 0, 0, 5, 5, 7, 0, 0, 0, 0, 0, 0, 5, 0, 7, 0, 0, 7, 5, 0, 5, 0, 0,
+            0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 7, 0, 1, 1, 3,
+            1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 2, 3, 1, 1, 1, 2, 2
+          ],
+          "sums": {
+            "0": "Prevents potential side effects.",
+            "1": "Preserves parental choice.",
+            "2": "Acknowledges personal decision-making.",
+            "3": " Respects individual health choices.",
+            "4": "Respects religious beliefs.",
+            "5": " Averts unnecessary health risks.",
+            "6": "Avoids infringing religious freedom.",
+            "7": " Protects child safety concerns."
+          },
+          "runtime": 40.69246
+        },
+        "1": {
+          "sum_ids": [
+            0, 1, 3, 3, 3, 0, 1, 1, 0, 3, 3, 4, 0, 0, 0, 0, 0, 0, 2, 2, 0, 0, 0,
+            2, 0, 0, 2, 2, 2, 2, 0, 0, 2, 0, 3, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0,
+            0, 0, 4, 4, 0, 0, 0, 0, 4, 0, 0, 0, 0, 5, 5, 0, 0, 0, 0, 1, 0, 0, 0
+          ],
+          "sums": {
+            "0": "Protects against infectious diseases.",
+            "1": "Essential for public health.",
+            "2": " Reduces future health problems.",
+            "3": "Saves millions of children's lives.",
+            "4": "Ensures long-term population immunity.",
+            "5": "Prevents disease spread in schools."
+          },
+          "runtime": 31.69556
+        }
+      },
+      "Social media platforms should be regulated by the government": {
+        "-1": {
+          "sum_ids": [
+            4, 1, 3, 3, 4, 4, 0, 1, 7, 1, 0, 1, 0, 0, 1, 0, 1, 1, 0, 5, 1, 1, 0,
+            0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 6, 1, 1, 0,
+            0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 5, 1, 5, 1, 2, 8, 5, 8, 8, 8, 2, 2, 2,
+            2, 2
+          ],
+          "sums": {
+            "0": "Social media ensures free expression.",
+            "1": "Government regulation threatens free speech.",
+            "2": "Platforms are private companies.",
+            "3": "Government control risks political bias.",
+            "4": " Government regulation can be abused.",
+            "5": " Regulation may lead to authoritarianism.",
+            "6": " Regulation limits diverse viewpoints.",
+            "7": "Regulation undermines democratic principles.",
+            "8": " Government can't manage vast content."
+          },
+          "runtime": 38.33343
+        },
+        "1": {
+          "sum_ids": [
+            3, 6, 7, 11, 0, 3, 12, 3, 8, 2, 2, 1, 1, 1, 11, 1, 1, 3, 7, 3, 3, 5,
+            5, 7, 6, 7, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 4, 5, 6, 2, 10,
+            8, 10, 5, 5, 2, 7, 6, 2, 10, 4, 11, 4, 4, 1, 2, 8, 9, 8, 1, 4, 5, 7,
+            3, 11, 3, 3
+          ],
+          "sums": {
+            "0": "Controls fake news.",
+            "1": "Prevents hate speech.",
+            "2": "Stops hate crimes.",
+            "3": " Reduces unwanted content.",
+            "4": " Reduces scams and fraud.",
+            "5": "Reduces online crime.",
+            "6": " Reduces negative influence.",
+            "7": " Prevents social harm.",
+            "8": " Prevents content abuse.",
+            "9": "Reduces cyberbullying.",
+            "10": " Prevents terrorism spread.",
+            "11": "Limits harmful content.",
+            "12": " Protects public reputation."
+          },
+          "runtime": 39.23491
+        }
+      },
+      "The USA is a good country to live in": {
+        "-1": {
+          "sum_ids": [
+            13, 10, 10, 12, 3, 12, 4, 3, 12, 3, 2, 14, 2, 9, 2, 14, 4, 4, 7, 4,
+            8, 9, 2, 5, 8, 8, 6, 6, 11, 5, 1, 1, 1, 0, 7, 7, 0, 11, 0, 0, 0, 7,
+            0, 0, 0
+          ],
+          "sums": {
+            "0": "Persistent racial discrimination",
+            "1": "High crime rates",
+            "2": "Excessive healthcare expenses",
+            "3": "Intense political divisions",
+            "4": "Wealth inequality",
+            "5": " Inadequate gun control",
+            "6": "Rampant gun violence",
+            "7": "Limited immigrant opportunities",
+            "8": " Lack of universal healthcare",
+            "9": "Unaffordable education",
+            "10": " Materialistic culture",
+            "11": " Aggressive societal behavior",
+            "12": " Unstable political system",
+            "13": " Cultural promotion of consumerism",
+            "14": " High unemployment rates"
+          },
+          "runtime": 26.77567
+        },
+        "1": {
+          "sum_ids": [
+            9, 1, 1, 1, 8, 1, 1, 1, 1, 1, 1, 1, 9, 8, 1, 1, 1, 1, 0, 8, 8, 8, 0,
+            9, 12, 1, 11, 4, 4, 4, 2, 2, 7, 2, 2, 2, 2, 6, 2, 2, 2, 7, 2, 5, 10,
+            5, 5, 8, 8, 8, 8, 8, 3, 3, 0, 2, 0, 0, 1, 3, 0, 0, 0, 3, 0, 10, 0,
+            0, 6, 0, 0, 0, 0, 0, 0, 8, 0, 0, 0, 3, 0, 0, 0, 0, 3, 2
+          ],
+          "sums": {
+            "0": "Abundant job opportunities.",
+            "1": "Stable economy supports quality life.",
+            "2": "Land of freedom and rights.",
+            "3": " Opportunities for personal growth.",
+            "4": " Rich natural landscapes.",
+            "5": "Diverse cultural landscape.",
+            "6": "Strong democratic governance.",
+            "7": "Freedom of expression upheld.",
+            "8": " Leading global economic power.",
+            "9": " Sustainable economic development.",
+            "10": " Multicultural society.",
+            "11": "Excellent educational opportunities.",
+            "12": "Access to quality healthcare."
+          },
+          "runtime": 44.58081
+        }
+      }
+    },
+    "(0.8250000000000001,)": {
+      "Routine child vaccinations should be mandatory": {
+        "-1": {
+          "sum_ids": [
+            3, 2, 1, 2, 3, 3, 3, 8, 2, 2, 1, 3, 2, 1, 7, 11, 11, 11, 0, 0, 5, 0,
+            0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 7, 10, 0, 0, 0,
+            0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 5, 0, 8,
+            3, 8, 4, 4, 4, 1, 4, 1, 1, 3, 9, 1, 1, 4, 9, 4, 4, 1, 1, 1
+          ],
+          "sums": {
+            "0": "Potential harmful side effects.",
+            "1": " Vaccination is a personal choice.",
+            "2": "Violates religious beliefs.",
+            "3": "Infringes on free will.",
+            "4": "Parents' choice, not government.",
+            "5": " Negative impacts on child health.",
+            "6": "Lack of vaccine safety.",
+            "7": " Vaccines may cause autism.",
+            "8": " Parental rights overrule mandates.",
+            "9": " Parents know best for children.",
+            "10": " Risk of toxic substances.",
+            "11": "Children have low vulnerability."
+          },
+          "runtime": 46.64467
+        },
+        "1": {
+          "sum_ids": [
+            0, 3, 3, 3, 3, 2, 3, 3, 0, 0, 3, 2, 2, 0, 2, 0, 2, 0, 1, 0, 0, 0, 0,
+            0, 0, 0, 1, 2, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 2, 2, 2, 0, 0, 1, 2, 0,
+            2, 0, 1, 0, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0
+          ],
+          "sums": {
+            "0": "Vaccines protect against diseases.",
+            "1": "Vaccines prevent future infections.",
+            "2": " Vaccines are crucial for child health.",
+            "3": "Mandatory vaccines save lives."
+          },
+          "runtime": 30.33015
+        }
+      },
+      "Social media platforms should be regulated by the government": {
+        "-1": {
+          "sum_ids": [
+            5, 2, 5, 5, 5, 5, 0, 0, 8, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 6, 0, 1, 0,
+            1, 0, 4, 0, 1, 1, 4, 1, 1, 0, 1, 0, 1, 0, 4, 1, 1, 6, 1, 7, 0, 0, 1,
+            1, 1, 0, 0, 2, 2, 2, 4, 2, 2, 6, 2, 6, 2, 3, 2, 6, 4, 4, 4, 3, 3, 3,
+            3, 3
+          ],
+          "sums": {
+            "0": "Government regulation threatens free speech.",
+            "1": "Social media fosters free speech.",
+            "2": "Regulation invades user privacy.",
+            "3": "Platforms are private entities.",
+            "4": "Social media should remain self-regulated.",
+            "5": "Government control risks political bias.",
+            "6": "Regulation risks authoritarian control.",
+            "7": " Regulation stifles diverse opinions.",
+            "8": "Regulation undermines democratic principles."
+          },
+          "runtime": 34.57205
+        },
+        "1": {
+          "sum_ids": [
+            0, 8, 7, 0, 1, 0, 11, 0, 2, 4, 4, 3, 3, 0, 0, 0, 5, 0, 0, 0, 0, 7,
+            2, 5, 5, 5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 10, 7, 0, 4, 8,
+            2, 8, 11, 2, 2, 0, 0, 2, 11, 2, 0, 2, 8, 3, 2, 0, 6, 0, 3, 9, 2, 7,
+            0, 0, 0, 0
+          ],
+          "sums": {
+            "0": "Control harmful content.",
+            "1": "Curb misinformation.",
+            "2": "Limit online crime.",
+            "3": "Reduce hate speech.",
+            "4": "Stop hate crimes.",
+            "5": " Mitigate social harm.",
+            "6": "Reduce bullying online.",
+            "7": " Protect public safety.",
+            "8": " Restrict harmful influence.",
+            "9": " Control online fraud.",
+            "10": "Prevent identity theft.",
+            "11": " Prevent criminal behavior."
+          },
+          "runtime": 36.76435
+        }
+      },
+      "The USA is a good country to live in": {
+        "-1": {
+          "sum_ids": [
+            11, 10, 9, 6, 3, 6, 5, 3, 3, 3, 1, 4, 1, 12, 4, 12, 5, 5, 13, 5, 8,
+            8, 1, 6, 13, 1, 2, 7, 10, 7, 2, 2, 2, 0, 6, 0, 0, 10, 0, 0, 0, 0, 0,
+            0, 0
+          ],
+          "sums": {
+            "0": "Widespread racial discrimination",
+            "1": "Excessive healthcare costs",
+            "2": " Unsafe due to crime",
+            "3": "Intense political divisions",
+            "4": " Expensive taxes",
+            "5": "Vast wealth inequality",
+            "6": " Strict government control",
+            "7": "Rampant gun violence",
+            "8": "Unaffordable education",
+            "9": " Materialistic societal values",
+            "10": " Aggressive cultural attitudes",
+            "11": "Uncontrolled consumerism",
+            "12": "High unemployment rates",
+            "13": " Limited opportunities for poor"
+          },
+          "runtime": 25.9772
+        },
+        "1": {
+          "sum_ids": [
+            6, 6, 0, 3, 3, 2, 6, 2, 2, 2, 2, 2, 3, 3, 6, 2, 6, 2, 4, 3, 3, 3, 4,
+            6, 9, 9, 8, 5, 5, 5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 7, 5,
+            5, 3, 3, 3, 3, 3, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 4, 0, 0,
+            4, 0, 0, 0, 0, 0, 7, 0, 4, 0, 0, 0, 0, 0, 4, 0, 0
+          ],
+          "sums": {
+            "0": "Opportunities for success abound.",
+            "1": " Land of freedom and rights.",
+            "2": "High quality of life.",
+            "3": "Strong economic power globally.",
+            "4": " Economic growth offers jobs.",
+            "5": " Beautiful natural landscapes present.",
+            "6": "Stable economy supports prosperity.",
+            "7": " Equal opportunity for all.",
+            "8": "Excellent education system available.",
+            "9": "Access to good healthcare."
+          },
+          "runtime": 41.23649
+        }
+      }
+    },
+    "(0.8500000000000001,)": {
+      "Routine child vaccinations should be mandatory": {
+        "-1": {
+          "sum_ids": [
+            5, 2, 1, 2, 1, 1, 5, 7, 2, 2, 1, 1, 1, 1, 10, 10, 10, 10, 6, 0, 0,
+            0, 3, 0, 0, 0, 6, 0, 6, 0, 0, 0, 0, 0, 0, 3, 0, 8, 9, 0, 8, 0, 0, 3,
+            0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 1,
+            7, 7, 4, 4, 1, 1, 1, 1, 4, 7, 4, 1, 1, 4, 4, 4, 4, 1, 4, 1
+          ],
+          "sums": {
+            "0": "Potential harmful side effects.",
+            "1": "Infringes on personal choice.",
+            "2": "Violates religious beliefs.",
+            "3": "Risk of severe reactions.",
+            "4": " Protects parental decision-making.",
+            "5": "Threatens free will.",
+            "6": "Lack of vaccine testing.",
+            "7": "Undermines parental rights.",
+            "8": "Safety concerns with vaccines.",
+            "9": " Uncertain long-term effects.",
+            "10": " Children's low vulnerability."
+          },
+          "runtime": 41.17811
+        },
+        "1": {
+          "sum_ids": [
+            0, 1, 0, 1, 1, 0, 1, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            2, 0, 2, 0, 2, 4, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 3, 3, 0, 0, 0
+          ],
+          "sums": {
+            "0": "Vaccines protect against infectious diseases.",
+            "1": "Vaccination saves children's lives.",
+            "2": "Childhood vaccines ensure lifelong health.",
+            "3": " Vaccines are crucial for pandemic control.",
+            "4": " Vaccines prevent future mutations."
+          },
+          "runtime": 31.83624
+        }
+      },
+      "Social media platforms should be regulated by the government": {
+        "-1": {
+          "sum_ids": [
+            7, 2, 6, 6, 7, 6, 4, 1, 9, 1, 4, 1, 0, 0, 2, 1, 1, 1, 4, 1, 2, 0, 2,
+            0, 1, 4, 1, 0, 0, 2, 4, 0, 2, 0, 1, 0, 1, 4, 0, 0, 1, 0, 8, 2, 1, 0,
+            0, 0, 1, 1, 3, 0, 2, 4, 3, 3, 3, 3, 3, 3, 5, 4, 9, 4, 4, 4, 5, 5, 5,
+            5, 5
+          ],
+          "sums": {
+            "0": "Social media fosters free expression.",
+            "1": "Government regulation threatens free speech.",
+            "2": " Regulation restricts user freedom.",
+            "3": "Regulation is an invasion of privacy.",
+            "4": "Social media should remain unrestricted.",
+            "5": " Platforms are private entities.",
+            "6": "Government use could be self-serving.",
+            "7": "Government control invites corruption.",
+            "8": " Regulation stifles diverse viewpoints.",
+            "9": "Regulation undermines democracy."
+          },
+          "runtime": 36.66712
+        },
+        "1": {
+          "sum_ids": [
+            0, 6, 4, 0, 0, 0, 8, 0, 8, 2, 2, 2, 2, 0, 0, 0, 2, 0, 0, 0, 0, 4, 3,
+            4, 6, 5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 7, 5, 0, 2, 5, 5, 6,
+            5, 3, 8, 6, 6, 3, 5, 5, 0, 5, 6, 2, 3, 0, 2, 0, 2, 8, 3, 4, 0, 0, 0,
+            0
+          ],
+          "sums": {
+            "0": "Controls harmful content.",
+            "1": "Prevents misinformation spread.",
+            "2": "Prevents hate speech.",
+            "3": "Reduces online crime.",
+            "4": " Protects public safety.",
+            "5": " Restricts illegal activities.",
+            "6": " Limits harmful influence.",
+            "7": " Prevents identity theft.",
+            "8": "Mitigates criminal behavior."
+          },
+          "runtime": 34.50045
+        }
+      },
+      "The USA is a good country to live in": {
+        "-1": {
+          "sum_ids": [
+            5, 12, 5, 9, 3, 9, 10, 3, 3, 3, 1, 1, 1, 8, 1, 12, 7, 10, 6, 10, 12,
+            8, 1, 4, 1, 1, 2, 11, 2, 4, 2, 2, 2, 0, 6, 6, 0, 6, 0, 0, 0, 6, 0,
+            0, 0
+          ],
+          "sums": {
+            "0": "Widespread racial discrimination",
+            "1": "Excessive healthcare costs",
+            "2": " Unsafe due to crime rates",
+            "3": "Intense political divisions",
+            "4": " Insufficient gun control laws",
+            "5": "Unbridled consumerism culture",
+            "6": " Inadequate immigrant opportunities",
+            "7": " Vast wealth disparity",
+            "8": "Unaffordable education fees",
+            "9": "Overbearing government control",
+            "10": "Deep economic inequality",
+            "11": "Rampant gun violence",
+            "12": " High unemployment rates"
+          },
+          "runtime": 24.93614
+        },
+        "1": {
+          "sum_ids": [
+            5, 5, 0, 2, 9, 3, 5, 3, 12, 3, 3, 3, 3, 9, 5, 3, 5, 3, 6, 9, 9, 9,
+            6, 6, 15, 15, 14, 7, 7, 7, 2, 2, 1, 1, 1, 1, 1, 8, 1, 1, 1, 1, 1,
+            10, 13, 10, 10, 9, 3, 9, 2, 2, 4, 11, 0, 2, 0, 0, 2, 3, 2, 0, 0, 4,
+            0, 11, 0, 0, 8, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 4, 0, 0, 0, 0, 4, 2
+          ],
+          "sums": {
+            "0": "Abundant job opportunities.",
+            "1": "Freedom and civil liberties.",
+            "2": "Pursue the American Dream.",
+            "3": "High quality of life.",
+            "4": " Opportunities for personal growth.",
+            "5": "Stable economy supports prosperity.",
+            "6": " Economic and labor stability.",
+            "7": " Beautiful natural landscapes.",
+            "8": "Democratic governance.",
+            "9": " Leading global economic power.",
+            "10": "Diverse cultural landscape.",
+            "11": " Equal opportunity to succeed.",
+            "12": " Secure and fair justice system.",
+            "13": " Rich multicultural society.",
+            "14": "Strong educational system.",
+            "15": "Access to quality healthcare."
+          },
+          "runtime": 49.05892
+        }
+      }
+    },
+    "(0.8750000000000001,)": {
+      "Routine child vaccinations should be mandatory": {
+        "-1": {
+          "sum_ids": [
+            2, 3, 1, 3, 2, 2, 2, 5, 3, 3, 1, 2, 3, 2, 10, 10, 10, 10, 0, 0, 6,
+            0, 8, 0, 0, 0, 0, 0, 4, 0, 0, 0, 7, 0, 0, 0, 0, 4, 0, 0, 9, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 6, 1, 1,
+            5, 5, 1, 1, 1, 1, 1, 1, 1, 5, 1, 5, 1, 1, 1, 1, 1, 1, 1, 1
+          ],
+          "sums": {
+            "0": "Potential harmful side effects.",
+            "1": "Parents' choice, not mandatory.",
+            "2": "Infringes on free will.",
+            "3": "Violates religious beliefs.",
+            "4": "Unproven vaccine safety.",
+            "5": "Undermines parental rights.",
+            "6": " Health risks for children.",
+            "7": " Possible long-term side effects.",
+            "8": " Vaccines can be dangerous.",
+            "9": " Potentially toxic substances.",
+            "10": " Children have low vulnerability."
+          },
+          "runtime": 46.12518
+        },
+        "1": {
+          "sum_ids": [
+            0, 1, 0, 1, 1, 2, 1, 1, 0, 0, 1, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            6, 0, 0, 7, 5, 6, 7, 0, 0, 0, 0, 1, 0, 4, 0, 0, 0, 0, 0, 5, 5, 0, 0,
+            0, 0, 0, 0, 5, 0, 0, 4, 0, 5, 0, 0, 0, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "sums": {
+            "0": "Protects against infectious diseases.",
+            "1": "Vaccines save children's lives.",
+            "2": " Mitigates new, lethal disease strains.",
+            "3": "Prevents disease spread in schools.",
+            "4": " Prevents resurgence of eradicated diseases.",
+            "5": " Prevents virus transmission in children.",
+            "6": " Guarantees a healthy future.",
+            "7": "Ensures healthy child development."
+          },
+          "runtime": 33.128
+        }
+      },
+      "Social media platforms should be regulated by the government": {
+        "-1": {
+          "sum_ids": [
+            6, 6, 5, 6, 6, 6, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 7, 0, 0, 0,
+            0, 0, 0, 0, 2, 2, 1, 4, 2, 2, 4, 2, 4, 2, 3, 1, 4, 1, 1, 1, 3, 0, 3,
+            3, 3
+          ],
+          "sums": {
+            "0": "Regulation undermines freedom of expression.",
+            "1": "Social media should remain unregulated.",
+            "2": "It invades users' privacy.",
+            "3": " Platforms are private companies.",
+            "4": " Users may feel constantly monitored.",
+            "5": " Regulation can be politically biased.",
+            "6": "It risks government abuse of power.",
+            "7": " It limits diverse viewpoints.",
+            "8": "Regulation harms democratic principles."
+          },
+          "runtime": 40.97818
+        },
+        "1": {
+          "sum_ids": [
+            3, 4, 4, 1, 3, 3, 0, 1, 0, 1, 1, 1, 1, 1, 3, 1, 3, 3, 0, 3, 3, 0, 0,
+            4, 4, 4, 2, 2, 2, 2, 2, 2, 2, 1, 2, 6, 2, 1, 2, 0, 0, 0, 1, 5, 0, 5,
+            0, 0, 0, 1, 0, 1, 5, 0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 0, 0, 0, 3, 3, 3,
+            3
+          ],
+          "sums": {
+            "0": "Protect against online crimes.",
+            "1": "Regulate to prevent hate speech.",
+            "2": "Reduce fake news spread.",
+            "3": "Control harmful content exposure.",
+            "4": " Reduce negative societal impact.",
+            "5": "Prevent terrorist activities.",
+            "6": " Protect public from hoaxes."
+          },
+          "runtime": 31.74729
+        }
+      },
+      "The USA is a good country to live in": {
+        "-1": {
+          "sum_ids": [
+            10, 8, 8, 5, 3, 5, 2, 3, 3, 3, 9, 9, 4, 9, 9, 12, 2, 7, 7, 2, 1, 9,
+            4, 1, 1, 1, 6, 11, 6, 11, 6, 6, 6, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ],
+          "sums": {
+            "0": "Widespread racial discrimination.",
+            "1": "Lack of universal healthcare.",
+            "2": "Significant wealth inequality.",
+            "3": "Intense political divisions.",
+            "4": "Excessive healthcare expenses.",
+            "5": " Strict government control.",
+            "6": " Unsafe due to crime.",
+            "7": " Unrest due to inequality.",
+            "8": " Materialism dominates culture.",
+            "9": "High cost of living.",
+            "10": " Unbridled consumerism culture.",
+            "11": "Rampant gun violence.",
+            "12": "High unemployment rates."
+          },
+          "runtime": 42.65961
+        },
+        "1": {
+          "sum_ids": [
+            6, 4, 0, 4, 4, 2, 10, 2, 10, 2, 2, 2, 4, 4, 6, 2, 6, 2, 0, 4, 4, 4,
+            6, 4, 12, 12, 5, 8, 8, 8, 3, 3, 1, 1, 1, 1, 1, 7, 1, 1, 1, 1, 1, 9,
+            11, 9, 9, 2, 2, 2, 3, 3, 0, 5, 5, 3, 0, 0, 0, 0, 3, 0, 0, 0, 0, 5,
+            0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3
+          ],
+          "sums": {
+            "0": "Land of opportunity.",
+            "1": "Freedom and civil liberties.",
+            "2": "High quality of life.",
+            "3": " Pursuit of the American dream.",
+            "4": "Strong economic power.",
+            "5": " Equal opportunity to succeed.",
+            "6": "Stable economy ensures prosperity.",
+            "7": "Democratic governance.",
+            "8": " Rich natural landscapes.",
+            "9": "Diverse cultural landscape.",
+            "10": " Political stability and fairness.",
+            "11": " Multicultural society.",
+            "12": "Excellent healthcare system."
+          },
+          "runtime": 46.94782
+        }
+      }
+    },
+    "(0.9000000000000001,)": {
+      "Routine child vaccinations should be mandatory": {
+        "-1": {
+          "sum_ids": [
+            1, 2, 1, 2, 6, 1, 1, 1, 2, 2, 3, 6, 2, 4, 11, 11, 11, 11, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0, 7, 0, 10, 0, 5, 9, 0, 0,
+            0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0,
+            3, 6, 1, 3, 3, 3, 4, 3, 4, 8, 1, 8, 1, 4, 2, 8, 3, 4, 4, 3, 3
+          ],
+          "sums": {
+            "0": "Potential harmful side effects.",
+            "1": "Undermines personal freedom.",
+            "2": "Violates religious beliefs.",
+            "3": "Parents decide, not government.",
+            "4": " Freedom of choice is essential.",
+            "5": " Vaccines may cause autism.",
+            "6": "Disrespects free will.",
+            "7": " Risk of severe reactions.",
+            "8": " Parents know best for children.",
+            "9": " Potential toxic substances.",
+            "10": "Safety concerns with vaccines.",
+            "11": "Unnecessary for low-risk children."
+          },
+          "runtime": 44.16271
+        },
+        "1": {
+          "sum_ids": [
+            1, 3, 2, 2, 2, 3, 3, 1, 2, 2, 3, 1, 2, 2, 1, 1, 1, 0, 0, 2, 0, 0, 1,
+            1, 1, 4, 4, 1, 1, 4, 0, 0, 0, 0, 2, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 0,
+            0, 0, 1, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0
+          ],
+          "sums": {
+            "0": "Vaccination prevents disease spread.",
+            "1": "Mandatory vaccines ensure public health.",
+            "2": "Vaccines save millions of lives.",
+            "3": "Vaccination reduces infant mortality.",
+            "4": " Vaccination ensures healthy child growth."
+          },
+          "runtime": 34.58666
+        }
+      },
+      "Social media platforms should be regulated by the government": {
+        "-1": {
+          "sum_ids": [
+            7, 1, 3, 3, 7, 3, 2, 0, 6, 0, 2, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0,
+            0, 0, 2, 0, 0, 2, 1, 2, 0, 0, 2, 0, 0, 0, 2, 0, 0, 0, 2, 8, 0, 0, 4,
+            4, 4, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 6, 2, 2, 4, 5, 5, 5,
+            5, 5
+          ],
+          "sums": {
+            "0": "Government regulation threatens free speech.",
+            "1": "Regulation infringes on personal privacy.",
+            "2": " Social media autonomy should be preserved.",
+            "3": " Regulation could be misused politically.",
+            "4": " Social media enables free discourse.",
+            "5": " Platforms are private entities.",
+            "6": "Regulation harms democratic principles.",
+            "7": "Government control invites corruption.",
+            "8": "Platforms foster diverse viewpoints."
+          },
+          "runtime": 34.47211
+        },
+        "1": {
+          "sum_ids": [
+            1, 6, 8, 1, 1, 1, 5, 1, 2, 2, 2, 3, 3, 1, 1, 4, 2, 1, 1, 1, 1, 7, 5,
+            8, 8, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 0, 5, 5, 1, 2, 7, 4, 7,
+            5, 5, 2, 1, 1, 2, 7, 5, 1, 5, 1, 3, 2, 1, 4, 4, 3, 5, 5, 2, 1, 1, 1,
+            1
+          ],
+          "sums": {
+            "0": "Prevent spread of fake news.",
+            "1": "Control harmful content.",
+            "2": " Mitigate hate crime risks.",
+            "3": "Reduce online hate speech.",
+            "4": "Protect against cyberbullying.",
+            "5": "Stop online crime proliferation.",
+            "6": " Control negative social influence.",
+            "7": "Prevent terrorist activities.",
+            "8": " Limit harmful societal impact."
+          },
+          "runtime": 33.74245
+        }
+      },
+      "The USA is a good country to live in": {
+        "-1": {
+          "sum_ids": [
+            7, 10, 7, 3, 3, 12, 5, 3, 3, 3, 2, 5, 2, 11, 2, 11, 5, 5, 5, 5, 0,
+            9, 2, 0, 0, 0, 6, 6, 10, 12, 1, 1, 1, 4, 8, 8, 8, 8, 8, 4, 4, 4, 4,
+            4, 4
+          ],
+          "sums": {
+            "0": "Lack of universal healthcare",
+            "1": " Endemic crime issues",
+            "2": "Excessive healthcare expenses",
+            "3": "Intense political divisions",
+            "4": "Persistent racial discrimination",
+            "5": " Vast income inequality",
+            "6": "Widespread gun violence",
+            "7": "Rampant materialism",
+            "8": " Racism against minorities",
+            "9": "Expensive college education",
+            "10": " Aggressive cultural tendencies",
+            "11": "High unemployment rates",
+            "12": " Unsafe due to gun regulation"
+          },
+          "runtime": 31.52672
+        },
+        "1": {
+          "sum_ids": [
+            9, 9, 0, 9, 1, 1, 9, 1, 1, 1, 7, 1, 1, 1, 9, 1, 9, 1, 0, 9, 9, 9, 0,
+            9, 10, 10, 3, 8, 1, 8, 4, 4, 2, 2, 2, 2, 2, 6, 2, 2, 2, 2, 2, 8, 8,
+            8, 8, 1, 1, 1, 7, 4, 3, 4, 0, 4, 4, 0, 1, 1, 3, 0, 0, 5, 0, 3, 0, 0,
+            6, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 5, 0, 0, 0, 0, 5, 4
+          ],
+          "sums": {
+            "0": "Abundant job opportunities.",
+            "1": "High quality of life.",
+            "2": " Civil liberties are protected.",
+            "3": " Equal opportunity for success.",
+            "4": " Freedom to pursue dreams.",
+            "5": " Opportunities for personal growth.",
+            "6": "Strong democratic governance.",
+            "7": "Economic power attracts migrants.",
+            "8": "Diverse cultural landscape.",
+            "9": "Stable economy supports prosperity.",
+            "10": "Excellent healthcare system."
+          },
+          "runtime": 43.10583
+        }
+      }
+    },
+    "(0.9250000000000002,)": {
+      "Routine child vaccinations should be mandatory": {
+        "-1": {
+          "sum_ids": [
+            8, 2, 1, 2, 4, 1, 8, 4, 2, 2, 1, 4, 2, 4, 5, 10, 10, 10, 0, 0, 0, 0,
+            3, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 3, 0, 6, 0, 5, 0, 0, 0, 3, 0,
+            3, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 3, 0, 1, 1,
+            11, 1, 1, 1, 1, 1, 1, 1, 7, 1, 7, 1, 1, 1, 7, 1, 1, 1, 1
+          ],
+          "sums": {
+            "0": "Potential harmful side effects.",
+            "1": "Parents should decide vaccinations.",
+            "2": "Infringes on religious beliefs.",
+            "3": "Risk of severe reactions.",
+            "4": "Disrespects individual freedom.",
+            "5": " Vaccines may cause autism.",
+            "6": "Uncertain vaccine safety.",
+            "7": "Violates parental rights.",
+            "8": "Contradicts free will principles.",
+            "9": " Risk of developmental impact.",
+            "10": "Children less vulnerable.",
+            "11": " Mandates provoke public protests."
+          },
+          "runtime": 44.31021
+        },
+        "1": {
+          "sum_ids": [
+            1, 7, 4, 4, 4, 8, 7, 9, 1, 4, 7, 6, 8, 1, 6, 2, 1, 1, 3, 3, 1, 1, 2,
+            1, 9, 5, 5, 3, 3, 3, 1, 1, 3, 1, 4, 0, 6, 6, 2, 1, 2, 2, 0, 0, 2, 0,
+            0, 0, 6, 6, 0, 0, 0, 0, 6, 0, 2, 2, 0, 0, 0, 0, 0, 0, 2, 0, 2, 0, 2
+          ],
+          "sums": {
+            "0": " Vaccination prevents disease spread.",
+            "1": "Vaccines prevent life-threatening diseases.",
+            "2": " Vaccines are crucial for virus prevention.",
+            "3": " Vaccines prevent future health problems.",
+            "4": "Vaccines save millions of lives.",
+            "5": "Vaccines help children grow up healthy.",
+            "6": " Vaccines ensure long-term population immunity.",
+            "7": "Mandatory vaccination reduces infant mortality.",
+            "8": "Vaccines protect against new lethal strains.",
+            "9": "Child vaccines are effective health strategies."
+          },
+          "runtime": 38.78623
+        }
+      },
+      "Social media platforms should be regulated by the government": {
+        "-1": {
+          "sum_ids": [
+            5, 1, 4, 4, 5, 4, 0, 0, 3, 0, 0, 3, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0,
+            0, 1, 1, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 6, 0, 6, 0, 0, 1,
+            7, 0, 0, 0, 2, 2, 1, 1, 2, 2, 1, 2, 4, 2, 1, 1, 3, 1, 1, 1, 2, 0, 1,
+            2, 2
+          ],
+          "sums": {
+            "0": "Regulation undermines freedom of expression.",
+            "1": " Social media should be free from government control.",
+            "2": " Government regulation is an invasion of privacy.",
+            "3": "Regulation could harm democratic principles.",
+            "4": "Regulation risks political manipulation.",
+            "5": "Government control invites corruption.",
+            "6": " Regulation could stifle diverse opinions.",
+            "7": " Social media fosters free communication."
+          },
+          "runtime": 32.47202
+        },
+        "1": {
+          "sum_ids": [
+            8, 8, 1, 0, 2, 5, 3, 0, 7, 0, 0, 0, 0, 0, 5, 0, 8, 9, 1, 5, 6, 1, 1,
+            0, 8, 4, 6, 2, 2, 2, 2, 2, 2, 0, 2, 2, 6, 0, 4, 1, 3, 3, 0, 9, 3, 9,
+            3, 1, 1, 0, 1, 1, 1, 4, 1, 4, 3, 0, 7, 1, 0, 0, 0, 4, 3, 1, 5, 5, 5,
+            5
+          ],
+          "sums": {
+            "0": "Regulate to prevent hate speech.",
+            "1": " Regulate to protect public safety.",
+            "2": "Control fake news dissemination.",
+            "3": " Monitor for criminal behavior.",
+            "4": " Prevent scams and fraud online.",
+            "5": "Protect children from inappropriate content.",
+            "6": "Avoid spreading false information.",
+            "7": "Curb hate crime activities.",
+            "8": "Mitigate social media's negative influence.",
+            "9": " Control extremist content spread."
+          },
+          "runtime": 33.72326
+        }
+      },
+      "The USA is a good country to live in": {
+        "-1": {
+          "sum_ids": [
+            10, 8, 7, 4, 4, 3, 2, 4, 4, 4, 1, 1, 1, 13, 1, 13, 2, 9, 14, 2, 14,
+            5, 1, 3, 14, 1, 6, 11, 8, 3, 12, 12, 12, 0, 9, 0, 0, 8, 0, 0, 9, 0,
+            0, 9, 0
+          ],
+          "sums": {
+            "0": "Rampant racial discrimination",
+            "1": "Excessive healthcare expenses",
+            "2": "Vast wealth inequality",
+            "3": " Insufficient gun control laws",
+            "4": "Intense political divisions",
+            "5": "Unaffordable college education",
+            "6": " Unsafe due to frequent attacks",
+            "7": " Materialistic societal values",
+            "8": " Aggressive societal behavior",
+            "9": " Persistent racial unrest",
+            "10": "Unbridled consumerism culture",
+            "11": "Widespread gun violence",
+            "12": " Endemic crime rates",
+            "13": "High unemployment rates",
+            "14": " Limited opportunities for poor"
+          },
+          "runtime": 28.8552
+        },
+        "1": {
+          "sum_ids": [
+            9, 3, 0, 3, 3, 2, 9, 2, 2, 2, 2, 2, 3, 3, 3, 2, 9, 2, 0, 3, 3, 3, 0,
+            3, 10, 10, 8, 6, 2, 6, 4, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 6, 6,
+            6, 6, 2, 2, 2, 4, 4, 7, 7, 0, 4, 0, 0, 4, 2, 4, 2, 0, 5, 0, 7, 0, 0,
+            7, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 5, 0, 0, 0, 0, 5, 4
+          ],
+          "sums": {
+            "0": "Abundance of job opportunities.",
+            "1": "Freedom and civil liberties.",
+            "2": "High quality of life.",
+            "3": "Strong economic power.",
+            "4": " Pursuit of the American Dream.",
+            "5": " Opportunities for personal growth.",
+            "6": "Diverse cultural landscape.",
+            "7": " Equal opportunity for success.",
+            "8": "Access to quality education.",
+            "9": "Stable economy supports prosperity.",
+            "10": "Excellent healthcare system."
+          },
+          "runtime": 46.08035
+        }
+      }
+    },
+    "(0.9500000000000002,)": {
+      "Routine child vaccinations should be mandatory": {
+        "-1": {
+          "sum_ids": [
+            2, 1, 3, 1, 4, 2, 2, 2, 5, 1, 3, 4, 1, 2, 6, 10, 10, 10, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 6, 0, 9, 0, 0, 8, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4,
+            2, 7, 7, 3, 3, 3, 3, 7, 2, 7, 2, 2, 1, 7, 3, 7, 7, 3, 3
+          ],
+          "sums": {
+            "0": "Potential harmful side effects.",
+            "1": "Violates religious beliefs.",
+            "2": "Undermines personal freedom.",
+            "3": " Each family decides independently.",
+            "4": "Disrespects free will.",
+            "5": " Freedom of religion is protected.",
+            "6": " Risk of severe reactions.",
+            "7": "Parents know best.",
+            "8": " Vaccines contain toxic substances.",
+            "9": "Lack of vaccine safety.",
+            "10": "Children have low vulnerability."
+          },
+          "runtime": 42.75477
+        },
+        "1": {
+          "sum_ids": [
+            4, 5, 3, 3, 3, 4, 5, 2, 0, 3, 5, 2, 4, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0,
+            1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 3, 0, 2, 0, 2, 2, 6, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0
+          ],
+          "sums": {
+            "0": "Vaccines protect from infectious diseases.",
+            "1": "Vaccination ensures healthy childhood.",
+            "2": "Mandatory vaccines ensure public health.",
+            "3": "Vaccines save millions of lives.",
+            "4": "Vaccines prevent deadly illnesses.",
+            "5": "Vaccination reduces infant mortality.",
+            "6": " Vaccination ensures school safety."
+          },
+          "runtime": 34.2109
+        }
+      },
+      "Social media platforms should be regulated by the government": {
+        "-1": {
+          "sum_ids": [
+            3, 0, 2, 2, 3, 3, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 4, 0, 0, 0,
+            0, 0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 0, 3, 1, 1, 1, 3, 1, 1, 1, 1, 0, 1,
+            1, 1
+          ],
+          "sums": {
+            "0": "Regulation undermines freedom of expression.",
+            "1": "Social media should remain unregulated.",
+            "2": "Government control risks political bias.",
+            "3": "Government regulation invites corruption.",
+            "4": "Regulation limits democratic discourse."
+          },
+          "runtime": 28.11735
+        },
+        "1": {
+          "sum_ids": [
+            5, 2, 2, 2, 1, 2, 4, 5, 0, 0, 0, 0, 0, 0, 3, 2, 2, 5, 0, 5, 5, 4, 4,
+            2, 2, 2, 6, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 4, 2, 0, 6, 0, 6,
+            0, 0, 0, 0, 0, 0, 4, 4, 0, 4, 5, 0, 0, 0, 0, 1, 0, 4, 4, 5, 5, 3, 5,
+            5
+          ],
+          "sums": {
+            "0": "Regulate to prevent hate crimes.",
+            "1": "Control to stop fake news.",
+            "2": "Curb negative social impacts.",
+            "3": "Limit access to harmful materials.",
+            "4": "Protect society from crime.",
+            "5": " Limit exposure to unwanted content.",
+            "6": "Prevent online misinformation spread."
+          },
+          "runtime": 30.89817
+        }
+      },
+      "The USA is a good country to live in": {
+        "-1": {
+          "sum_ids": [
+            7, 6, 5, 3, 3, 10, 2, 3, 3, 3, 1, 2, 1, 9, 1, 9, 2, 2, 2, 2, 5, 1,
+            1, 10, 5, 1, 4, 8, 6, 10, 4, 4, 4, 0, 10, 0, 0, 6, 0, 0, 0, 0, 0, 0,
+            0
+          ],
+          "sums": {
+            "0": "Widespread racial discrimination",
+            "1": "Excessive healthcare expenses",
+            "2": "Vast income inequality",
+            "3": "Intense political divisions",
+            "4": " Unsafe due to crime",
+            "5": " Materialistic societal values",
+            "6": " Aggressive societal behavior",
+            "7": "Unbridled consumerism culture",
+            "8": "Rampant gun violence",
+            "9": "High unemployment rates",
+            "10": " Insufficient gun regulation"
+          },
+          "runtime": 25.23504
+        },
+        "1": {
+          "sum_ids": [
+            4, 4, 1, 1, 4, 1, 1, 1, 1, 1, 6, 1, 1, 4, 1, 1, 1, 1, 7, 4, 4, 4, 4,
+            4, 1, 1, 1, 5, 5, 5, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 7, 5,
+            5, 1, 1, 1, 6, 7, 3, 7, 0, 1, 0, 0, 1, 3, 7, 0, 0, 3, 0, 7, 0, 0, 7,
+            0, 0, 5, 0, 0, 0, 7, 0, 0, 0, 3, 7, 0, 0, 0, 3, 1
+          ],
+          "sums": {
+            "0": "Abundant job opportunities",
+            "1": "Stable economy supports quality life",
+            "2": " Democracy promotes individual freedom",
+            "3": "Opportunities for personal growth",
+            "4": " Prosperity through economic stability",
+            "5": "Diverse natural landscapes available",
+            "6": "Economic power attracts immigrants",
+            "7": " Opportunities to rise professionally"
+          },
+          "runtime": 39.45684
+        }
+      }
+    }
+  },
+  "parameter_names": ["match_scorer_t"],
+  "parameter_values": [
+    [
+      0.75, 0.775, 0.8, 0.8250000000000001, 0.8500000000000001,
+      0.8750000000000001, 0.9000000000000001, 0.9250000000000002,
+      0.9500000000000002
+    ]
+  ]
+}

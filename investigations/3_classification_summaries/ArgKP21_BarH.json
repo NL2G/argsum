@@ -1,0 +1,1707 @@
+{
+  "summaries": {
+    "(0.1, 0.75)": {
+      "Routine child vaccinations should be mandatory": {
+        "-1": {
+          "sum_ids": [
+            2, 2, 2, 2, 2, 2, 2, 1, 1, 2, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 1,
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+          ],
+          "sums": {
+            "0": "Children should not be vaccinated because they can have serious side effects",
+            "1": "parents should have the freedom to decide what they consider best for their children",
+            "2": "Forcing people to have their children vaccinated goes against free will."
+          },
+          "runtime": 23.38801
+        },
+        "1": {
+          "sum_ids": [
+            0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "sums": {
+            "0": "Routine child vaccination is essential to ensure that the population are protected from transmittable diseases",
+            "1": "The use of child vaccines saves lives"
+          },
+          "runtime": 23.04728
+        }
+      },
+      "Social media platforms should be regulated by the government": {
+        "-1": {
+          "sum_ids": [
+            2, 0, 2, 2, 2, 0, 0, 0, 2, 0, 0, 2, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0,
+            0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 0, 0, 0, 1, 0, 0,
+            1, 1
+          ],
+          "sums": {
+            "0": "Social media platform should not be regulated out of respect for freedom of expression",
+            "1": "The social media platform should not be regulated by the government because it intrudes privacy",
+            "2": "Government regulation of social media would be harmful to democracy"
+          },
+          "runtime": 18.26469
+        },
+        "1": {
+          "sum_ids": [
+            0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0,
+            1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
+            0
+          ],
+          "sums": {
+            "0": "Social media platforms should be regulated by the government to prevent any potential crimes",
+            "1": "social networks being monitored by the government, would cause less negative impact on society"
+          },
+          "runtime": 20.19617
+        }
+      },
+      "The USA is a good country to live in": {
+        "-1": {
+          "sum_ids": [
+            2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2, 2, 2, 2, 2, 2, 1, 1, 0, 1, 2, 2, 2,
+            1, 1, 2, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "sums": {
+            "0": "The United States  has long been a hotbed of racism against minority cultures",
+            "1": "Today, The USA has intense political divisions that only seem to keep growing",
+            "2": "The health sector, despite being very good, is excessively expensive, as is healthy food."
+          },
+          "runtime": 8.24535
+        },
+        "1": {
+          "sum_ids": [
+            1, 2, 0, 1, 1, 1, 1, 4, 1, 1, 0, 0, 0, 1, 2, 4, 2, 3, 2, 3, 2, 2, 0,
+            2, 4, 4, 4, 3, 3, 3, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 3, 3,
+            3, 1, 1, 1, 0, 2, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 0, 2, 0, 0, 0
+          ],
+          "sums": {
+            "0": "The United States is a country that supports opportunities",
+            "1": "THE UNITED STATES IS THE BEST COUNTRY IN THE WORLD DUE TO CIVIL LIBERTIES",
+            "2": "gives you opportunities for improvement with secure jobs and good salary",
+            "3": "The USA offers an abundance of vast open lands, wilderness and beautiful landscapes.",
+            "4": "The USA is a good country to live in because of the amazing health care"
+          },
+          "runtime": 19.60614
+        }
+      }
+    },
+    "(0.1, 0.775)": {
+      "Routine child vaccinations should be mandatory": {
+        "-1": {
+          "sum_ids": [
+            2, 2, 2, 2, 2, 2, 2, 1, 1, 2, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 1,
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+          ],
+          "sums": {
+            "0": "Children should not be vaccinated because they can have serious side effects",
+            "1": "parents should have the freedom to decide what they consider best for their children",
+            "2": "Forcing people to have their children vaccinated goes against free will."
+          },
+          "runtime": 20.29688
+        },
+        "1": {
+          "sum_ids": [
+            0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "sums": {
+            "0": "Routine child vaccination is essential to ensure that the population are protected from transmittable diseases",
+            "1": "The use of child vaccines saves lives"
+          },
+          "runtime": 21.64138
+        }
+      },
+      "Social media platforms should be regulated by the government": {
+        "-1": {
+          "sum_ids": [
+            2, 0, 2, 2, 2, 0, 0, 0, 2, 0, 0, 2, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0,
+            0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 0, 0, 0, 1, 0, 0,
+            1, 1
+          ],
+          "sums": {
+            "0": "Social media platform should not be regulated out of respect for freedom of expression",
+            "1": "The social media platform should not be regulated by the government because it intrudes privacy",
+            "2": "Government regulation of social media would be harmful to democracy"
+          },
+          "runtime": 16.49283
+        },
+        "1": {
+          "sum_ids": [
+            0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0,
+            1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
+            0
+          ],
+          "sums": {
+            "0": "Social media platforms should be regulated by the government to prevent any potential crimes",
+            "1": "social networks being monitored by the government, would cause less negative impact on society"
+          },
+          "runtime": 19.38226
+        }
+      },
+      "The USA is a good country to live in": {
+        "-1": {
+          "sum_ids": [
+            2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2, 2, 2, 2, 2, 2, 1, 1, 0, 1, 2, 2, 2,
+            1, 1, 2, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "sums": {
+            "0": "The United States  has long been a hotbed of racism against minority cultures",
+            "1": "Today, The USA has intense political divisions that only seem to keep growing",
+            "2": "The health sector, despite being very good, is excessively expensive, as is healthy food."
+          },
+          "runtime": 6.96771
+        },
+        "1": {
+          "sum_ids": [
+            1, 2, 0, 1, 1, 1, 1, 4, 1, 1, 0, 0, 0, 1, 2, 4, 2, 3, 2, 3, 2, 2, 0,
+            2, 4, 4, 4, 3, 3, 3, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 3, 3,
+            3, 1, 1, 1, 0, 2, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 0, 2, 0, 0, 0
+          ],
+          "sums": {
+            "0": "The United States is a country that supports opportunities",
+            "1": "THE UNITED STATES IS THE BEST COUNTRY IN THE WORLD DUE TO CIVIL LIBERTIES",
+            "2": "gives you opportunities for improvement with secure jobs and good salary",
+            "3": "The USA offers an abundance of vast open lands, wilderness and beautiful landscapes.",
+            "4": "The USA is a good country to live in because of the amazing health care"
+          },
+          "runtime": 19.92405
+        }
+      }
+    },
+    "(0.1, 0.8)": {
+      "Routine child vaccinations should be mandatory": {
+        "-1": {
+          "sum_ids": [
+            2, 2, 2, 2, 2, 2, 2, 1, 1, 2, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 1,
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+          ],
+          "sums": {
+            "0": "Children should not be vaccinated because they can have serious side effects",
+            "1": "parents should have the freedom to decide what they consider best for their children",
+            "2": "Forcing people to have their children vaccinated goes against free will."
+          },
+          "runtime": 20.35962
+        },
+        "1": {
+          "sum_ids": [
+            0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "sums": {
+            "0": "Routine child vaccination is essential to ensure that the population are protected from transmittable diseases",
+            "1": "The use of child vaccines saves lives"
+          },
+          "runtime": 21.56234
+        }
+      },
+      "Social media platforms should be regulated by the government": {
+        "-1": {
+          "sum_ids": [
+            2, 0, 2, 2, 2, 0, 0, 0, 2, 0, 0, 2, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0,
+            0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 0, 0, 0, 1, 0, 0,
+            1, 1
+          ],
+          "sums": {
+            "0": "Social media platform should not be regulated out of respect for freedom of expression",
+            "1": "The social media platform should not be regulated by the government because it intrudes privacy",
+            "2": "Government regulation of social media would be harmful to democracy"
+          },
+          "runtime": 16.34263
+        },
+        "1": {
+          "sum_ids": [
+            0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0,
+            1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
+            0
+          ],
+          "sums": {
+            "0": "Social media platforms should be regulated by the government to prevent any potential crimes",
+            "1": "social networks being monitored by the government, would cause less negative impact on society"
+          },
+          "runtime": 19.61252
+        }
+      },
+      "The USA is a good country to live in": {
+        "-1": {
+          "sum_ids": [
+            2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2, 2, 2, 2, 2, 2, 1, 1, 0, 1, 2, 2, 2,
+            1, 1, 2, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "sums": {
+            "0": "The United States  has long been a hotbed of racism against minority cultures",
+            "1": "Today, The USA has intense political divisions that only seem to keep growing",
+            "2": "The health sector, despite being very good, is excessively expensive, as is healthy food."
+          },
+          "runtime": 6.79887
+        },
+        "1": {
+          "sum_ids": [
+            1, 2, 0, 1, 1, 1, 1, 4, 1, 1, 0, 0, 0, 1, 2, 4, 2, 3, 2, 3, 2, 2, 0,
+            2, 4, 4, 4, 3, 3, 3, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 3, 3,
+            3, 1, 1, 1, 0, 2, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 0, 2, 0, 0, 0
+          ],
+          "sums": {
+            "0": "The United States is a country that supports opportunities",
+            "1": "THE UNITED STATES IS THE BEST COUNTRY IN THE WORLD DUE TO CIVIL LIBERTIES",
+            "2": "gives you opportunities for improvement with secure jobs and good salary",
+            "3": "The USA offers an abundance of vast open lands, wilderness and beautiful landscapes.",
+            "4": "The USA is a good country to live in because of the amazing health care"
+          },
+          "runtime": 19.50597
+        }
+      }
+    },
+    "(0.1, 0.8250000000000001)": {
+      "Routine child vaccinations should be mandatory": {
+        "-1": {
+          "sum_ids": [
+            2, 2, 2, 2, 2, 2, 2, 1, 1, 2, 1, 1, 1, 1, 3, 3, 3, 3, 0, 0, 3, 0, 0,
+            0, 0, 0, 3, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 2, 1,
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+          ],
+          "sums": {
+            "0": "Children should not be vaccinated because they can have serious side effects",
+            "1": "parents should have the freedom to decide what they consider best for their children",
+            "2": "Forcing people to have their children vaccinated goes against free will.",
+            "3": "Child vaccination isn't necessary and may result in other diseases for children"
+          },
+          "runtime": 21.77246
+        },
+        "1": {
+          "sum_ids": [
+            0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "sums": {
+            "0": "Routine child vaccination is essential to ensure that the population are protected from transmittable diseases",
+            "1": "The use of child vaccines saves lives"
+          },
+          "runtime": 22.58122
+        }
+      },
+      "Social media platforms should be regulated by the government": {
+        "-1": {
+          "sum_ids": [
+            2, 0, 2, 2, 2, 0, 0, 0, 2, 0, 0, 2, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0,
+            0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 0, 0, 0, 1, 0, 0,
+            1, 1
+          ],
+          "sums": {
+            "0": "Social media platform should not be regulated out of respect for freedom of expression",
+            "1": "The social media platform should not be regulated by the government because it intrudes privacy",
+            "2": "Government regulation of social media would be harmful to democracy"
+          },
+          "runtime": 16.26745
+        },
+        "1": {
+          "sum_ids": [
+            0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0,
+            1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
+            0
+          ],
+          "sums": {
+            "0": "Social media platforms should be regulated by the government to prevent any potential crimes",
+            "1": "social networks being monitored by the government, would cause less negative impact on society"
+          },
+          "runtime": 19.0817
+        }
+      },
+      "The USA is a good country to live in": {
+        "-1": {
+          "sum_ids": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1,
+            1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "sums": {
+            "0": "The United States  has long been a hotbed of racism against minority cultures",
+            "1": "Today, The USA has intense political divisions that only seem to keep growing"
+          },
+          "runtime": 6.24615
+        },
+        "1": {
+          "sum_ids": [
+            1, 2, 0, 1, 1, 1, 1, 4, 1, 1, 0, 0, 0, 1, 2, 4, 2, 3, 2, 3, 2, 2, 0,
+            2, 4, 4, 4, 3, 3, 3, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 3, 3,
+            3, 1, 1, 1, 0, 2, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 0, 2, 0, 0, 0
+          ],
+          "sums": {
+            "0": "The United States is a country that supports opportunities",
+            "1": "THE UNITED STATES IS THE BEST COUNTRY IN THE WORLD DUE TO CIVIL LIBERTIES",
+            "2": "gives you opportunities for improvement with secure jobs and good salary",
+            "3": "The USA offers an abundance of vast open lands, wilderness and beautiful landscapes.",
+            "4": "The USA is a good country to live in because of the amazing health care"
+          },
+          "runtime": 18.79552
+        }
+      }
+    },
+    "(0.1, 0.8500000000000001)": {
+      "Routine child vaccinations should be mandatory": {
+        "-1": {
+          "sum_ids": [
+            2, 2, 2, 2, 2, 2, 2, 1, 1, 2, 1, 1, 1, 1, 3, 3, 3, 3, 0, 0, 3, 0, 0,
+            0, 0, 0, 3, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 2, 1,
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+          ],
+          "sums": {
+            "0": "Children should not be vaccinated because they can have serious side effects",
+            "1": "parents should have the freedom to decide what they consider best for their children",
+            "2": "Forcing people to have their children vaccinated goes against free will.",
+            "3": "Child vaccination isn't necessary and may result in other diseases for children"
+          },
+          "runtime": 21.60776
+        },
+        "1": {
+          "sum_ids": [
+            0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "sums": {
+            "0": "Routine child vaccination is essential to ensure that the population are protected from transmittable diseases",
+            "1": "The use of child vaccines saves lives"
+          },
+          "runtime": 27.5287
+        }
+      },
+      "Social media platforms should be regulated by the government": {
+        "-1": {
+          "sum_ids": [
+            2, 0, 2, 2, 2, 0, 0, 0, 2, 0, 0, 2, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0,
+            0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 0, 0, 0, 1, 0, 0,
+            1, 1
+          ],
+          "sums": {
+            "0": "Social media platform should not be regulated out of respect for freedom of expression",
+            "1": "The social media platform should not be regulated by the government because it intrudes privacy",
+            "2": "Government regulation of social media would be harmful to democracy"
+          },
+          "runtime": 16.29183
+        },
+        "1": {
+          "sum_ids": [
+            0, 2, 2, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0,
+            2, 3, 2, 1, 3, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 0,
+            2
+          ],
+          "sums": {
+            "0": "Social media platforms should be regulated by the government to prevent any potential crimes",
+            "1": "Regulation could prevent the spread of fake news",
+            "2": "Social media platform must be regulated for the good of society",
+            "3": "social networks being monitored by the government, would cause less negative impact on society"
+          },
+          "runtime": 22.19473
+        }
+      },
+      "The USA is a good country to live in": {
+        "-1": {
+          "sum_ids": [
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1,
+            1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "sums": {
+            "0": "The United States  has long been a hotbed of racism against minority cultures",
+            "1": "Today, The USA has intense political divisions that only seem to keep growing"
+          },
+          "runtime": 6.2691
+        },
+        "1": {
+          "sum_ids": [
+            1, 2, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 2, 0, 2, 3, 2, 3, 2, 2, 0,
+            2, 1, 3, 1, 3, 3, 3, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 3, 3,
+            3, 1, 1, 1, 0, 2, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 0, 2, 0, 0, 0
+          ],
+          "sums": {
+            "0": "The United States is a country that supports opportunities",
+            "1": "THE UNITED STATES IS THE BEST COUNTRY IN THE WORLD DUE TO CIVIL LIBERTIES",
+            "2": "gives you opportunities for improvement with secure jobs and good salary",
+            "3": "The USA offers an abundance of vast open lands, wilderness and beautiful landscapes."
+          },
+          "runtime": 17.24816
+        }
+      }
+    },
+    "(0.1, 0.8750000000000001)": {
+      "Routine child vaccinations should be mandatory": {
+        "-1": {
+          "sum_ids": [
+            2, 2, 2, 2, 2, 2, 2, 1, 1, 2, 1, 1, 1, 1, 3, 3, 3, 3, 0, 0, 3, 0, 0,
+            0, 0, 0, 3, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 2, 1,
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+          ],
+          "sums": {
+            "0": "Children should not be vaccinated because they can have serious side effects",
+            "1": "parents should have the freedom to decide what they consider best for their children",
+            "2": "Forcing people to have their children vaccinated goes against free will.",
+            "3": "Child vaccination isn't necessary and may result in other diseases for children"
+          },
+          "runtime": 21.53683
+        },
+        "1": {
+          "sum_ids": [
+            0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "sums": {
+            "0": "Routine child vaccination is essential to ensure that the population are protected from transmittable diseases",
+            "1": "The use of child vaccines saves lives"
+          },
+          "runtime": 21.48628
+        }
+      },
+      "Social media platforms should be regulated by the government": {
+        "-1": {
+          "sum_ids": [
+            2, 0, 2, 2, 2, 0, 0, 0, 2, 0, 0, 2, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0,
+            0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 0, 0, 0, 1, 0, 0,
+            1, 1
+          ],
+          "sums": {
+            "0": "Social media platform should not be regulated out of respect for freedom of expression",
+            "1": "The social media platform should not be regulated by the government because it intrudes privacy",
+            "2": "Government regulation of social media would be harmful to democracy"
+          },
+          "runtime": 16.2866
+        },
+        "1": {
+          "sum_ids": [
+            0, 2, 2, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0,
+            2, 3, 2, 1, 3, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 0,
+            2
+          ],
+          "sums": {
+            "0": "Social media platforms should be regulated by the government to prevent any potential crimes",
+            "1": "Regulation could prevent the spread of fake news",
+            "2": "Social media platform must be regulated for the good of society",
+            "3": "social networks being monitored by the government, would cause less negative impact on society"
+          },
+          "runtime": 22.40944
+        }
+      },
+      "The USA is a good country to live in": {
+        "-1": {
+          "sum_ids": [
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+          ],
+          "sums": {
+            "0": "Today, The USA has intense political divisions that only seem to keep growing",
+            "1": "The United States  has long been a hotbed of racism against minority cultures"
+          },
+          "runtime": 6.49796
+        },
+        "1": {
+          "sum_ids": [
+            1, 2, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 2, 0, 2, 3, 2, 3, 2, 2, 0,
+            2, 1, 3, 1, 3, 3, 3, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 3, 3,
+            3, 1, 1, 1, 0, 2, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 0, 2, 0, 0, 0
+          ],
+          "sums": {
+            "0": "The United States is a country that supports opportunities",
+            "1": "THE UNITED STATES IS THE BEST COUNTRY IN THE WORLD DUE TO CIVIL LIBERTIES",
+            "2": "gives you opportunities for improvement with secure jobs and good salary",
+            "3": "The USA offers an abundance of vast open lands, wilderness and beautiful landscapes."
+          },
+          "runtime": 17.13344
+        }
+      }
+    },
+    "(0.1, 0.9000000000000001)": {
+      "Routine child vaccinations should be mandatory": {
+        "-1": {
+          "sum_ids": [
+            2, 2, 2, 2, 2, 2, 2, 1, 1, 2, 1, 1, 1, 1, 3, 3, 3, 3, 0, 0, 3, 0, 0,
+            0, 0, 0, 3, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 2, 1,
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+          ],
+          "sums": {
+            "0": "Children should not be vaccinated because they can have serious side effects",
+            "1": "parents should have the freedom to decide what they consider best for their children",
+            "2": "Forcing people to have their children vaccinated goes against free will.",
+            "3": "Child vaccination isn't necessary and may result in other diseases for children"
+          },
+          "runtime": 21.51814
+        },
+        "1": {
+          "sum_ids": [
+            0, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "sums": {
+            "0": "Routine child vaccination is essential to ensure that the population are protected from transmittable diseases",
+            "1": "The use of child vaccines saves lives",
+            "2": "vaccination in the child population due to the lethality of the new strains is essential"
+          },
+          "runtime": 23.54456
+        }
+      },
+      "Social media platforms should be regulated by the government": {
+        "-1": {
+          "sum_ids": [
+            3, 3, 3, 3, 3, 0, 0, 0, 2, 0, 0, 2, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0,
+            0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 3, 1, 3, 1, 1, 1, 2, 3, 3, 3, 1, 0, 3,
+            1, 1
+          ],
+          "sums": {
+            "0": "Social media platform should not be regulated out of respect for freedom of expression",
+            "1": "The social media platform should not be regulated by the government because it intrudes privacy",
+            "2": "Government regulation of social media would be harmful to democracy",
+            "3": "social media allows free speech without fear of the government"
+          },
+          "runtime": 17.76297
+        },
+        "1": {
+          "sum_ids": [
+            0, 2, 2, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0,
+            2, 3, 2, 1, 3, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 0,
+            2
+          ],
+          "sums": {
+            "0": "Social media platforms should be regulated by the government to prevent any potential crimes",
+            "1": "Regulation could prevent the spread of fake news",
+            "2": "Social media platform must be regulated for the good of society",
+            "3": "social networks being monitored by the government, would cause less negative impact on society"
+          },
+          "runtime": 21.95389
+        }
+      },
+      "The USA is a good country to live in": {
+        "-1": {
+          "sum_ids": [
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+          ],
+          "sums": {
+            "0": "Today, The USA has intense political divisions that only seem to keep growing",
+            "1": "The United States  has long been a hotbed of racism against minority cultures"
+          },
+          "runtime": 6.41003
+        },
+        "1": {
+          "sum_ids": [
+            1, 2, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 2, 0, 2, 3, 2, 3, 2, 2, 0,
+            2, 1, 3, 1, 3, 3, 3, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 3, 3,
+            3, 1, 1, 1, 0, 2, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 0, 2, 0, 0, 0
+          ],
+          "sums": {
+            "0": "The United States is a country that supports opportunities",
+            "1": "THE UNITED STATES IS THE BEST COUNTRY IN THE WORLD DUE TO CIVIL LIBERTIES",
+            "2": "gives you opportunities for improvement with secure jobs and good salary",
+            "3": "The USA offers an abundance of vast open lands, wilderness and beautiful landscapes."
+          },
+          "runtime": 17.19107
+        }
+      }
+    },
+    "(0.1, 0.9250000000000002)": {
+      "Routine child vaccinations should be mandatory": {
+        "-1": {
+          "sum_ids": [
+            3, 2, 2, 2, 3, 3, 3, 1, 2, 2, 1, 1, 2, 1, 4, 4, 4, 4, 0, 0, 4, 0, 0,
+            0, 0, 0, 4, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 1, 3, 1,
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 2
+          ],
+          "sums": {
+            "0": "Children should not be vaccinated because they can have serious side effects",
+            "1": "parents should have the freedom to decide what they consider best for their children",
+            "2": "When vaccines are mandatory, they can infringe on family religious choices",
+            "3": "Forcing people to have their children vaccinated goes against free will.",
+            "4": "Child vaccination isn't necessary and may result in other diseases for children"
+          },
+          "runtime": 22.86785
+        },
+        "1": {
+          "sum_ids": [
+            0, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "sums": {
+            "0": "Routine child vaccination is essential to ensure that the population are protected from transmittable diseases",
+            "1": "The use of child vaccines saves lives",
+            "2": "vaccination in the child population due to the lethality of the new strains is essential"
+          },
+          "runtime": 23.17608
+        }
+      },
+      "Social media platforms should be regulated by the government": {
+        "-1": {
+          "sum_ids": [
+            2, 0, 2, 2, 2, 0, 0, 0, 2, 0, 0, 2, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0,
+            0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 0, 0, 0, 1, 0, 0,
+            1, 1
+          ],
+          "sums": {
+            "0": "Social media platform should not be regulated out of respect for freedom of expression",
+            "1": "The social media platform should not be regulated by the government because it intrudes privacy",
+            "2": "Government regulation of social media would be harmful to democracy"
+          },
+          "runtime": 17.00353
+        },
+        "1": {
+          "sum_ids": [
+            0, 2, 2, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0,
+            2, 3, 2, 1, 3, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 0,
+            2
+          ],
+          "sums": {
+            "0": "Social media platforms should be regulated by the government to prevent any potential crimes",
+            "1": "Regulation could prevent the spread of fake news",
+            "2": "Social media platform must be regulated for the good of society",
+            "3": "social networks being monitored by the government, would cause less negative impact on society"
+          },
+          "runtime": 21.85692
+        }
+      },
+      "The USA is a good country to live in": {
+        "-1": {
+          "sum_ids": [
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+          ],
+          "sums": {
+            "0": "Today, The USA has intense political divisions that only seem to keep growing",
+            "1": "The United States  has long been a hotbed of racism against minority cultures"
+          },
+          "runtime": 6.14287
+        },
+        "1": {
+          "sum_ids": [
+            1, 3, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 3, 0, 3, 2, 3, 2, 3, 3, 0,
+            3, 1, 2, 1, 2, 2, 2, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 4,
+            4, 1, 1, 1, 0, 4, 0, 0, 3, 0, 0, 0, 0, 0, 4, 0, 0, 4, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 0, 3, 0, 4, 0
+          ],
+          "sums": {
+            "0": "The United States is a country that supports opportunities",
+            "1": "THE UNITED STATES IS THE BEST COUNTRY IN THE WORLD DUE TO CIVIL LIBERTIES",
+            "2": "The USA offers an abundance of vast open lands, wilderness and beautiful landscapes.",
+            "3": "gives you opportunities for improvement with secure jobs and good salary",
+            "4": "The United States is a land of opportunities where we can develop in different environments"
+          },
+          "runtime": 18.10303
+        }
+      }
+    },
+    "(0.1, 0.9500000000000002)": {
+      "Routine child vaccinations should be mandatory": {
+        "-1": {
+          "sum_ids": [
+            3, 2, 2, 2, 3, 3, 3, 1, 2, 2, 1, 1, 2, 1, 4, 4, 4, 4, 0, 0, 4, 0, 0,
+            0, 0, 0, 4, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 1, 3, 1,
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 2
+          ],
+          "sums": {
+            "0": "Children should not be vaccinated because they can have serious side effects",
+            "1": "parents should have the freedom to decide what they consider best for their children",
+            "2": "When vaccines are mandatory, they can infringe on family religious choices",
+            "3": "Forcing people to have their children vaccinated goes against free will.",
+            "4": "Child vaccination isn't necessary and may result in other diseases for children"
+          },
+          "runtime": 22.93328
+        },
+        "1": {
+          "sum_ids": [
+            0, 2, 1, 1, 1, 3, 2, 1, 1, 1, 1, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "sums": {
+            "0": "Routine child vaccination is essential to ensure that the population are protected from transmittable diseases",
+            "1": "The use of child vaccines saves lives",
+            "2": "Vaccination should be a health policy to reduce infant mortality.",
+            "3": "vaccination in the child population due to the lethality of the new strains is essential"
+          },
+          "runtime": 24.68671
+        }
+      },
+      "Social media platforms should be regulated by the government": {
+        "-1": {
+          "sum_ids": [
+            2, 0, 2, 2, 2, 0, 0, 0, 2, 0, 0, 2, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0,
+            0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 0, 0, 0, 1, 0, 0,
+            1, 1
+          ],
+          "sums": {
+            "0": "Social media platform should not be regulated out of respect for freedom of expression",
+            "1": "The social media platform should not be regulated by the government because it intrudes privacy",
+            "2": "Government regulation of social media would be harmful to democracy"
+          },
+          "runtime": 15.85112
+        },
+        "1": {
+          "sum_ids": [
+            0, 2, 2, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0,
+            2, 3, 2, 1, 3, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 0,
+            2
+          ],
+          "sums": {
+            "0": "Social media platforms should be regulated by the government to prevent any potential crimes",
+            "1": "Regulation could prevent the spread of fake news",
+            "2": "Social media platform must be regulated for the good of society",
+            "3": "social networks being monitored by the government, would cause less negative impact on society"
+          },
+          "runtime": 21.82573
+        }
+      },
+      "The USA is a good country to live in": {
+        "-1": {
+          "sum_ids": [
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "sums": {
+            "0": "Today, The USA has intense political divisions that only seem to keep growing"
+          },
+          "runtime": 6.06097
+        },
+        "1": {
+          "sum_ids": [
+            1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 1, 1, 0,
+            1, 1, 1, 1, 2, 1, 2, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2,
+            2, 1, 1, 1, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0
+          ],
+          "sums": {
+            "0": "The United States is a country that supports opportunities",
+            "1": "THE UNITED STATES IS THE BEST COUNTRY IN THE WORLD DUE TO CIVIL LIBERTIES",
+            "2": "The United States is a land of opportunities where we can develop in different environments"
+          },
+          "runtime": 15.62214
+        }
+      }
+    },
+    "(0.3, 0.75)": {
+      "Routine child vaccinations should be mandatory": {
+        "-1": {
+          "sum_ids": [
+            3, 3, 3, 3, 3, 3, 3, 1, 1, 3, 1, 1, 1, 1, 2, 2, 2, 2, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 1,
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+          ],
+          "sums": {
+            "0": "Child vaccination should not be mandatory as there are often side effects from them",
+            "1": "parents should have the freedom to decide what they consider best for their children",
+            "2": "Child vaccination should not be mandatory because they don't suffer from symptoms",
+            "3": "Forcing people to have their children vaccinated goes against free will."
+          },
+          "runtime": 32.66394
+        },
+        "1": {
+          "sum_ids": [
+            0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "sums": {
+            "0": "Routine child vaccination is essential to ensure that the population are protected from transmittable diseases",
+            "1": "The use of child vaccines saves lives"
+          },
+          "runtime": 21.65962
+        }
+      },
+      "Social media platforms should be regulated by the government": {
+        "-1": {
+          "sum_ids": [
+            2, 0, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0,
+            1, 1
+          ],
+          "sums": {
+            "0": "Social media platform should not be regulated out of respect for freedom of expression",
+            "1": "The social media platform should not be regulated by the government because it intrudes privacy",
+            "2": "the problem is that they could use it for their own benefit"
+          },
+          "runtime": 24.07659
+        },
+        "1": {
+          "sum_ids": [
+            0, 3, 0, 1, 2, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 2, 1, 0, 0,
+            3, 3, 3, 2, 3, 2, 2, 2, 2, 2, 2, 2, 0, 2, 0, 2, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1,
+            1
+          ],
+          "sums": {
+            "0": "Social media platforms should be regulated by the government to prevent any potential crimes",
+            "1": "Social media should be regulated because contains tons of material that can be considered harmful",
+            "2": "Regulation could prevent the spread of fake news",
+            "3": "social networks being monitored by the government, would cause less negative impact on society"
+          },
+          "runtime": 25.49556
+        }
+      },
+      "The USA is a good country to live in": {
+        "-1": {
+          "sum_ids": [
+            4, 0, 4, 3, 3, 3, 1, 3, 3, 3, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 2, 2, 2,
+            1, 3, 2, 3, 3, 0, 0, 3, 3, 3, 0, 3, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+          ],
+          "sums": {
+            "0": "The USA is not a good country to live in because many people are racists",
+            "1": "not everything is like in the movies the united states has a lot of inequality",
+            "2": "healthcare and education are extremely expensive to middle class",
+            "3": "Today, The USA has intense political divisions that only seem to keep growing",
+            "4": "the us culture promotes materialism"
+          },
+          "runtime": 12.52462
+        },
+        "1": {
+          "sum_ids": [
+            1, 1, 0, 1, 0, 1, 5, 0, 5, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1,
+            1, 0, 4, 6, 4, 4, 4, 3, 3, 2, 2, 2, 2, 2, 6, 2, 2, 2, 2, 2, 7, 7, 7,
+            4, 0, 4, 0, 3, 3, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3
+          ],
+          "sums": {
+            "0": "The United States is the country of opportunities",
+            "1": "USA is a good country to live in since its economy is sustainable",
+            "2": "The United States is a magnificent country because it is synonymous with freedom",
+            "3": "Freedom of expression and the American dream is the most desired",
+            "4": "The USA offers an abundance of vast open lands, wilderness and beautiful landscapes.",
+            "5": "Peace, tranquility, prosperity and justice",
+            "6": "The USA is a good country to live in because it is a democracy country",
+            "7": "The USA has a multicultural society."
+          },
+          "runtime": 40.16998
+        }
+      }
+    },
+    "(0.3, 0.775)": {
+      "Routine child vaccinations should be mandatory": {
+        "-1": {
+          "sum_ids": [
+            3, 3, 3, 3, 3, 3, 3, 1, 1, 3, 1, 1, 1, 1, 2, 2, 2, 2, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 1,
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+          ],
+          "sums": {
+            "0": "Child vaccination should not be mandatory as there are often side effects from them",
+            "1": "parents should have the freedom to decide what they consider best for their children",
+            "2": "Child vaccination should not be mandatory because they don't suffer from symptoms",
+            "3": "Forcing people to have their children vaccinated goes against free will."
+          },
+          "runtime": 32.05789
+        },
+        "1": {
+          "sum_ids": [
+            0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "sums": {
+            "0": "Routine child vaccination is essential to ensure that the population are protected from transmittable diseases",
+            "1": "The use of child vaccines saves lives"
+          },
+          "runtime": 21.52794
+        }
+      },
+      "Social media platforms should be regulated by the government": {
+        "-1": {
+          "sum_ids": [
+            2, 0, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0,
+            1, 1
+          ],
+          "sums": {
+            "0": "Social media platform should not be regulated out of respect for freedom of expression",
+            "1": "The social media platform should not be regulated by the government because it intrudes privacy",
+            "2": "the problem is that they could use it for their own benefit"
+          },
+          "runtime": 23.81677
+        },
+        "1": {
+          "sum_ids": [
+            0, 3, 0, 2, 1, 2, 0, 2, 0, 0, 0, 0, 0, 0, 2, 0, 2, 2, 0, 1, 2, 0, 0,
+            3, 3, 3, 1, 3, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2,
+            2
+          ],
+          "sums": {
+            "0": "Social media platforms should be regulated by the government to prevent any potential crimes",
+            "1": "Regulation could prevent the spread of fake news",
+            "2": "Social media should be regulated because contains tons of material that can be considered harmful",
+            "3": "social networks being monitored by the government, would cause less negative impact on society"
+          },
+          "runtime": 26.04521
+        }
+      },
+      "The USA is a good country to live in": {
+        "-1": {
+          "sum_ids": [
+            4, 0, 4, 3, 3, 3, 1, 3, 3, 3, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 2, 2, 2,
+            1, 3, 2, 3, 3, 0, 0, 3, 3, 3, 0, 3, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+          ],
+          "sums": {
+            "0": "The USA is not a good country to live in because many people are racists",
+            "1": "not everything is like in the movies the united states has a lot of inequality",
+            "2": "healthcare and education are extremely expensive to middle class",
+            "3": "Today, The USA has intense political divisions that only seem to keep growing",
+            "4": "the us culture promotes materialism"
+          },
+          "runtime": 12.62908
+        },
+        "1": {
+          "sum_ids": [
+            1, 1, 0, 1, 0, 1, 5, 0, 5, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1,
+            1, 0, 4, 6, 4, 4, 4, 3, 3, 2, 2, 2, 2, 2, 6, 2, 2, 2, 2, 2, 7, 7, 7,
+            4, 0, 4, 0, 3, 3, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3
+          ],
+          "sums": {
+            "0": "The United States is the country of opportunities",
+            "1": "USA is a good country to live in since its economy is sustainable",
+            "2": "The United States is a magnificent country because it is synonymous with freedom",
+            "3": "Freedom of expression and the American dream is the most desired",
+            "4": "The USA offers an abundance of vast open lands, wilderness and beautiful landscapes.",
+            "5": "Peace, tranquility, prosperity and justice",
+            "6": "The USA is a good country to live in because it is a democracy country",
+            "7": "The USA has a multicultural society."
+          },
+          "runtime": 40.45809
+        }
+      }
+    },
+    "(0.3, 0.8)": {
+      "Routine child vaccinations should be mandatory": {
+        "-1": {
+          "sum_ids": [
+            3, 3, 3, 3, 3, 3, 3, 1, 1, 3, 1, 1, 1, 1, 2, 2, 2, 2, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 1,
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+          ],
+          "sums": {
+            "0": "Child vaccination should not be mandatory as there are often side effects from them",
+            "1": "parents should have the freedom to decide what they consider best for their children",
+            "2": "Child vaccination should not be mandatory because they don't suffer from symptoms",
+            "3": "Forcing people to have their children vaccinated goes against free will."
+          },
+          "runtime": 32.31657
+        },
+        "1": {
+          "sum_ids": [
+            0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "sums": {
+            "0": "Routine child vaccination is essential to ensure that the population are protected from transmittable diseases",
+            "1": "The use of child vaccines saves lives"
+          },
+          "runtime": 21.56404
+        }
+      },
+      "Social media platforms should be regulated by the government": {
+        "-1": {
+          "sum_ids": [
+            2, 0, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0,
+            1, 1
+          ],
+          "sums": {
+            "0": "Social media platform should not be regulated out of respect for freedom of expression",
+            "1": "The social media platform should not be regulated by the government because it intrudes privacy",
+            "2": "the problem is that they could use it for their own benefit"
+          },
+          "runtime": 24.20616
+        },
+        "1": {
+          "sum_ids": [
+            0, 3, 0, 2, 1, 2, 0, 2, 0, 0, 0, 0, 0, 0, 2, 0, 2, 2, 0, 1, 2, 0, 0,
+            3, 3, 3, 1, 3, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2,
+            2
+          ],
+          "sums": {
+            "0": "Social media platforms should be regulated by the government to prevent any potential crimes",
+            "1": "Regulation could prevent the spread of fake news",
+            "2": "Social media should be regulated because contains tons of material that can be considered harmful",
+            "3": "social networks being monitored by the government, would cause less negative impact on society"
+          },
+          "runtime": 25.80563
+        }
+      },
+      "The USA is a good country to live in": {
+        "-1": {
+          "sum_ids": [
+            4, 0, 4, 3, 3, 3, 1, 3, 3, 3, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 2, 2, 2,
+            1, 3, 2, 3, 3, 0, 0, 3, 3, 3, 0, 3, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+          ],
+          "sums": {
+            "0": "The USA is not a good country to live in because many people are racists",
+            "1": "not everything is like in the movies the united states has a lot of inequality",
+            "2": "healthcare and education are extremely expensive to middle class",
+            "3": "Today, The USA has intense political divisions that only seem to keep growing",
+            "4": "the us culture promotes materialism"
+          },
+          "runtime": 12.75189
+        },
+        "1": {
+          "sum_ids": [
+            1, 1, 0, 1, 0, 1, 5, 0, 5, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1,
+            1, 0, 4, 6, 4, 4, 4, 3, 3, 2, 2, 2, 2, 2, 6, 2, 2, 2, 2, 2, 7, 7, 7,
+            4, 0, 4, 0, 3, 3, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3
+          ],
+          "sums": {
+            "0": "The United States is the country of opportunities",
+            "1": "USA is a good country to live in since its economy is sustainable",
+            "2": "The United States is a magnificent country because it is synonymous with freedom",
+            "3": "Freedom of expression and the American dream is the most desired",
+            "4": "The USA offers an abundance of vast open lands, wilderness and beautiful landscapes.",
+            "5": "Peace, tranquility, prosperity and justice",
+            "6": "The USA is a good country to live in because it is a democracy country",
+            "7": "The USA has a multicultural society."
+          },
+          "runtime": 40.58473
+        }
+      }
+    },
+    "(0.3, 0.8250000000000001)": {
+      "Routine child vaccinations should be mandatory": {
+        "-1": {
+          "sum_ids": [
+            3, 3, 3, 3, 3, 3, 3, 1, 1, 3, 1, 1, 1, 1, 2, 2, 2, 2, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 1,
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+          ],
+          "sums": {
+            "0": "Child vaccination should not be mandatory as there are often side effects from them",
+            "1": "parents should have the freedom to decide what they consider best for their children",
+            "2": "Child vaccination should not be mandatory because they don't suffer from symptoms",
+            "3": "Forcing people to have their children vaccinated goes against free will."
+          },
+          "runtime": 32.22218
+        },
+        "1": {
+          "sum_ids": [
+            0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "sums": {
+            "0": "Routine child vaccination is essential to ensure that the population are protected from transmittable diseases",
+            "1": "The use of child vaccines saves lives"
+          },
+          "runtime": 22.67278
+        }
+      },
+      "Social media platforms should be regulated by the government": {
+        "-1": {
+          "sum_ids": [
+            2, 0, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0,
+            1, 1
+          ],
+          "sums": {
+            "0": "Social media platform should not be regulated out of respect for freedom of expression",
+            "1": "The social media platform should not be regulated by the government because it intrudes privacy",
+            "2": "the problem is that they could use it for their own benefit"
+          },
+          "runtime": 23.88495
+        },
+        "1": {
+          "sum_ids": [
+            0, 3, 0, 2, 1, 2, 0, 2, 0, 0, 0, 0, 0, 0, 2, 0, 2, 2, 0, 1, 2, 0, 0,
+            3, 3, 3, 1, 3, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2,
+            2
+          ],
+          "sums": {
+            "0": "Social media platforms should be regulated by the government to prevent any potential crimes",
+            "1": "Regulation could prevent the spread of fake news",
+            "2": "Social media should be regulated because contains tons of material that can be considered harmful",
+            "3": "social networks being monitored by the government, would cause less negative impact on society"
+          },
+          "runtime": 25.83811
+        }
+      },
+      "The USA is a good country to live in": {
+        "-1": {
+          "sum_ids": [
+            3, 0, 3, 2, 2, 2, 4, 2, 2, 2, 1, 1, 1, 1, 1, 1, 4, 4, 4, 4, 1, 1, 1,
+            4, 2, 1, 2, 2, 0, 0, 2, 2, 2, 0, 2, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0
+          ],
+          "sums": {
+            "0": "The USA is not a good country to live in because many people are racists",
+            "1": "healthcare and education are extremely expensive to middle class",
+            "2": "Today, The USA has intense political divisions that only seem to keep growing",
+            "3": "the us culture promotes materialism",
+            "4": "not everything is like in the movies the united states has a lot of inequality"
+          },
+          "runtime": 12.79185
+        },
+        "1": {
+          "sum_ids": [
+            1, 1, 0, 1, 0, 1, 4, 0, 4, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1,
+            1, 0, 3, 5, 3, 3, 3, 0, 0, 2, 2, 2, 2, 2, 5, 2, 2, 2, 2, 2, 6, 6, 6,
+            3, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "sums": {
+            "0": "The United States is the country of opportunities",
+            "1": "USA is a good country to live in since its economy is sustainable",
+            "2": "The United States is a magnificent country because it is synonymous with freedom",
+            "3": "The USA offers an abundance of vast open lands, wilderness and beautiful landscapes.",
+            "4": "Peace, tranquility, prosperity and justice",
+            "5": "The USA is a good country to live in because it is a democracy country",
+            "6": "The USA has a multicultural society."
+          },
+          "runtime": 39.13476
+        }
+      }
+    },
+    "(0.3, 0.8500000000000001)": {
+      "Routine child vaccinations should be mandatory": {
+        "-1": {
+          "sum_ids": [
+            3, 3, 3, 3, 3, 3, 3, 1, 1, 3, 1, 1, 1, 1, 2, 2, 2, 2, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 1,
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+          ],
+          "sums": {
+            "0": "Child vaccination should not be mandatory as there are often side effects from them",
+            "1": "parents should have the freedom to decide what they consider best for their children",
+            "2": "Child vaccination should not be mandatory because they don't suffer from symptoms",
+            "3": "Forcing people to have their children vaccinated goes against free will."
+          },
+          "runtime": 32.18524
+        },
+        "1": {
+          "sum_ids": [
+            0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "sums": {
+            "0": "Routine child vaccination is essential to ensure that the population are protected from transmittable diseases",
+            "1": "The use of child vaccines saves lives"
+          },
+          "runtime": 21.92597
+        }
+      },
+      "Social media platforms should be regulated by the government": {
+        "-1": {
+          "sum_ids": [
+            2, 0, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0,
+            1, 1
+          ],
+          "sums": {
+            "0": "Social media platform should not be regulated out of respect for freedom of expression",
+            "1": "The social media platform should not be regulated by the government because it intrudes privacy",
+            "2": "the problem is that they could use it for their own benefit"
+          },
+          "runtime": 23.89416
+        },
+        "1": {
+          "sum_ids": [
+            0, 3, 3, 2, 1, 2, 0, 2, 0, 0, 0, 0, 0, 0, 2, 0, 2, 2, 0, 1, 2, 0, 0,
+            3, 4, 3, 1, 4, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2,
+            2
+          ],
+          "sums": {
+            "0": "Social media platforms should be regulated by the government to prevent any potential crimes",
+            "1": "Regulation could prevent the spread of fake news",
+            "2": "Social media should be regulated because contains tons of material that can be considered harmful",
+            "3": "Social media platform must be regulated for the good of society",
+            "4": "social networks being monitored by the government, would cause less negative impact on society"
+          },
+          "runtime": 27.86054
+        }
+      },
+      "The USA is a good country to live in": {
+        "-1": {
+          "sum_ids": [
+            3, 0, 3, 2, 2, 2, 4, 2, 2, 2, 1, 1, 1, 1, 1, 1, 4, 4, 4, 4, 1, 1, 1,
+            4, 2, 1, 2, 2, 0, 0, 2, 2, 2, 0, 2, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0
+          ],
+          "sums": {
+            "0": "The USA is not a good country to live in because many people are racists",
+            "1": "healthcare and education are extremely expensive to middle class",
+            "2": "Today, The USA has intense political divisions that only seem to keep growing",
+            "3": "the us culture promotes materialism",
+            "4": "not everything is like in the movies the united states has a lot of inequality"
+          },
+          "runtime": 12.50804
+        },
+        "1": {
+          "sum_ids": [
+            1, 1, 0, 1, 4, 1, 6, 0, 6, 0, 1, 1, 1, 4, 1, 1, 1, 1, 0, 4, 4, 4, 1,
+            1, 0, 3, 7, 3, 3, 3, 0, 0, 2, 5, 5, 5, 2, 7, 2, 2, 2, 2, 5, 8, 8, 8,
+            3, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "sums": {
+            "0": "The United States is the country of opportunities",
+            "1": "USA is a good country to live in since its economy is sustainable",
+            "2": "The United States is a magnificent country because it is synonymous with freedom",
+            "3": "The USA offers an abundance of vast open lands, wilderness and beautiful landscapes.",
+            "4": "the United States is a real economic power",
+            "5": "The USA has more freedoms than any other country.",
+            "6": "Peace, tranquility, prosperity and justice",
+            "7": "The USA is a good country to live in because it is a democracy country",
+            "8": "The USA has a multicultural society."
+          },
+          "runtime": 41.90801
+        }
+      }
+    },
+    "(0.3, 0.8750000000000001)": {
+      "Routine child vaccinations should be mandatory": {
+        "-1": {
+          "sum_ids": [
+            3, 3, 3, 3, 3, 3, 3, 1, 1, 3, 1, 1, 1, 1, 2, 2, 2, 2, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 1,
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+          ],
+          "sums": {
+            "0": "Child vaccination should not be mandatory as there are often side effects from them",
+            "1": "parents should have the freedom to decide what they consider best for their children",
+            "2": "Child vaccination should not be mandatory because they don't suffer from symptoms",
+            "3": "Forcing people to have their children vaccinated goes against free will."
+          },
+          "runtime": 32.42975
+        },
+        "1": {
+          "sum_ids": [
+            0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "sums": {
+            "0": "Routine child vaccination is essential to ensure that the population are protected from transmittable diseases",
+            "1": "The use of child vaccines saves lives"
+          },
+          "runtime": 21.88828
+        }
+      },
+      "Social media platforms should be regulated by the government": {
+        "-1": {
+          "sum_ids": [
+            2, 0, 3, 3, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0,
+            1, 1
+          ],
+          "sums": {
+            "0": "Social media platform should not be regulated out of respect for freedom of expression",
+            "1": "The social media platform should not be regulated by the government because it intrudes privacy",
+            "2": "the government is corrupt and could take advantage of this",
+            "3": "the problem is that they could use it for their own benefit"
+          },
+          "runtime": 24.97151
+        },
+        "1": {
+          "sum_ids": [
+            0, 3, 3, 1, 2, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 2, 1, 0, 0,
+            3, 4, 3, 2, 4, 2, 2, 2, 2, 2, 2, 2, 0, 2, 0, 2, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1,
+            1
+          ],
+          "sums": {
+            "0": "Social media platforms should be regulated by the government to prevent any potential crimes",
+            "1": "Social media should be regulated because contains tons of material that can be considered harmful",
+            "2": "Regulation could prevent the spread of fake news",
+            "3": "Social media platform must be regulated for the good of society",
+            "4": "social networks being monitored by the government, would cause less negative impact on society"
+          },
+          "runtime": 27.17777
+        }
+      },
+      "The USA is a good country to live in": {
+        "-1": {
+          "sum_ids": [
+            3, 0, 3, 2, 2, 2, 4, 2, 2, 2, 1, 1, 1, 1, 1, 1, 4, 4, 4, 4, 1, 1, 1,
+            4, 2, 1, 2, 2, 0, 0, 2, 2, 2, 0, 2, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0
+          ],
+          "sums": {
+            "0": "The USA is not a good country to live in because many people are racists",
+            "1": "healthcare and education are extremely expensive to middle class",
+            "2": "Today, The USA has intense political divisions that only seem to keep growing",
+            "3": "the us culture promotes materialism",
+            "4": "not everything is like in the movies the united states has a lot of inequality"
+          },
+          "runtime": 12.53914
+        },
+        "1": {
+          "sum_ids": [
+            1, 1, 0, 1, 3, 1, 6, 0, 6, 0, 1, 1, 1, 3, 1, 1, 1, 1, 0, 3, 3, 3, 1,
+            1, 0, 4, 7, 4, 4, 4, 0, 0, 2, 5, 5, 5, 2, 7, 2, 2, 2, 2, 5, 4, 4, 4,
+            4, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "sums": {
+            "0": "The United States is the country of opportunities",
+            "1": "USA is a good country to live in since its economy is sustainable",
+            "2": "The United States is a magnificent country because it is synonymous with freedom",
+            "3": "the United States is a real economic power",
+            "4": "The USA offers an abundance of vast open lands, wilderness and beautiful landscapes.",
+            "5": "The USA has more freedoms than any other country.",
+            "6": "Peace, tranquility, prosperity and justice",
+            "7": "The USA is a good country to live in because it is a democracy country"
+          },
+          "runtime": 39.61787
+        }
+      }
+    },
+    "(0.3, 0.9000000000000001)": {
+      "Routine child vaccinations should be mandatory": {
+        "-1": {
+          "sum_ids": [
+            3, 3, 3, 3, 3, 3, 3, 1, 1, 3, 1, 1, 1, 1, 2, 2, 2, 2, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 1,
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+          ],
+          "sums": {
+            "0": "Child vaccination should not be mandatory as there are often side effects from them",
+            "1": "parents should have the freedom to decide what they consider best for their children",
+            "2": "Child vaccination should not be mandatory because they don't suffer from symptoms",
+            "3": "Forcing people to have their children vaccinated goes against free will."
+          },
+          "runtime": 32.2307
+        },
+        "1": {
+          "sum_ids": [
+            0, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "sums": {
+            "0": "Routine child vaccination is essential to ensure that the population are protected from transmittable diseases",
+            "1": "The use of child vaccines saves lives",
+            "2": "vaccination in the child population due to the lethality of the new strains is essential"
+          },
+          "runtime": 23.14117
+        }
+      },
+      "Social media platforms should be regulated by the government": {
+        "-1": {
+          "sum_ids": [
+            2, 0, 3, 3, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0,
+            1, 1
+          ],
+          "sums": {
+            "0": "Social media platform should not be regulated out of respect for freedom of expression",
+            "1": "The social media platform should not be regulated by the government because it intrudes privacy",
+            "2": "the government is corrupt and could take advantage of this",
+            "3": "the problem is that they could use it for their own benefit"
+          },
+          "runtime": 24.38742
+        },
+        "1": {
+          "sum_ids": [
+            0, 3, 3, 1, 2, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 2, 1, 0, 0,
+            3, 4, 3, 2, 4, 2, 2, 2, 2, 2, 2, 2, 0, 2, 0, 2, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1,
+            1
+          ],
+          "sums": {
+            "0": "Social media platforms should be regulated by the government to prevent any potential crimes",
+            "1": "Social media should be regulated because contains tons of material that can be considered harmful",
+            "2": "Regulation could prevent the spread of fake news",
+            "3": "Social media platform must be regulated for the good of society",
+            "4": "social networks being monitored by the government, would cause less negative impact on society"
+          },
+          "runtime": 27.03551
+        }
+      },
+      "The USA is a good country to live in": {
+        "-1": {
+          "sum_ids": [
+            3, 0, 3, 2, 2, 2, 4, 2, 2, 2, 1, 1, 1, 1, 1, 1, 4, 4, 4, 4, 1, 1, 1,
+            4, 2, 1, 2, 2, 0, 0, 2, 2, 2, 0, 2, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0
+          ],
+          "sums": {
+            "0": "The USA is not a good country to live in because many people are racists",
+            "1": "healthcare and education are extremely expensive to middle class",
+            "2": "Today, The USA has intense political divisions that only seem to keep growing",
+            "3": "the us culture promotes materialism",
+            "4": "not everything is like in the movies the united states has a lot of inequality"
+          },
+          "runtime": 12.71445
+        },
+        "1": {
+          "sum_ids": [
+            1, 1, 0, 1, 0, 1, 5, 0, 5, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1,
+            1, 0, 3, 6, 3, 3, 3, 0, 0, 2, 4, 4, 4, 2, 6, 2, 2, 2, 2, 4, 3, 3, 3,
+            3, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "sums": {
+            "0": "The United States is the country of opportunities",
+            "1": "USA is a good country to live in since its economy is sustainable",
+            "2": "The United States is a magnificent country because it is synonymous with freedom",
+            "3": "The USA offers an abundance of vast open lands, wilderness and beautiful landscapes.",
+            "4": "The USA has more freedoms than any other country.",
+            "5": "Peace, tranquility, prosperity and justice",
+            "6": "The USA is a good country to live in because it is a democracy country"
+          },
+          "runtime": 37.74163
+        }
+      }
+    },
+    "(0.3, 0.9250000000000002)": {
+      "Routine child vaccinations should be mandatory": {
+        "-1": {
+          "sum_ids": [
+            4, 2, 2, 2, 4, 4, 4, 1, 2, 2, 1, 1, 2, 1, 3, 3, 3, 3, 0, 0, 5, 0, 0,
+            0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 1, 4, 1,
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 2
+          ],
+          "sums": {
+            "0": "Child vaccination should not be mandatory as there are often side effects from them",
+            "1": "parents should have the freedom to decide what they consider best for their children",
+            "2": "When vaccines are mandatory, they can infringe on family religious choices",
+            "3": "Child vaccination should not be mandatory because they don't suffer from symptoms",
+            "4": "Forcing people to have their children vaccinated goes against free will.",
+            "5": "Child vaccination isn't necessary and may result in other diseases for children"
+          },
+          "runtime": 35.59884
+        },
+        "1": {
+          "sum_ids": [
+            0, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "sums": {
+            "0": "Routine child vaccination is essential to ensure that the population are protected from transmittable diseases",
+            "1": "The use of child vaccines saves lives",
+            "2": "vaccination in the child population due to the lethality of the new strains is essential"
+          },
+          "runtime": 23.26044
+        }
+      },
+      "Social media platforms should be regulated by the government": {
+        "-1": {
+          "sum_ids": [
+            2, 0, 3, 3, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0,
+            1, 1
+          ],
+          "sums": {
+            "0": "Social media platform should not be regulated out of respect for freedom of expression",
+            "1": "The social media platform should not be regulated by the government because it intrudes privacy",
+            "2": "the government is corrupt and could take advantage of this",
+            "3": "the problem is that they could use it for their own benefit"
+          },
+          "runtime": 23.87666
+        },
+        "1": {
+          "sum_ids": [
+            0, 4, 4, 2, 3, 2, 0, 2, 0, 0, 0, 0, 0, 0, 2, 0, 2, 2, 0, 3, 2, 0, 0,
+            4, 5, 4, 1, 5, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 3, 3, 2, 3,
+            3
+          ],
+          "sums": {
+            "0": "Social media platforms should be regulated by the government to prevent any potential crimes",
+            "1": "Regulation could prevent the spread of fake news",
+            "2": "Social media should be regulated because contains tons of material that can be considered harmful",
+            "3": "social media must be regulated because many children view unwanted information online",
+            "4": "Social media platform must be regulated for the good of society",
+            "5": "social networks being monitored by the government, would cause less negative impact on society"
+          },
+          "runtime": 28.38431
+        }
+      },
+      "The USA is a good country to live in": {
+        "-1": {
+          "sum_ids": [
+            2, 0, 2, 2, 0, 0, 2, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 2, 1, 1, 1,
+            1, 2, 1, 2, 2, 0, 0, 2, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "sums": {
+            "0": "The USA is not a good country to live in because many people are racists",
+            "1": "healthcare and education are extremely expensive to middle class",
+            "2": "the us culture promotes materialism"
+          },
+          "runtime": 10.84829
+        },
+        "1": {
+          "sum_ids": [
+            1, 1, 0, 1, 0, 1, 2, 0, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1,
+            1, 0, 3, 5, 3, 3, 3, 0, 0, 2, 4, 4, 4, 2, 5, 2, 2, 2, 2, 4, 3, 3, 3,
+            3, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "sums": {
+            "0": "The United States is the country of opportunities",
+            "1": "USA is a good country to live in since its economy is sustainable",
+            "2": "The United States is a magnificent country because it is synonymous with freedom",
+            "3": "The USA offers an abundance of vast open lands, wilderness and beautiful landscapes.",
+            "4": "The USA has more freedoms than any other country.",
+            "5": "The USA is a good country to live in because it is a democracy country"
+          },
+          "runtime": 35.10809
+        }
+      }
+    },
+    "(0.3, 0.9500000000000002)": {
+      "Routine child vaccinations should be mandatory": {
+        "-1": {
+          "sum_ids": [
+            5, 2, 2, 2, 5, 5, 5, 1, 2, 2, 1, 1, 2, 1, 3, 3, 3, 3, 0, 0, 6, 0, 0,
+            0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 1, 5, 1,
+            4, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 4, 1, 4, 4, 1, 1, 2
+          ],
+          "sums": {
+            "0": "Child vaccination should not be mandatory as there are often side effects from them",
+            "1": "parents should have the freedom to decide what they consider best for their children",
+            "2": "When vaccines are mandatory, they can infringe on family religious choices",
+            "3": "Child vaccination should not be mandatory because they don't suffer from symptoms",
+            "4": "childcare is the responsibility of the parents and is a matter of conscience",
+            "5": "Forcing people to have their children vaccinated goes against free will.",
+            "6": "Child vaccination isn't necessary and may result in other diseases for children"
+          },
+          "runtime": 37.93168
+        },
+        "1": {
+          "sum_ids": [
+            0, 2, 1, 1, 1, 3, 2, 1, 1, 1, 1, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "sums": {
+            "0": "Routine child vaccination is essential to ensure that the population are protected from transmittable diseases",
+            "1": "The use of child vaccines saves lives",
+            "2": "Vaccination should be a health policy to reduce infant mortality.",
+            "3": "vaccination in the child population due to the lethality of the new strains is essential"
+          },
+          "runtime": 24.3795
+        }
+      },
+      "Social media platforms should be regulated by the government": {
+        "-1": {
+          "sum_ids": [
+            2, 0, 3, 3, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0,
+            1, 1
+          ],
+          "sums": {
+            "0": "Social media platform should not be regulated out of respect for freedom of expression",
+            "1": "The social media platform should not be regulated by the government because it intrudes privacy",
+            "2": "the government is corrupt and could take advantage of this",
+            "3": "the problem is that they could use it for their own benefit"
+          },
+          "runtime": 23.78214
+        },
+        "1": {
+          "sum_ids": [
+            0, 4, 4, 2, 3, 2, 0, 2, 0, 0, 0, 0, 0, 0, 2, 0, 2, 2, 0, 3, 2, 0, 0,
+            4, 5, 4, 1, 5, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 3, 3, 2, 3,
+            3
+          ],
+          "sums": {
+            "0": "Social media platforms should be regulated by the government to prevent any potential crimes",
+            "1": "Regulation could prevent the spread of fake news",
+            "2": "Social media should be regulated because contains tons of material that can be considered harmful",
+            "3": "social media must be regulated because many children view unwanted information online",
+            "4": "Social media platform must be regulated for the good of society",
+            "5": "social networks being monitored by the government, would cause less negative impact on society"
+          },
+          "runtime": 28.03067
+        }
+      },
+      "The USA is a good country to live in": {
+        "-1": {
+          "sum_ids": [
+            2, 0, 2, 2, 0, 0, 2, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 2, 1, 1, 1,
+            1, 2, 1, 2, 2, 0, 0, 2, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "sums": {
+            "0": "The USA is not a good country to live in because many people are racists",
+            "1": "healthcare and education are extremely expensive to middle class",
+            "2": "the us culture promotes materialism"
+          },
+          "runtime": 10.99244
+        },
+        "1": {
+          "sum_ids": [
+            1, 1, 0, 1, 0, 1, 2, 0, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1,
+            1, 0, 2, 0, 0, 2, 0, 0, 0, 2, 3, 3, 3, 2, 2, 2, 2, 2, 2, 3, 2, 3, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ],
+          "sums": {
+            "0": "The United States is the country of opportunities",
+            "1": "USA is a good country to live in since its economy is sustainable",
+            "2": "The United States is a magnificent country because it is synonymous with freedom",
+            "3": "The USA has more freedoms than any other country."
+          },
+          "runtime": 32.10217
+        }
+      }
+    }
+  },
+  "parameter_names": ["min_proportion_candidates", "match_scorer_t"],
+  "parameter_values": [
+    [0.1, 0.3],
+    [
+      0.75, 0.775, 0.8, 0.8250000000000001, 0.8500000000000001,
+      0.8750000000000001, 0.9000000000000001, 0.9250000000000002,
+      0.9500000000000002
+    ]
+  ]
+}
