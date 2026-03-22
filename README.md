@@ -1,6 +1,6 @@
-# Argument Summarization (ArgSum) - Generating and Evaluating Summaries of Argumentative Discourse with LLMs
+# Argument Summarization and its Evaluation in the Era of Large Language Models
 
-This folder contains the code and data for our EMNLP 2025 paper: [Argument Summarization and its Evaluation in the Era of Large Language Models](https://aclanthology.org/2025.emnlp-main.1797/).
+This repository contains the code and data for our EMNLP 2025 paper: [Argument Summarization and its Evaluation in the Era of Large Language Models](https://aclanthology.org/2025.emnlp-main.1797/).
 
 
 [![](https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&labelColor=gray)](https://arxiv.org/abs/2503.00847)
